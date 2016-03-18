@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <title>Grand Awards Judge Login</title>
+        <style type="text/css">
+<!--
+.TextFontCenteredBold-Red {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+-->
+        </style>
+    <link href="CSSFFont.css" rel="stylesheet" type="text/css">
+</head>
+	
+    <body>
+        <form method="post" action="checkname.php">
+        <p class="PageHeaderFont">Grand Awards Judge Database Access Page</p>
+        <p class="TextFontCenteredBold"><span class="TextFontCenteredBold-Red">The 2015 CSEF is our 60th Anniversary and with the additional space in the newly remodeled Lory Student Center, we can accommodate </span>100 more projects - please sign up now and invite your friends!!</p>
+  <p class="TextFont"><strong>New Grand Awards Judge Registration:</strong><br>
+  Please click on the &quot;create new account&quot; button and fill in all the information on the form. You will receive a confirmation email once you have created your account. All future CSEF correspondence will be emailed or mailed to you using the information that you provide in the forms.</p>
+  <p class="TextFont"><strong>Returning Grand Awards Judges Registration and Update:</strong><br>
+  If you have participated in previous Colorado Science and Engineering Fairs as a Grand Awards Judge, please login to your account and update any information that may have changed and what your preferences are for judging. (Your login name and password will be found on the Judges Information Page that you received in the mail.)</p>
+  <p class="TextFont"><strong>TO ALL GRAND AWARDS JUDGE REGISTRANTS:<br>
+  </strong>Please make sure to include an email address with your registration/update where you can always be reached. Due to increasing costs, we would like to eliminate the <strong>2015</strong> &quot;CSEF Grand Awards Judge Invite&quot; letter and only notify judges currently in the database (2015) by email that registration is open (all other mailings will be the same). So, this year, please make sure to save/copy the &quot;yellow form&quot; that will be mailed to you at the end of January 2014.</p>
+  <hr>
+  <p class="TextFontCentered"><strong>Conflict of Interest Agreement  </strong></p>
+  <blockquote>
+    <p class="TextFont">I hereby acknowledge that by submitting this registration, I agree to serve as a Grand Awards Judge for the 2015 Colorado Science and Engineering Fair (CSEF). I agree to act in a positive and ethical manner in which each student encountered is treated fairly and respectfully. I agree to disclose all conflicts, potential conflicts and perceived conflicts of interest resulting from direct competitive, collaborative or any other relationships with any of the students and to recuse myself from judging in such circumstances.</p>
+    <p class="TextFont">Some examples of a conflict of interest are:<br>
+    • mentoring a student and then judging that student's project;<br>
+    • judging a project at one of the <a href="http://www.csef.colostate.edu/Regional_Science_Fairs.htm" target="_blank"><strong>Colorado Regional Science Fairs</strong></a> and judging the same project at the CSEF;<br>
+    • being a captain/judge in the same category and division you were in at a regional science fair; or<br>
+    • being a sponsor, teacher, or relative to a student that you would be judging.</p>
+    <p class="TextFont">I agree to notify CSEF's Grand Award Judging Coordinator immediately if I become aware of any circumstance that would potentially compromise my ability to attend the event or evaluate finalists' projects. (If you have any questions regarding this Conflict of Interest Agreement, please contact Nancy Glissmann at <a href="mailto:GrandAwardsCSEF@gmail.com"><strong>GrandAwardsCSEF@gmail.com</strong></a>.)</p>
+  </blockquote>
+  <hr>
+  <p class="TextFont">If you are having difficulties registering, either as a New Grand Awards Judge or a Returning Grand Awards Judge, please contact the CSEF Director (<a href="mailto:csef@lamar.colostate.edu"><strong>csef@lamar.colostate.edu</strong></a> or 970-491-7716) immediately for assistance.  </p>
+  <p class="TextFontCentered">
+    <input type="hidden" name="-lay" value="$layoutName">
+  <input type="hidden" name="-action" value="find">
+  Last Name:
+    <input class="fieldinput" type="text" size="30" name="0" value="">
+  Password:
+    <input class="fieldinput" type="password" size="30" name="1" value="">
+  <input type="submit" class="TextFontCentered" name="-find" value="Login"></p>
+</form>
+<FORM METHOD="LINK" ACTION="add.php">
+  <div class="TextFontCenteredBold">
+    <INPUT TYPE="submit" class="TextFontCentered" VALUE="Create New Account">
+    </div>
+    </FORM>               
+    </body>
+</html>
+

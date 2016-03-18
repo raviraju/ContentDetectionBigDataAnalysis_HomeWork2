@@ -1,0 +1,76 @@
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ ls
+CoreNLP_PersonNameExtract.java  input  output
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ export TIKA_APP=/media/ravirajukrishna/Windows/Users/Ravi/Desktop/Tika_GitHub/tika/tika-app/target/tika-app-1.13-SNAPSHOT.jar
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ export CORE_NLP_JAR=~/CoreNLP/tika-ner-corenlp/target/tika-ner-corenlp-addon-1.0-SNAPSHOT-jar-with-dependencies.jar
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ javac -classpath $TIKA_APP:$CORE_NLP_JAR CoreNLP_PersonNameExtract.java 
+
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ java -Dner.impl.class=org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser -classpath $TIKA_APP:$CORE_NLP_JAR:. CoreNLP_PersonNameExtract input/ output/
+fetchNames for File 771769D437FA69756E6E54C747BE36070C3B5D6E39C654E8138EAD2883CF7554
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [2.3 sec].
+INFO  Available for service ? true
+fetchNames for File 95ECF9531BEE11A636907DDFBDF8FB96E8FAD0A0C76ECF33467F246CE0295121
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.7 sec].
+INFO  Available for service ? true
+fetchNames for File 0E97719948954A2E1B0379AE490A2BE02A6D2A45FCAFA429C41630B4C6CB2696
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File CEDB70C097627AF33E87F95C97997EAC87FA8995A5700381D743000E17E8E7E0
+WARN  Parsing Error, Skipping Object
+java.io.IOException: expected='endstream' actual='' at offset 61969
+	at org.apache.pdfbox.pdfparser.BaseParser.parseCOSStream(BaseParser.java:609)
+	at org.apache.pdfbox.pdfparser.PDFParser.parseObject(PDFParser.java:650)
+	at org.apache.pdfbox.pdfparser.PDFParser.parse(PDFParser.java:203)
+	at org.apache.pdfbox.pdmodel.PDDocument.load(PDDocument.java:1249)
+	at org.apache.pdfbox.pdmodel.PDDocument.load(PDDocument.java:1214)
+	at org.apache.tika.parser.pdf.PDFParser.parse(PDFParser.java:137)
+	at org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)
+	at org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)
+	at org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:120)
+	at org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:136)
+	at CoreNLP_PersonNameExtract.parseToPlainText(CoreNLP_PersonNameExtract.java:25)
+	at CoreNLP_PersonNameExtract.fetchNames(CoreNLP_PersonNameExtract.java:32)
+	at CoreNLP_PersonNameExtract.main(CoreNLP_PersonNameExtract.java:60)
+WARN  Did not found XRef object at specified startxref position 0
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.6 sec].
+INFO  Available for service ? true
+fetchNames for File try.txt
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File 2FCCEEBDE1983FD81075A8E60FF2F64E451DAC00D415F3E1BA139C4E0AB972E5
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.6 sec].
+INFO  Available for service ? true
+fetchNames for File StanfordCoreNlp2014.pdf
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File 3383028E7072B68E29687CCD37B8E65363B739B5FDA7F0CA240460BD450089A6
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File 140BB139FA741269C49D7C4DC40D6B4D6D6AE21AED00DFE0FCACD2624D62E996
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File 504BFCE26D48E4F28C0B4429A29FB53546FD9EC164DC83C2CDD750E80E8C82D7
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File Text Extraction from the Web via Text-to-Tag Ratio.pdf
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.7 sec].
+INFO  Available for service ? true
+Mar 18, 2016 2:12:18 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ௞ (U+BDE, decimal: 3038)
+fetchNames for File 3F72463903BDE694C34FCF626FF569CFD74161915499DAD20A269C42C0A0352F
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.6 sec].
+INFO  Available for service ? true
+fetchNames for File D0ADD21DF80BF3750DCF8B64764BB1DD81BDF8B18222D39A7D670BAD9C00A8D2
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [2.0 sec].
+INFO  Available for service ? true
+fetchNames for File 1FAAE941B2E212EEC096EB0B2E9DB75FCC2FAB2E99AFA8DB6B48534478505E4E
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+fetchNames for File F46228587DD92732C27F41EE928B6A4C4A495FFE9737BE91088EA1BE1AE0D1D3
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [1.5 sec].
+INFO  Available for service ? true
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$ ls output/
+result.json
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/coreNLP_person_names$

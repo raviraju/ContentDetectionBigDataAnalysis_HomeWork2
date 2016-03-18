@@ -1,0 +1,164 @@
+http://nlp.stanford.edu/software/CRF-NER.html
+
+export CORE_NLP_JAR=`find $PWD/target/tika-ner-corenlp-addon-*jar-with-dependencies.jar`
+export TIKA_APP=/media/ravirajukrishna/Windows/Users/Ravi/Desktop/Tika_GitHub/tika/tika-app/target/tika-app-1.13-SNAPSHOT.jar
+
+java -Dner.impl.class=org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser \
+      -classpath $TIKA_APP:$CORE_NLP_JAR org.apache.tika.cli.TikaCLI \
+      --config=tika-config.xml -m https://aclweb.org/anthology/Y/Y05/Y05-1027.pdf
+      
+      
+ravirajukrishna@ubuntu:~/CoreNLP/tika-ner-corenlp$ export CORE_NLP_JAR=`find $PWD/target/tika-ner-corenlp-addon-*jar-with-dependencies.jar`
+ravirajukrishna@ubuntu:~/CoreNLP/tika-ner-corenlp$ export TIKA_APP=/media/ravirajukrishna/Windows/Users/Ravi/Desktop/Tika_GitHub/tika/tika-app/target/tika-app-1.13-SNAPSHOT.jar
+ravirajukrishna@ubuntu:~/CoreNLP/tika-ner-corenlp$ 
+ravirajukrishna@ubuntu:~/CoreNLP/tika-ner-corenlp$ java -Dner.impl.class=org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser \
+>       -classpath $TIKA_APP:$CORE_NLP_JAR org.apache.tika.cli.TikaCLI \
+>       --config=tika-config.xml -m https://aclweb.org/anthology/Y/Y05/Y05-1027.pdf
+INFO  going to load, instantiate and bind the instance of org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser
+Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [2.4 sec].
+INFO  Available for service ? true
+INFO  org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser is available ? true
+INFO  Number of NERecognisers in chain 1
+Content-Length: 67524
+Content-Type: application/pdf
+NER_DATE: 1998
+NER_DATE: 1996
+NER_DATE: 1994
+NER_DATE: 2003
+NER_DATE: 2002
+NER_DATE: 2000
+NER_DATE: 1989
+NER_DATE: 1999
+NER_LOCATION: Hong Kong
+NER_LOCATION: United States
+NER_LOCATION: Japan
+NER_LOCATION: Europe
+NER_LOCATION: K.M.
+NER_LOCATION: United Kingdom
+NER_LOCATION: L.F.
+NER_LOCATION: Thailand
+NER_LOCATION: Russia
+NER_LOCATION: Greece
+NER_LOCATION: Nobesawa
+NER_LOCATION: U.K
+NER_LOCATION: China
+NER_LOCATION: Taiwan
+NER_LOCATION: Latin
+NER_LOCATION: K.W.
+NER_LOCATION: T.J.
+NER_LOCATION: Noda Chiba
+NER_LOCATION: U.K.
+NER_LOCATION: U.S.A.
+NER_LOCATION: France
+NER_LOCATION: the U.S.A.
+NER_LOCATION: Germany
+NER_LOCATION: Korea
+NER_ORGANIZATION: Dunning
+NER_ORGANIZATION: Language Detection Based on Unigram Analysis and Decision Trees
+NER_ORGANIZATION: Name Corpora
+NER_ORGANIZATION: 18th International Conference on Computational Linguistics
+NER_ORGANIZATION: Mutual Information
+NER_ORGANIZATION: Language Identification Using Minimum Linguistic Information
+NER_ORGANIZATION: Q U.S.A
+NER_ORGANIZATION: 27th Annual Conference of the Association of Computational Linguistics
+NER_ORGANIZATION: Very Large Corpora
+NER_ORGANIZATION: Interpolated Trigram Eleven
+NER_ORGANIZATION: U.S.A
+NER_ORGANIZATION: Interpolated Trigram
+NER_ORGANIZATION: Unigram Ratio Ranking of Each Corpus
+NER_ORGANIZATION: 3rd International Conference on Spoken Language Processing
+NER_ORGANIZATION: Domain-Specific Statistical Data
+NER_ORGANIZATION: Word Association Norms
+NER_ORGANIZATION: 19th Asia-Pacific Conference on Language
+NER_ORGANIZATION: I. Rogina
+NER_ORGANIZATION: Independent Named Entity Recognition Combining Morphological
+NER_ORGANIZATION: New Mexico State University
+NER_ORGANIZATION: Person Names Based on Statistical Information Shiho Nobesawa Department of Information Sciences Tokyo University of Science 2641 Yamazaki
+NER_ORGANIZATION: E. Barnard
+NER_ORGANIZATION: IREX Workshop
+NER_ORGANIZATION: Joint SIG-DAT Conference on Empirical Methods in Natural Language Processing
+NER_ORGANIZATION: Trigram Trigram
+NER_ORGANIZATION: Unigram Unigram
+NER_ORGANIZATION: C. Pöpper
+NER_ORGANIZATION: Contextual Evidence
+NER_ORGANIZATION: Computational Linguistics
+NER_ORGANIZATION: Computer Research Laboratory Technical
+NER_ORGANIZATION: I. Dagan
+NER_ORGANIZATION: Natural Language Processing
+NER_ORGANIZATION: Length Data
+NER_ORGANIZATION: IEEE International Conference on Acoustics
+NER_ORGANIZATION: Ikuo Tahara Department of Information Sciences Tokyo University of Science 2641 Yamazaki
+NER_ORGANIZATION: I. Trancoso
+NER_ORGANIZATION: 5th International Conference on Spoken Language Processing
+NER_ORGANIZATION: Person Names Person
+NER_ORGANIZATION: 10th Portuguese Conference on Pattern Recognition
+NER_ORGANIZATION: Trancoso
+NER_ORGANIZATION: Statistical Identification of Language
+NER_ORGANIZATION: U.S.A.
+NER_ORGANIZATION: Segment-Based Automatic Language Identification
+NER_ORGANIZATION: 36th Annual Meeting of the Association for Computational Linguistics
+NER_ORGANIZATION: the U.S.A.
+NER_ORGANIZATION: Memory-Based Approach to Learning Shallow Natural Language Patterns
+NER_ORGANIZATION: 17th International Conference on Computational Linguistics
+NER_PERCENT: 100%
+NER_PERCENT: 81.97%
+NER_PERCENT: 12.53%
+NER_PERCENT: 75.58%
+NER_PERCENT: 3.30%
+NER_PERCENT: 71.57%
+NER_PERCENT: 5%
+NER_PERCENT: 65.10%
+NER_PERCENT: 71.31%
+NER_PERCENT: 1%
+NER_PERCENT: 71.61%
+NER_PERCENT: 0.48%
+NER_PERCENT: 85.75%
+NER_PERCENT: 43.40%
+NER_PERCENT: 78.44%
+NER_PERCENT: 69.64%
+NER_PERCENT: 28.97%
+NER_PERCENT: 10%
+NER_PERCENT: 30%
+NER_PERCENT: 95.39%
+NER_PERCENT: 50%
+NER_PERCENT: 38.12%
+NER_PERCENT: 60%
+NER_PERCENT: 92%
+NER_PERCENT: 70%
+NER_PERCENT: 16.51%
+NER_PERCENT: 80%
+NER_PERCENT: 90%
+NER_PERCENT: 71.38%
+NER_PERCENT: 50.88%
+NER_PERCENT: 59.18%
+NER_PERCENT: 89.58%
+NER_PERSON: M. Adda-Decker
+NER_PERSON: D. Yarowsky
+NER_PERSON: Hazen 1994b
+NER_PERSON: A. Waibel
+NER_PERSON: Hazen 1994a
+NER_PERSON: P. Hanks
+NER_PERSON: V.W. Zue
+NER_PERSON: L.F. Lamel
+NER_PERSON: Ann B. Chan
+NER_PERSON: Schultz
+NER_PERSON: M. Nakanishi
+NER_PERSON: H. Saito
+NER_PERSON: J. Nioche
+NER_PERSON: Uta Muller
+NER_PERSON: Grefenstette
+NER_PERSON: K. Sato
+NER_PERSON: Y. Krymolowski
+NER_PERSON: Uta Mueller
+X-Parsed-By: org.apache.tika.parser.CompositeParser
+X-Parsed-By: org.apache.tika.parser.ner.NamedEntityParser
+resourceName: Y05-1027.pdf
+ravirajukrishna@ubuntu:~/CoreNLP/tika-ner-corenlp$
+
+
+
+ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem2/ContentDetectionBigData/HomeWork/HomeWork2/CoreNLP_Names/src$ 
+export TIKA_APP=/media/ravirajukrishna/Windows/Users/Ravi/Desktop/Tika_GitHub/tika/tika-app/target/tika-app-1.13-SNAPSHOT.jar
+export CORE_NLP_JAR=~/CoreNLP/tika-ner-corenlp/target/tika-ner-corenlp-addon-1.0-SNAPSHOT-jar-with-dependencies.jar
+javac -classpath $TIKA_APP:$CORE_NLP_JAR Main.java
+java -Dner.impl.class=org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser -classpath $TIKA_APP:$CORE_NLP_JAR:. Main input/ output/
