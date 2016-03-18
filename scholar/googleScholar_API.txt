@@ -1,0 +1,3 @@
+reference : http://cxf.apache.org/docs/jax-rs-client-api.html
+Refer to communicate with web service
+C:\Users\Ravi\Desktop\Tika_GitHub\tika\tika-parsers\src\main\java\org\apache\tika\parser\journal\GrobidRESTParser.java

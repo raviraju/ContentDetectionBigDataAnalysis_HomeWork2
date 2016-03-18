@@ -1,0 +1,44 @@
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ ls
+fetchRelatedPub.py  googleScholar_API.txt  __init__.py  result.json  SalmanKhan.csv  scholar.py  scholar_result.txt
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python fetchRelatedPub.py 
+usage : python fetchRelatedPub.py file_author_names.json
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python fetchRelatedPub.py result.json 
+Albert J.Ellis
+Fripp Nearshore
+Tolomato Manatanzas
+Marion
+enp.bobf1.met-Bob Allen
+Philip Ogren
+Ewan Klein
+Christopher Potts
+Mihai Surdeanu
+Chi
+Klaus Obermayer
+Edward Loper
+R. Landefeld
+Addison Wesley
+Andrew Ng
+I. Gurevych
+^CTraceback (most recent call last):
+  File "fetchRelatedPub.py", line 38, in <module>
+    sys.exit(main())
+  File "fetchRelatedPub.py", line 35, in main
+    getPublications(author)
+  File "fetchRelatedPub.py", line 17, in getPublications
+    querier.send_query(query)
+  File "/home/ravirajukrishna/ContentDetectionBigDataAnalysis_HomeWork2/scholar/scholar.py", line 988, in send_query
+    err_msg='results retrieval failed')
+  File "/home/ravirajukrishna/ContentDetectionBigDataAnalysis_HomeWork2/scholar/scholar.py", line 1059, in _get_http_response
+    html = hdl.read()
+  File "/usr/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/usr/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/usr/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+KeyboardInterrupt
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python scholar.py -a "Albert J.Ellis"
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ 

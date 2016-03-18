@@ -1,0 +1,201 @@
+ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem2/ContentDetectionBigData/HomeWork/HomeWork2/Scholar$ python scholar.py -a "Albert J.Ellis"
+         Title Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC
+           URL http://www.sciencedirect.com/science/article/pii/S037026931200857X
+          Year 2012
+     Citations 7313
+      Versions 70
+    Cluster ID 1650605866782918575
+Citations list http://scholar.google.com/scholar?cites=1650605866782918575&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1650605866782918575&hl=en&as_sdt=0,5
+       Excerpt A search for the Standard Model Higgs boson in proton–proton collisions with the ATLAS detector at the LHC is presented. The datasets used correspond to integrated luminosities of approximately 4.8 fb− 1 collected at s= 7 TeV in 2011 and 5.8 fb− 1 at s= 8 TeV in 2012.  ...
+
+         Title The ATLAS experiment at the CERN large hadron collider
+           URL http://waseda.pure.elsevier.com/en/publications/the-atlas-experiment-at-the-cern-large-hadron-collider(b3c4e9fa-0f6d-4124-a940-65a93741f653).html
+          Year 2008
+     Citations 6106
+      Versions 49
+    Cluster ID 4583933401305623738
+Citations list http://scholar.google.com/scholar?cites=4583933401305623738&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4583933401305623738&hl=en&as_sdt=0,5
+       Excerpt Aad G, Abat E, Abdallah J, Abdelalim AA, Abdesselam A, Abdinov O et al. The ATLAS experiment at the CERN large hadron collider. Journal of Instrumentation. 2008; 3 (8). S08003. Available from: 10.1088/1748-0221/3/08/S08003
+
+         Title Probing quantum gravity using photons from a flare of the active galactic nucleus Markarian 501 observed by the MAGIC telescope
+           URL http://www.sciencedirect.com/science/article/pii/S0370269308010691
+          Year 2008
+     Citations 197
+      Versions 12
+    Cluster ID 7119043896574150540
+Citations list http://scholar.google.com/scholar?cites=7119043896574150540&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7119043896574150540&hl=en&as_sdt=0,5
+       Excerpt We analyze the timing of photons observed by the MAGIC telescope during a flare of the active galactic nucleus Mkn 501 for a possible correlation with energy, as suggested by some models of quantum gravity (QG), which predict a vacuum refractive index [Formula:  ...
+
+         Title Performance of missing transverse momentum reconstruction in proton-proton collisions at\ sqrt {s}= 7~\ mbox {TeV} with ATLAS
+           URL http://link.springer.com/10.1140/epjc/s10052-011-1844-6
+          Year 2012
+     Citations 1203
+      Versions 44
+    Cluster ID 6765814868791416441
+Citations list http://scholar.google.com/scholar?cites=6765814868791416441&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6765814868791416441&hl=en&as_sdt=0,5
+       Excerpt Abstract The measurement of missing transverse momentum in the ATLAS detector, described in this paper, makes use of the full event reconstruction and a calibration based on reconstructed physics objects. The performance of the missing transverse momentum  ...
+
+         Title Electron performance measurements with the ATLAS detector using the 2010 LHC proton-proton collision data
+           URL http://link.springer.com/article/10.1140/epjc/s10052-012-1909-1
+          Year 2012
+     Citations 1058
+      Versions 49
+    Cluster ID 16912577831440217489
+Citations list http://scholar.google.com/scholar?cites=16912577831440217489&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16912577831440217489&hl=en&as_sdt=0,5
+       Excerpt Abstract Detailed measurements of the electron performance of the ATLAS detector at the LHC are reported, using decays of the Z, W and J/ψ particles. Data collected in 2010 at\(\ sqrt {s}= 7\ mbox {~ TeV}\) are used, corresponding to an integrated luminosity of almost  ...
+
+         Title International Linear Collider reference design report volume 2: physics at the ILC
+           URL http://inspirehep.net/record/760615/
+          Year 2007
+     Citations 163
+      Versions 6
+    Cluster ID 7857854508654240504
+Citations list http://scholar.google.com/scholar?cites=7857854508654240504&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7857854508654240504&hl=en&as_sdt=0,5
+       Excerpt This article reviews the physics case for the ILC. Baseline running at 500 GeV as well as possible upgrades and options are discussed. The opportunities on Standard Model physics, Higgs physics, Supersymmetry and alternative theories beyond the Standard  ...
+
+         Title Jet energy measurement with the ATLAS detector in proton-proton collisions at\ sqrt {\ mathrm {s}}= 7\\ mathrm {TeV}
+           URL http://link.springer.com/article/10.1140/epjc/s10052-013-2304-2
+          Year 2013
+     Citations 901
+      Versions 44
+    Cluster ID 5651138599710101302
+Citations list http://scholar.google.com/scholar?cites=5651138599710101302&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5651138599710101302&hl=en&as_sdt=0,5
+       Excerpt Abstract The jet energy scale and its systematic uncertainty are determined for jets measured with the ATLAS detector at the LHC in proton-proton collision data at a centre-of-mass energy of\(\ sqrt {s}= 7\\ mathrm {TeV}\) corresponding to an integrated luminosity of  ...
+
+         Title Charged-particle multiplicities in pp interactions at measured with the ATLAS detector at the LHC
+           URL http://www.sciencedirect.com/science/article/pii/S0370269310003989
+          Year 2010
+     Citations 820
+      Versions 77
+    Cluster ID 7331889134933737133
+Citations list http://scholar.google.com/scholar?cites=7331889134933737133&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7331889134933737133&hl=en&as_sdt=0,5
+       Excerpt The first measurements from proton-proton collisions recorded with the ATLAS detector at the LHC are presented. Data were collected in December 2009 using a minimum-bias trigger during collisions at a centre-of-mass energy of 900 GeV. The charged-particle  ...
+
+         Title Improved luminosity determination in pp collisions at\ sqrt {s}= 7\\ mathrm {TeV} using the ATLAS detector at the LHC
+           URL http://link.springer.com/article/10.1140/epjc/s10052-013-2518-3
+          Year 2013
+     Citations 787
+      Versions 45
+    Cluster ID 11477579481550698253
+Citations list http://scholar.google.com/scholar?cites=11477579481550698253&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=11477579481550698253&hl=en&as_sdt=0,5
+       Excerpt Abstract The luminosity calibration for the ATLAS detector at the LHC during pp collisions at\(\ sqrt {s}= 7~\ mathrm {TeV}\) in 2010 and 2011 is presented. Evaluation of the luminosity scale is performed using several luminosity-sensitive detectors, and comparisons are  ...
+
+         Title Search for squarks and gluinos using final states with jets and missing transverse momentum with the ATLAS detector in proton–proton collisions
+           URL http://www.sciencedirect.com/science/article/pii/S037026931200192X
+          Year 2012
+     Citations 565
+      Versions 77
+    Cluster ID 4928849453707980817
+Citations list http://scholar.google.com/scholar?cites=4928849453707980817&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4928849453707980817&hl=en&as_sdt=0,5
+       Excerpt A search for squarks and gluinos in events containing jets, missing transverse momentum and no electrons or muons is presented. The data were recorded in 2011 by the ATLAS experiment in s= 7 TeV proton–proton collisions at the Large Hadron Collider. No excess  ...
+
+         Title Combined search for the Standard Model Higgs boson using up to 4.9 fb− 1 of pp collision data at with the ATLAS detector at the LHC
+           URL http://www.sciencedirect.com/science/article/pii/S0370269312001852
+          Year 2012
+     Citations 464
+      Versions 41
+    Cluster ID 15666273132714099953
+Citations list http://scholar.google.com/scholar?cites=15666273132714099953&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15666273132714099953&hl=en&as_sdt=0,5
+       Excerpt A combined search for the Standard Model Higgs boson with the ATLAS experiment at the LHC using datasets corresponding to integrated luminosities from 1.04 fb− 1 to 4.9 fb− 1 of pp collisions collected at s= 7 TeV is presented. The Higgs boson mass ranges 112.9– ...
+
+         Title Search for squarks and gluinos with the ATLAS detector in final states with jets and missing transverse momentum using s= 8 TeV proton-proton collision data
+           URL http://link.springer.com/article/10.1007/JHEP09(2014)176
+          Year 2014
+     Citations 352
+      Versions 40
+    Cluster ID 6733190093825362406
+Citations list http://scholar.google.com/scholar?cites=6733190093825362406&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6733190093825362406&hl=en&as_sdt=0,5
+       Excerpt A bstract A search for squarks and gluinos in final states containing high-p T jets, missing transverse momentum and no electrons or muons is presented. The data were recorded in 2012 by the ATLAS experiment in\(\ sqrt {s}= 8\) TeV proton-proton collisions at the Large  ...
+
+         Title Measurement of the inclusive W±and Z/γ* cross sections in the e and μ decay channels in pp collisions at s= 7 TeV with the ATLAS detector
+           URL http://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.072004
+          Year 2012
+     Citations 346
+      Versions 53
+    Cluster ID 6542920839826731423
+Citations list http://scholar.google.com/scholar?cites=6542920839826731423&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6542920839826731423&hl=en&as_sdt=0,5
+       Excerpt Abstract The production cross sections of the inclusive Drell-Yan processes W±→ ℓ ν and Z/γ*→ ℓ ℓ (ℓ= e, μ) are measured in proton-proton collisions at s= 7 TeV with the ATLAS detector. The cross sections are reported integrated over a fiducial kinematic range,  ...
+
+         Title Electron reconstruction and identification efficiency measurements with the ATLAS detector using the 2011 LHC proton–proton collision data
+           URL http://link.springer.com/10.1140/epjc/s10052-014-2941-0
+          Year 2014
+     Citations 366
+      Versions 52
+    Cluster ID 10302253069195107950
+Citations list http://scholar.google.com/scholar?cites=10302253069195107950&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=10302253069195107950&hl=en&as_sdt=0,5
+       Excerpt Many of the interesting physics processes to be measured at the LHC have a signature involving one or more isolated electrons. The electron reconstruction and identification efficiencies of the ATLAS detector at the LHC have been evaluated using proton–proton  ...
+
+         Title Study of the biologic effects of lapatinib, a reversible inhibitor of ErbB1 and ErbB2 tyrosine kinases, on tumor growth and survival pathways in patients with advanced  …
+           URL http://jco.ascopubs.org/content/23/11/2502.short
+          Year 2005
+     Citations 352
+      Versions 7
+    Cluster ID 12929510981348544518
+Citations list http://scholar.google.com/scholar?cites=12929510981348544518&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12929510981348544518&hl=en&as_sdt=0,5
+       Excerpt Purpose This was a pilot study to assess the biologic effects of lapatinib on various tumor growth/survival pathways in patients with advanced ErbB1 and/or ErbB2-overexpressing solid malignancies. Patients and Methods Heavily pretreated patients with metastatic  ...
+
+         Title Measurement of the azimuthal anisotropy for charged particle production in s NN= 2.76 TeV lead-lead collisions with the ATLAS detector
+           URL http://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.014907
+          Year 2012
+     Citations 331
+      Versions 48
+    Cluster ID 7340329841436244653
+Citations list http://scholar.google.com/scholar?cites=7340329841436244653&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7340329841436244653&hl=en&as_sdt=0,5
+       Excerpt Abstract Differential measurements of charged particle azimuthal anisotropy are presented for lead-lead collisions at s NN= 2.76 TeV with the ATLAS detector at the LHC, based on an integrated luminosity of approximately 8 μ b− 1. This anisotropy is characterized via a  ...
+
+         Title Jet energy resolution in proton-proton collisions at\ sqrt {\ mathrm {s}}= 7\ mbox {TeV} recorded in 2010 with the ATLAS detector
+           URL http://link.springer.com/article/10.1140/epjc/s10052-013-2306-0
+          Year 2013
+     Citations 338
+      Versions 53
+    Cluster ID 7698947771045836889
+Citations list http://scholar.google.com/scholar?cites=7698947771045836889&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7698947771045836889&hl=en&as_sdt=0,5
+       Excerpt Abstract The measurement of the jet energy resolution is presented using data recorded with the ATLAS detector in proton-proton collisions at\(\ sqrt {s}= 7\ mbox {TeV}\). The sample corresponds to an integrated luminosity of 35 pb− 1. Jets are reconstructed from energy  ...
+
+         Title Measurement of the muon reconstruction performance of the ATLAS detector using 2011 and 2012 LHC proton–proton collision data
+           URL http://link.springer.com/article/10.1140/epjc/s10052-014-3130-x
+          Year 2014
+     Citations 348
+      Versions 57
+    Cluster ID 3375542114973672446
+Citations list http://scholar.google.com/scholar?cites=3375542114973672446&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=3375542114973672446&hl=en&as_sdt=0,5
+
+         Title Jet energy measurement and its systematic uncertainty in proton–proton collisions at\ documentclass [12pt]{minimal}\ usepackage {amsmath}\ usepackage { …
+           URL http://europepmc.org/articles/pmc4684939
+          Year 2014
+     Citations 347
+      Versions 34
+    Cluster ID 16916655093651214283
+Citations list http://scholar.google.com/scholar?cites=16916655093651214283&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16916655093651214283&hl=en&as_sdt=0,5
+       Excerpt The jet energy scale (JES) and its systematic uncertainty are determined for jets measured with the ATLAS detector using proton–proton collision data with a centre-of-mass energy of s= 7 TeV corresponding to an integrated luminosity of 4.7 fb-1. Jets are reconstructed from  ...
+
+         Title COSMOS: Three-dimensional Weak Lensing and the Growth of StructureBased on observations with the NASA/ESA Hubble Space Telescope, obtained at the Space  …
+           URL http://iopscience.iop.org/article/10.1086/516599/meta
+          Year 2007
+     Citations 264
+      Versions 20
+    Cluster ID 4004224356046173312
+Citations list http://scholar.google.com/scholar?cites=4004224356046173312&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4004224356046173312&hl=en&as_sdt=0,5
+       Excerpt Abstract We present a three-dimensional cosmic shear analysis of the Hubble Space Telescope COSMOS survey, the largest ever optical imaging program performed in space. We have measured the shapes of galaxies for the telltale distortions caused by weak  ...
+
+ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem2/ContentDetectionBigData/HomeWork/HomeWork2/Scholar$ 
