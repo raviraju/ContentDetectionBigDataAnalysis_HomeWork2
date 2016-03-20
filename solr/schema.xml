@@ -52,7 +52,9 @@
 <!--location-->
 	<!--Geographic_LATITUDE: 27.33931		myloc_0_coordinate-->
 	<!--Geographic_LONGITUDE: -108.60288	myloc_1_coordinate-->
-		<dynamicField name="*_coordinate"  type="tdouble" indexed="true"  stored="false" />
+		<field name="Geographic_LATITUDE" type="tfloat"  indexed="true"  stored="true"/>
+		<field name="Geographic_LONGITUDE" type="tfloat"  indexed="true"  stored="true"/>
+		<!--<dynamicField name="*_coordinate"  type="tdouble" indexed="true"  stored="false" />-->
 	<!--Geographic_NAME: China-->
 		<field name="Geographic_NAME"  type="string"  indexed="true"  stored="true" />		
 

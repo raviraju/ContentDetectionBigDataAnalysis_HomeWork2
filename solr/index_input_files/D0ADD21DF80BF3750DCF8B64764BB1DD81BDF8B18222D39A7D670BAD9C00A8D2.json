@@ -16,8 +16,8 @@
 				    "University of Northern California",
 				    "UVCE"
 				  ],
-	"latitude_0_coordinate":97.33931,
-	"longitude_1_coordinate":-98.60288,
+	"Geographic_LATITUDE":97.33931,
+	"Geographic_LONGITUDE":-98.60288,
 	"Geographic_NAME":"India",
 	"qualityScore":17.5
 }
