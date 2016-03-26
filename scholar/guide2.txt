@@ -1,0 +1,9 @@
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python fetchScholar.py try_out/big-data-in-education-report.pdf.json 
+[u'Kathleen  Reid-Martinez 1 Michael  Mathews 1 ']
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python fetchScholar.py try_out/Current\ state\ of\ learning\ analytics\ and\ EDM.pdf.json 
+[u'George  Siemens  Ryan S J D Baker  ']
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python fetchScholar.py try_out/EDM_vs_LAK_communties_similarity_diff_colloboration.pdf.json 
+[u'George  Siemens 1 Ryan S J D Baker 1 ']
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ python fetchScholar.py try_out/A\ Data\ Repository\ for\ the\ EDM\ community__  PSLC\ DataShop.pdf.json 
+[u'Kenneth R Koedinger 1 Ryan S J D Baker 1 Kyle  Cunningham 1 Alida  Skogsholm 1 Brett  Leber 1 John  Stamper 1 ']
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/scholar$ 

@@ -1,0 +1,141 @@
+{
+    "meta:author": [
+        "Veronica Diaz"
+    ], 
+    "access_permission:extract_content": [
+        "true"
+    ], 
+    "xmpMM:DocumentID": [
+        "uuid:d0574d1a-9c93-4a19-97e3-c079c1b0da74"
+    ], 
+    "producer": [
+        "Mac OS X 10.8.4 Quartz PDFContext"
+    ], 
+    "creator": [
+        "Veronica Diaz"
+    ], 
+    "meta:save-date": [
+        "2013-08-05T19:54:34Z"
+    ], 
+    "Last-Modified": [
+        "2013-08-05T19:54:34Z"
+    ], 
+    "xmp:CreatorTool": [
+        "PowerPoint"
+    ], 
+    "dcterms:created": [
+        "2013-08-05T13:06:52Z"
+    ], 
+    "access_permission:can_print": [
+        "true"
+    ], 
+    "dc:subject": [
+        ""
+    ], 
+    "dc:creator": [
+        "Veronica Diaz"
+    ], 
+    "access_permission:fill_in_form": [
+        "true"
+    ], 
+    "pdf:encrypted": [
+        "false"
+    ], 
+    "Author": [
+        "Veronica Diaz"
+    ], 
+    "grobid_Affiliation": [
+        ""
+    ], 
+    "dc:format": [
+        "application/pdf; version=1.5"
+    ], 
+    "grobid_Title": [
+        "Current state of learning analytics and educational data mining"
+    ], 
+    "access_permission:can_print_degraded": [
+        "true"
+    ], 
+    "Creation-Date": [
+        "2013-08-05T13:06:52Z"
+    ], 
+    "subject": [
+        ""
+    ], 
+    "grobid_Authors": [
+        "George  Siemens  Ryan S J D Baker  "
+    ], 
+    "access_permission:assemble_document": [
+        "true"
+    ], 
+    "grobid_FullAffiliations": [
+        "]"
+    ], 
+    "Keywords": [
+        ""
+    ], 
+    "relatedPub": [
+        {
+            "Cluster ID": "6596896903532718191", 
+            "Versions": 6, 
+            "URL": "http://dl.acm.org/citation.cfm?id=2330661", 
+            "Title": "Learning analytics and educational data mining: towards communication and collaboration", 
+            "Excerpt": "Abstract Growing interest in data and analytics in education, teaching, and learning raises the priority for increased, high-quality research into the models, methods, technologies, and impact of analytics. Two research communities--Educational Data Mining (EDM) and  ...", 
+            "Citations": 201, 
+            "Year": "2012", 
+            "Versions list": "http://scholar.google.com/scholar?cluster=6596896903532718191&hl=en&as_sdt=0,5", 
+            "Citations list": "http://scholar.google.com/scholar?cites=6596896903532718191&as_sdt=2005&sciodt=0,5&hl=en"
+        }
+    ], 
+    "Last-Save-Date": [
+        "2013-08-05T19:54:34Z"
+    ], 
+    "date": [
+        "2013-08-05T19:54:34Z"
+    ], 
+    "grobid_Class": [
+        "org.apache.tika.metadata.Metadata"
+    ], 
+    "access_permission:can_modify": [
+        "true"
+    ], 
+    "grobid_TEIXMLSource": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" \nxmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" \nxsi:schemaLocation=\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\"\n xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n\t<teiHeader xml:lang=\"en\">\n\t\t<encodingDesc>\n\t\t\t<appInfo>\n\t\t\t\t<application version=\"0.4.1\" ident=\"GROBID\" when=\"2016-03-24T01:42+0000\">\n\t\t\t\t\t<ref target=\"https://github.com/kermitt2/grobid\">GROBID - A machine learning software for extracting information from scholarly documents</ref>\n\t\t\t\t</application>\n\t\t\t</appInfo>\n\t\t</encodingDesc>\n\t\t<fileDesc>\n\t\t\t<titleStmt>\n\t\t\t\t<title level=\"a\" type=\"main\">Current state of learning analytics and educational data mining</title>\n\t\t\t</titleStmt>\n\t\t\t<publicationStmt>\n\t\t\t\t<publisher/>\n\t\t\t\t<availability status=\"unknown\"><licence/></availability>\n\t\t\t\t<date type=\"published\" when=\"2013-08\">August 2013</date>\n\t\t\t</publicationStmt>\n\t\t\t<sourceDesc>\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">George</forename>\n\t\t\t\t\t\t\t\t<surname>Siemens</surname>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">Ryan</forename>\n\t\t\t\t\t\t\t\t<forename type=\"middle\">S J D</forename>\n\t\t\t\t\t\t\t\t<surname>Baker</surname>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t\t<title level=\"a\" type=\"main\">Current state of learning analytics and educational data mining</title>\n\t\t\t\t\t</analytic>\n\t\t\t\t\t<monogr>\n\t\t\t\t\t\t<imprint>\n\t\t\t\t\t\t\t<date type=\"published\" when=\"2013-08\">August 2013</date>\n\t\t\t\t\t\t</imprint>\n\t\t\t\t\t</monogr>\n\t\t\t\t</biblStruct>\n\t\t\t</sourceDesc>\n\t\t</fileDesc>\n\t\t<profileDesc>\n\t\t\t<abstract/>\n\t\t</profileDesc>\n\t</teiHeader>\n\t<text xml:lang=\"en\">\n\t</text>\n</TEI>\n"
+    ], 
+    "created": [
+        "Mon Aug 05 06:06:52 PDT 2013"
+    ], 
+    "access_permission:extract_for_accessibility": [
+        "true"
+    ], 
+    "modified": [
+        "2013-08-05T19:54:34Z"
+    ], 
+    "meta:creation-date": [
+        "2013-08-05T13:06:52Z"
+    ], 
+    "grobid_Address": [
+        ""
+    ], 
+    "access_permission:modify_annotations": [
+        "true"
+    ], 
+    "pdf:PDFVersion": [
+        "1.5"
+    ], 
+    "xmpTPg:NPages": [
+        "38"
+    ], 
+    "meta:keyword": [
+        ""
+    ], 
+    "dcterms:modified": [
+        "2013-08-05T19:54:34Z"
+    ], 
+    "Content-Type": [
+        "application/pdf"
+    ], 
+    "grobid_TEIJSONSource": [
+        "{\"TEI\":{\"xmlns\":\"http://www.tei-c.org/ns/1.0\",\"teiHeader\":{\"xml:lang\":\"en\",\"profileDesc\":{\"abstract\":\"\"},\"encodingDesc\":{\"appInfo\":{\"application\":{\"ref\":{\"content\":\"GROBID - A machine learning software for extracting information from scholarly documents\",\"target\":\"https://github.com/kermitt2/grobid\"},\"ident\":\"GROBID\",\"version\":\"0.4.1\",\"when\":\"2016-03-24T01:42+0000\"}}},\"fileDesc\":{\"titleStmt\":{\"title\":{\"level\":\"a\",\"type\":\"main\",\"content\":\"Current state of learning analytics and educational data mining\"}},\"sourceDesc\":{\"biblStruct\":{\"analytic\":{\"author\":[{\"persName\":{\"forename\":{\"type\":\"first\",\"content\":\"George\"},\"surname\":\"Siemens\"}},{\"persName\":{\"forename\":[{\"type\":\"first\",\"content\":\"Ryan\"},{\"type\":\"middle\",\"content\":\"S J D\"}],\"surname\":\"Baker\"}}],\"title\":{\"level\":\"a\",\"type\":\"main\",\"content\":\"Current state of learning analytics and educational data mining\"}},\"monogr\":{\"imprint\":{\"date\":{\"type\":\"published\",\"when\":\"2013-08\",\"content\":\"August 2013\"}}}}},\"publicationStmt\":{\"date\":{\"type\":\"published\",\"when\":\"2013-08\",\"content\":\"August 2013\"},\"publisher\":\"\",\"availability\":{\"licence\":\"\",\"status\":\"unknown\"}}}},\"xsi:schemaLocation\":\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\",\"xmlns:xlink\":\"http://www.w3.org/1999/xlink\",\"xmlns:xsi\":\"http://www.w3.org/2001/XMLSchema-instance\",\"text\":{\"xml:lang\":\"en\"}}}"
+    ]
+}

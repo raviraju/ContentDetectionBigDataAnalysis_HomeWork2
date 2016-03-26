@@ -1,0 +1,111 @@
+{
+    "meta:author": [
+        "lydia"
+    ], 
+    "access_permission:extract_content": [
+        "true"
+    ], 
+    "xmpMM:DocumentID": [
+        "uuid:dbfd7fb7-780d-4db0-9be0-8c012d5a6bac"
+    ], 
+    "producer": [
+        "Acrobat Distiller 6.0.1 (Windows)"
+    ], 
+    "creator": [
+        "lydia"
+    ], 
+    "dc:title": [
+        "Microsoft Word - Dev-04-05accom.rpt.doc"
+    ], 
+    "meta:save-date": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "Last-Modified": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "xmp:CreatorTool": [
+        "PScript5.dll Version 5.2.2"
+    ], 
+    "dcterms:created": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "access_permission:can_print": [
+        "true"
+    ], 
+    "dc:creator": [
+        "lydia"
+    ], 
+    "access_permission:fill_in_form": [
+        "true"
+    ], 
+    "pdf:encrypted": [
+        "false"
+    ], 
+    "Author": [
+        "lydia"
+    ], 
+    "dc:format": [
+        "application/pdf; version=1.4"
+    ], 
+    "grobid_Title": [
+        "CCSM Development Accomplishments Report"
+    ], 
+    "access_permission:can_print_degraded": [
+        "true"
+    ], 
+    "Creation-Date": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "access_permission:assemble_document": [
+        "true"
+    ], 
+    "relatedPub": [], 
+    "Last-Save-Date": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "date": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "grobid_Class": [
+        "org.apache.tika.metadata.Metadata"
+    ], 
+    "access_permission:can_modify": [
+        "true"
+    ], 
+    "grobid_TEIXMLSource": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" \nxmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" \nxsi:schemaLocation=\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\"\n xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n\t<teiHeader xml:lang=\"en\">\n\t\t<encodingDesc>\n\t\t\t<appInfo>\n\t\t\t\t<application version=\"0.4.1\" ident=\"GROBID\" when=\"2016-03-23T05:23+0000\">\n\t\t\t\t\t<ref target=\"https://github.com/kermitt2/grobid\">GROBID - A machine learning software for extracting information from scholarly documents</ref>\n\t\t\t\t</application>\n\t\t\t</appInfo>\n\t\t</encodingDesc>\n\t\t<fileDesc>\n\t\t\t<titleStmt>\n\t\t\t\t<title level=\"a\" type=\"main\">CCSM Development Accomplishments Report</title>\n\t\t\t</titleStmt>\n\t\t\t<publicationStmt>\n\t\t\t\t<publisher/>\n\t\t\t\t<availability status=\"unknown\"><licence/></availability>\n\t\t\t\t<date type=\"published\" when=\"2004-09\">September 2004 \u2013 December 2005</date>\n\t\t\t</publicationStmt>\n\t\t\t<sourceDesc>\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\t\t\t\t\t\t<title level=\"a\" type=\"main\">CCSM Development Accomplishments Report</title>\n\t\t\t\t\t</analytic>\n\t\t\t\t\t<monogr>\n\t\t\t\t\t\t<imprint>\n\t\t\t\t\t\t\t<date type=\"published\" when=\"2004-09\">September 2004 \u2013 December 2005</date>\n\t\t\t\t\t\t</imprint>\n\t\t\t\t\t</monogr>\n\t\t\t\t</biblStruct>\n\t\t\t</sourceDesc>\n\t\t</fileDesc>\n\t\t<profileDesc>\n\t\t\t<abstract/>\n\t\t</profileDesc>\n\t</teiHeader>\n\t<text xml:lang=\"en\">\n\t</text>\n</TEI>\n"
+    ], 
+    "created": [
+        "Fri Dec 23 09:58:19 PST 2005"
+    ], 
+    "access_permission:extract_for_accessibility": [
+        "true"
+    ], 
+    "modified": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "meta:creation-date": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "access_permission:modify_annotations": [
+        "true"
+    ], 
+    "pdf:PDFVersion": [
+        "1.4"
+    ], 
+    "xmpTPg:NPages": [
+        "10"
+    ], 
+    "title": [
+        "Microsoft Word - Dev-04-05accom.rpt.doc"
+    ], 
+    "dcterms:modified": [
+        "2005-12-23T17:58:19Z"
+    ], 
+    "Content-Type": [
+        "application/pdf"
+    ], 
+    "grobid_TEIJSONSource": [
+        "{\"TEI\":{\"xmlns\":\"http://www.tei-c.org/ns/1.0\",\"teiHeader\":{\"xml:lang\":\"en\",\"profileDesc\":{\"abstract\":\"\"},\"encodingDesc\":{\"appInfo\":{\"application\":{\"ref\":{\"content\":\"GROBID - A machine learning software for extracting information from scholarly documents\",\"target\":\"https://github.com/kermitt2/grobid\"},\"ident\":\"GROBID\",\"version\":\"0.4.1\",\"when\":\"2016-03-23T05:23+0000\"}}},\"fileDesc\":{\"titleStmt\":{\"title\":{\"level\":\"a\",\"type\":\"main\",\"content\":\"CCSM Development Accomplishments Report\"}},\"sourceDesc\":{\"biblStruct\":{\"analytic\":{\"title\":{\"level\":\"a\",\"type\":\"main\",\"content\":\"CCSM Development Accomplishments Report\"}},\"monogr\":{\"imprint\":{\"date\":{\"type\":\"published\",\"when\":\"2004-09\",\"content\":\"September 2004 \\u2013 December 2005\"}}}}},\"publicationStmt\":{\"date\":{\"type\":\"published\",\"when\":\"2004-09\",\"content\":\"September 2004 \\u2013 December 2005\"},\"publisher\":\"\",\"availability\":{\"licence\":\"\",\"status\":\"unknown\"}}}},\"xsi:schemaLocation\":\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\",\"xmlns:xlink\":\"http://www.w3.org/1999/xlink\",\"xmlns:xsi\":\"http://www.w3.org/2001/XMLSchema-instance\",\"text\":{\"xml:lang\":\"en\"}}}"
+    ]
+}

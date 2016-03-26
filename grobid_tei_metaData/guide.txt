@@ -3,6 +3,19 @@ export SIMPLE_JSON=../jars/json-simple-1.1.1.jar
 javac -classpath $TIKA_APP:$SIMPLE_JSON TEI_MetaData.java 
 java -classpath .:$TIKA_APP:$SIMPLE_JSON TEI_MetaData input/ output/
 
+To start Grobid: http://grobid.readthedocs.org/en/latest/Grobid-service/
+
+Start the server
+Go under the grobid/grobid-service directory:
+> cd grobid-service
+The following command will start the server on port 8080:
+> mvn jetty:run-war
+
+To skip the tests:
+> mvn -Dmaven.test.skip=true jetty:run-war
+
+
+
 
 
 ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ ls

@@ -307,6 +307,19 @@ class ScholarArticle(object):
             if item[0] is not None:
                 res.append(fmt % (item[1], item[0]))
         return '\n'.join(res)
+        
+    def as_json(self):
+		# Get items sorted in specified order:
+        items = sorted(list(self.attrs.values()), key=lambda item: item[2])
+        # Find largest label length:
+        max_label_len = max([len(str(item[1])) for item in items])
+        fmt = '%%%ds %%s' % max_label_len
+        res = {}
+        for item in items:
+            if item[0] is not None:
+                #res.append(fmt % (item[1], item[0]))
+                res[ item[1] ] = item[0]
+        return res
 
     def as_csv(self, header=False, sep='|'):
         # Get keys sorted in specified order:
@@ -1096,6 +1109,13 @@ def txt(querier, with_globals):
     articles = querier.articles
     for art in articles:
         print(encode(art.as_txt()) + '\n')
+
+def json(querier):
+    articles = querier.articles
+    json_list = []
+    for art in articles:
+        json_list.append(art.as_json())
+	return json_list
 
 def csv(querier, header=False, sep='|'):
     articles = querier.articles

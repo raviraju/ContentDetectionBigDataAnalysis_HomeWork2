@@ -1,0 +1,149 @@
+{
+    "meta:author": [
+        "rsbaker"
+    ], 
+    "access_permission:extract_content": [
+        "true"
+    ], 
+    "xmpMM:DocumentID": [
+        "uuid:41d03ec8-8674-488e-a824-29e79fc6692c"
+    ], 
+    "producer": [
+        "Acrobat Distiller 9.3.3 (Windows)"
+    ], 
+    "creator": [
+        "rsbaker"
+    ], 
+    "dc:title": [
+        "Microsoft Word - LAKs reformatting v2.docx"
+    ], 
+    "grobid_Keyword": [
+        "\"H28 [Database Applications]: Data Mining\""
+    ], 
+    "meta:save-date": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "Last-Modified": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "xmp:CreatorTool": [
+        "PScript5.dll Version 5.2.2"
+    ], 
+    "dcterms:created": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "access_permission:can_print": [
+        "true"
+    ], 
+    "date": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "title": [
+        "Microsoft Word - LAKs reformatting v2.docx"
+    ], 
+    "access_permission:fill_in_form": [
+        "true"
+    ], 
+    "pdf:encrypted": [
+        "false"
+    ], 
+    "Author": [
+        "rsbaker"
+    ], 
+    "grobid_Affiliation": [
+        "1 Department of Social Science and Policy Studies Worcester Polytechnic Institute Technology Enhanced Knowledge Research Institute Athabasca University"
+    ], 
+    "dc:format": [
+        "application/pdf; version=1.5"
+    ], 
+    "grobid_Title": [
+        "Learning Analytics and Educational Data Mining: Towards Communication and Collaboration"
+    ], 
+    "access_permission:can_print_degraded": [
+        "true"
+    ], 
+    "Creation-Date": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "access_permission:assemble_document": [
+        "true"
+    ], 
+    "grobid_FullAffiliations": [
+        "[Affiliation {orgName=Department of Social Science and Policy Studies Worcester Polytechnic Institute Technology Enhanced Knowledge Research Institute Athabasca University , address=null, null null null}[Affiliation {orgName=Department of Social Science and Policy Studies Worcester Polytechnic Institute Technology Enhanced Knowledge Research Institute Athabasca University , address=null, null null null}]"
+    ], 
+    "relatedPub": [
+        {
+            "Cluster ID": "8094651773727803134", 
+            "Versions": 39, 
+            "URL": "http://er.dut.ac.za/handle/123456789/69", 
+            "Title": "Connectivism: A learning theory for the digital age", 
+            "Excerpt": "Behaviorism, cognitivism, and constructivism are the three broad learning theories most often utilized in the creation of instructional environments. These theories, however, were developed in a time when learning was not impacted through technology. Over the last  ...", 
+            "Citations": 3223, 
+            "Year": "2014", 
+            "Versions list": "http://scholar.google.com/scholar?cluster=8094651773727803134&hl=en&as_sdt=0,5", 
+            "Citations list": "http://scholar.google.com/scholar?cites=8094651773727803134&as_sdt=2005&sciodt=0,5&hl=en"
+        }, 
+        {
+            "Cluster ID": "4583933401305623738", 
+            "Versions": 49, 
+            "URL": "http://waseda.pure.elsevier.com/en/publications/the-atlas-experiment-at-the-cern-large-hadron-collider(b3c4e9fa-0f6d-4124-a940-65a93741f653).html", 
+            "Title": "The ATLAS experiment at the CERN large hadron collider", 
+            "Excerpt": "Aad G, Abat E, Abdallah J, Abdelalim AA, Abdesselam A, Abdinov O et al. The ATLAS experiment at the CERN large hadron collider. Journal of Instrumentation. 2008; 3 (8). S08003. Available from: 10.1088/1748-0221/3/08/S08003", 
+            "Citations": 6116, 
+            "Year": "2008", 
+            "Versions list": "http://scholar.google.com/scholar?cluster=4583933401305623738&hl=en&as_sdt=0,5", 
+            "Citations list": "http://scholar.google.com/scholar?cites=4583933401305623738&as_sdt=2005&sciodt=0,5&hl=en"
+        }
+    ], 
+    "Last-Save-Date": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "grobid_Authors": [
+        "George  Siemens 1 Ryan S J D Baker 1 "
+    ], 
+    "access_permission:extract_for_accessibility": [
+        "true"
+    ], 
+    "grobid_Class": [
+        "org.apache.tika.metadata.Metadata"
+    ], 
+    "access_permission:can_modify": [
+        "true"
+    ], 
+    "dcterms:modified": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "created": [
+        "Fri Mar 09 13:56:20 PST 2012"
+    ], 
+    "dc:creator": [
+        "rsbaker"
+    ], 
+    "modified": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "meta:creation-date": [
+        "2012-03-09T21:56:20Z"
+    ], 
+    "grobid_Address": [
+        "null, null null null "
+    ], 
+    "access_permission:modify_annotations": [
+        "true"
+    ], 
+    "pdf:PDFVersion": [
+        "1.5"
+    ], 
+    "xmpTPg:NPages": [
+        "3"
+    ], 
+    "grobid_TEIXMLSource": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" \nxmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" \nxsi:schemaLocation=\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\"\n xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n\t<teiHeader xml:lang=\"en\">\n\t\t<encodingDesc>\n\t\t\t<appInfo>\n\t\t\t\t<application version=\"0.4.1\" ident=\"GROBID\" when=\"2016-03-24T01:42+0000\">\n\t\t\t\t\t<ref target=\"https://github.com/kermitt2/grobid\">GROBID - A machine learning software for extracting information from scholarly documents</ref>\n\t\t\t\t</application>\n\t\t\t</appInfo>\n\t\t</encodingDesc>\n\t\t<fileDesc>\n\t\t\t<titleStmt>\n\t\t\t\t<title level=\"a\" type=\"main\">Learning Analytics and Educational Data Mining: Towards Communication and Collaboration</title>\n\t\t\t</titleStmt>\n\t\t\t<publicationStmt>\n\t\t\t\t<publisher/>\n\t\t\t\t<availability status=\"unknown\"><licence/></availability>\n\t\t\t</publicationStmt>\n\t\t\t<sourceDesc>\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">George</forename>\n\t\t\t\t\t\t\t\t<surname>Siemens</surname>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t\t<email>gsiemens@athabascau.ca</email>\n\t\t\t\t\t\t\t<affiliation>\n\t\t\t\t\t\t\t\t<orgName type=\"department\">Department of Social Science and Policy Studies Worcester Polytechnic Institute</orgName>\n\t\t\t\t\t\t\t\t<orgName type=\"institution\">Technology Enhanced Knowledge Research Institute Athabasca University</orgName>\n\t\t\t\t\t\t\t</affiliation>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">Ryan</forename>\n\t\t\t\t\t\t\t\t<forename type=\"middle\">S J D</forename>\n\t\t\t\t\t\t\t\t<surname>Baker</surname>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t\t<email>rsbaker@wpi.edu</email>\n\t\t\t\t\t\t\t<affiliation>\n\t\t\t\t\t\t\t\t<orgName type=\"department\">Department of Social Science and Policy Studies Worcester Polytechnic Institute</orgName>\n\t\t\t\t\t\t\t\t<orgName type=\"institution\">Technology Enhanced Knowledge Research Institute Athabasca University</orgName>\n\t\t\t\t\t\t\t</affiliation>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t\t<title level=\"a\" type=\"main\">Learning Analytics and Educational Data Mining: Towards Communication and Collaboration</title>\n\t\t\t\t\t</analytic>\n\t\t\t\t\t<monogr>\n\t\t\t\t\t\t<imprint>\n\t\t\t\t\t\t\t<date/>\n\t\t\t\t\t\t</imprint>\n\t\t\t\t\t</monogr>\n\t\t\t\t</biblStruct>\n\t\t\t</sourceDesc>\n\t\t</fileDesc>\n\t\t<profileDesc>\n\t\t\t<textClass>\n\t\t\t\t<keywords>\n\t\t\t\t\t<term>H28 [Database Applications]: Data Mining</term>\n\t\t\t\t\t<term>General Terms</term>\n\t\t\t\t\t<term>Algorithms, Human Factors, Measurements</term>\n\t\t\t\t\t<term>Keywords</term>\n\t\t\t\t\t<term>Educational data mining, learning analytics and knowledge,</term>\n\t\t\t\t\t<term>collaboration</term>\n\t\t\t\t</keywords>\n\t\t\t</textClass>\n\t\t\t<abstract>\n\t\t\t\t<p>Growing interest in data and analytics in education, teaching, and learning raises the priority for increased, high-quality research into the models, methods, technologies, and impact of analytics. Two research communities \u2013 Educational Data Mining (EDM) and Learning Analytics and Knowledge (LAK) have developed separately to address this need. This paper argues for increased and formal communication and collaboration between these communities in order to share research, methods, and tools for data mining and analysis in the service of developing both LAK and EDM fields.</p>\n\t\t\t</abstract>\n\t\t</profileDesc>\n\t</teiHeader>\n\t<text xml:lang=\"en\">\n\t</text>\n</TEI>\n"
+    ], 
+    "Content-Type": [
+        "application/pdf"
+    ], 
+    "grobid_TEIJSONSource": [
+        "{\"TEI\":{\"xmlns\":\"http://www.tei-c.org/ns/1.0\",\"teiHeader\":{\"xml:lang\":\"en\",\"profileDesc\":{\"textClass\":{\"keywords\":{\"term\":[\"H28 [Database Applications]: Data Mining\",\"General Terms\",\"Algorithms, Human Factors, Measurements\",\"Keywords\",\"Educational data mining, learning analytics and knowledge,\",\"collaboration\"]}},\"abstract\":{\"p\":\"Growing interest in data and analytics in education, teaching, and learning raises the priority for increased, high-quality research into the models, methods, technologies, and impact of analytics. Two research communities \\u2013 Educational Data Mining (EDM) and Learning Analytics and Knowledge (LAK) have developed separately to address this need. This paper argues for increased and formal communication and collaboration between these communities in order to share research, methods, and tools for data mining and analysis in the service of developing both LAK and EDM fields.\"}},\"encodingDesc\":{\"appInfo\":{\"application\":{\"ref\":{\"content\":\"GROBID - A machine learning software for extracting information from scholarly documents\",\"target\":\"https://github.com/kermitt2/grobid\"},\"ident\":\"GROBID\",\"version\":\"0.4.1\",\"when\":\"2016-03-24T01:42+0000\"}}},\"fileDesc\":{\"titleStmt\":{\"title\":{\"level\":\"a\",\"type\":\"main\",\"content\":\"Learning Analytics and Educational Data Mining: Towards Communication and Collaboration\"}},\"sourceDesc\":{\"biblStruct\":{\"analytic\":{\"author\":[{\"affiliation\":{\"orgName\":[{\"type\":\"department\",\"content\":\"Department of Social Science and Policy Studies Worcester Polytechnic Institute\"},{\"type\":\"institution\",\"content\":\"Technology Enhanced Knowledge Research Institute Athabasca University\"}]},\"persName\":{\"forename\":{\"type\":\"first\",\"content\":\"George\"},\"surname\":\"Siemens\"},\"email\":\"gsiemens@athabascau.ca\"},{\"affiliation\":{\"orgName\":[{\"type\":\"department\",\"content\":\"Department of Social Science and Policy Studies Worcester Polytechnic Institute\"},{\"type\":\"institution\",\"content\":\"Technology Enhanced Knowledge Research Institute Athabasca University\"}]},\"persName\":{\"forename\":[{\"type\":\"first\",\"content\":\"Ryan\"},{\"type\":\"middle\",\"content\":\"S J D\"}],\"surname\":\"Baker\"},\"email\":\"rsbaker@wpi.edu\"}],\"title\":{\"level\":\"a\",\"type\":\"main\",\"content\":\"Learning Analytics and Educational Data Mining: Towards Communication and Collaboration\"}},\"monogr\":{\"imprint\":{\"date\":\"\"}}}},\"publicationStmt\":{\"publisher\":\"\",\"availability\":{\"licence\":\"\",\"status\":\"unknown\"}}}},\"xsi:schemaLocation\":\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\",\"xmlns:xlink\":\"http://www.w3.org/1999/xlink\",\"xmlns:xsi\":\"http://www.w3.org/2001/XMLSchema-instance\",\"text\":{\"xml:lang\":\"en\"}}}"
+    ]
+}

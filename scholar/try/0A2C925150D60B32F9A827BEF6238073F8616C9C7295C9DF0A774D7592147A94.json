@@ -1,0 +1,139 @@
+{
+    "meta:author": [
+        "btaylor"
+    ], 
+    "access_permission:extract_content": [
+        "true"
+    ], 
+    "producer": [
+        "GPL Ghostscript 8.15"
+    ], 
+    "creator": [
+        "btaylor"
+    ], 
+    "dc:title": [
+        "Microsoft Word - AB 138.SJ.blt.122013.doc"
+    ], 
+    "meta:save-date": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "Last-Modified": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "xmp:CreatorTool": [
+        "PScript5.dll Version 5.2.2"
+    ], 
+    "dcterms:created": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "access_permission:can_print": [
+        "true"
+    ], 
+    "date": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "title": [
+        "Microsoft Word - AB 138.SJ.blt.122013.doc"
+    ], 
+    "access_permission:fill_in_form": [
+        "true"
+    ], 
+    "pdf:encrypted": [
+        "false"
+    ], 
+    "Author": [
+        "btaylor"
+    ], 
+    "grobid_Affiliation": [
+        "1 OFFICE OF THE PRESIDENT Office of State Governmental Relations DANIEL M. DOOLEY Sacramento"
+    ], 
+    "dc:format": [
+        "application/pdf; version=1.4"
+    ], 
+    "access_permission:can_print_degraded": [
+        "true"
+    ], 
+    "Creation-Date": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "access_permission:assemble_document": [
+        "true"
+    ], 
+    "grobid_FullAffiliations": [
+        "[Affiliation {orgName=OFFICE OF THE PRESIDENT Office of State Governmental Relations DANIEL M. DOOLEY Sacramento , address=null, California 95814 null}[Affiliation {orgName=OFFICE OF THE PRESIDENT Office of State Governmental Relations DANIEL M. DOOLEY Sacramento , address=null, California 95814 null}]"
+    ], 
+    "relatedPub": [
+        {
+            "Cluster ID": "5122141373146964800", 
+            "Versions": 6, 
+            "URL": "http://www.sciencedirect.com/science/article/pii/S0010854599000545", 
+            "Title": "Spectroscopic properties and design of highly luminescent lanthanide coordination complexes", 
+            "Excerpt": "In this paper recent advances in the development of efficient light conversion molecular devices (LCMD) based on lanthanide complexes are reviewed, with emphasis on the work of our group. We have adopted a strategy based upon both theoretical and experimental ( ...", 
+            "Citations": 1124, 
+            "Year": "2000", 
+            "Versions list": "http://scholar.google.com/scholar?cluster=5122141373146964800&hl=en&as_sdt=0,5", 
+            "Citations list": "http://scholar.google.com/scholar?cites=5122141373146964800&as_sdt=2005&sciodt=0,5&hl=en"
+        }, 
+        {
+            "Cluster ID": "10253953500389378743", 
+            "Versions": 0, 
+            "URL": "http://www.deserttortoise.org/ocr_DTCdocs/1986DTCProceedings-OCR.pdf#page=67", 
+            "Title": "Changes in desert tortoise populations at four study sites in California", 
+            "Excerpt": "ABSTRACT-Data were collected on population attributes of desert tortoises (Xerobates agassizii) at four sites in California between 1977 and 1985. One site in the western Mojave Desert, Fremont Peak, was sampled three times (1977, 1980, and 1985) over a 9-yr  ...", 
+            "Citations": 11, 
+            "Year": "1990", 
+            "Citations list": "http://scholar.google.com/scholar?cites=10253953500389378743&as_sdt=2005&sciodt=0,5&hl=en"
+        }
+    ], 
+    "Last-Save-Date": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "grobid_Authors": [
+        "Santa Barbara @bullet 1 Santa  Cruz 1 Steve  Juarez 1 "
+    ], 
+    "access_permission:extract_for_accessibility": [
+        "true"
+    ], 
+    "grobid_Class": [
+        "org.apache.tika.metadata.Metadata"
+    ], 
+    "access_permission:can_modify": [
+        "true"
+    ], 
+    "dcterms:modified": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "created": [
+        "Fri Dec 20 06:42:51 PST 2013"
+    ], 
+    "dc:creator": [
+        "btaylor"
+    ], 
+    "modified": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "meta:creation-date": [
+        "2013-12-20T14:42:51Z"
+    ], 
+    "grobid_Address": [
+        "null, California 95814 null "
+    ], 
+    "access_permission:modify_annotations": [
+        "true"
+    ], 
+    "pdf:PDFVersion": [
+        "1.4"
+    ], 
+    "xmpTPg:NPages": [
+        "2"
+    ], 
+    "grobid_TEIXMLSource": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns=\"http://www.tei-c.org/ns/1.0\" \nxmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" \nxsi:schemaLocation=\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\"\n xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n\t<teiHeader xml:lang=\"en\">\n\t\t<encodingDesc>\n\t\t\t<appInfo>\n\t\t\t\t<application version=\"0.4.1\" ident=\"GROBID\" when=\"2016-03-23T05:23+0000\">\n\t\t\t\t\t<ref target=\"https://github.com/kermitt2/grobid\">GROBID - A machine learning software for extracting information from scholarly documents</ref>\n\t\t\t\t</application>\n\t\t\t</appInfo>\n\t\t</encodingDesc>\n\t\t<fileDesc>\n\t\t\t<titleStmt>\n\t\t\t\t<title level=\"a\" type=\"main\"></title>\n\t\t\t</titleStmt>\n\t\t\t<publicationStmt>\n\t\t\t\t<publisher/>\n\t\t\t\t<availability status=\"unknown\"><licence/></availability>\n\t\t\t\t<date type=\"published\" when=\"2013-12-20\">December 20, 2013 January 16, 2013</date>\n\t\t\t</publicationStmt>\n\t\t\t<sourceDesc>\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">Santa</forename>\n\t\t\t\t\t\t\t\t<forename type=\"middle\">Barbara</forename>\n\t\t\t\t\t\t\t\t<surname>@bullet</surname>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t\t<affiliation>\n\t\t\t\t\t\t\t\t<orgName type=\"department\" key=\"dep1\">OFFICE OF THE PRESIDENT Office of State Governmental Relations</orgName>\n\t\t\t\t\t\t\t\t<orgName type=\"department\" key=\"dep2\">DANIEL M. DOOLEY Sacramento</orgName>\n\t\t\t\t\t\t\t\t<address>\n\t\t\t\t\t\t\t\t\t<addrLine>1130 K Street, Suite 340</addrLine>\n\t\t\t\t\t\t\t\t\t<postCode>95814</postCode>\n\t\t\t\t\t\t\t\t\t<region>California</region>\n\t\t\t\t\t\t\t\t</address>\n\t\t\t\t\t\t\t</affiliation>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">Santa</forename>\n\t\t\t\t\t\t\t\t<surname>Cruz</surname>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t\t<affiliation>\n\t\t\t\t\t\t\t\t<orgName type=\"department\" key=\"dep1\">OFFICE OF THE PRESIDENT Office of State Governmental Relations</orgName>\n\t\t\t\t\t\t\t\t<orgName type=\"department\" key=\"dep2\">DANIEL M. DOOLEY Sacramento</orgName>\n\t\t\t\t\t\t\t\t<address>\n\t\t\t\t\t\t\t\t\t<addrLine>1130 K Street, Suite 340</addrLine>\n\t\t\t\t\t\t\t\t\t<postCode>95814</postCode>\n\t\t\t\t\t\t\t\t\t<region>California</region>\n\t\t\t\t\t\t\t\t</address>\n\t\t\t\t\t\t\t</affiliation>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t\t<author>\n\t\t\t\t\t\t\t<persName>\n\t\t\t\t\t\t\t\t<forename type=\"first\">Steve</forename>\n\t\t\t\t\t\t\t\t<surname>Juarez</surname>\n\t\t\t\t\t\t\t\t<roleName>Associate Vice President And Director</roleName>\n\t\t\t\t\t\t\t</persName>\n\t\t\t\t\t\t\t<affiliation>\n\t\t\t\t\t\t\t\t<orgName type=\"department\" key=\"dep1\">OFFICE OF THE PRESIDENT Office of State Governmental Relations</orgName>\n\t\t\t\t\t\t\t\t<orgName type=\"department\" key=\"dep2\">DANIEL M. DOOLEY Sacramento</orgName>\n\t\t\t\t\t\t\t\t<address>\n\t\t\t\t\t\t\t\t\t<addrLine>1130 K Street, Suite 340</addrLine>\n\t\t\t\t\t\t\t\t\t<postCode>95814</postCode>\n\t\t\t\t\t\t\t\t\t<region>California</region>\n\t\t\t\t\t\t\t\t</address>\n\t\t\t\t\t\t\t</affiliation>\n\t\t\t\t\t\t</author>\n\t\t\t\t\t</analytic>\n\t\t\t\t\t<monogr>\n\t\t\t\t\t\t<imprint>\n\t\t\t\t\t\t\t<date type=\"published\" when=\"2013-12-20\">December 20, 2013 January 16, 2013</date>\n\t\t\t\t\t\t</imprint>\n\t\t\t\t\t</monogr>\n\t\t\t\t\t<note type=\"submission\">Scheduled to be heard by the Assembly Higher Education Committee on January 7, 2014 POSITION: CONCERN</note>\n\t\t\t\t\t<note>Senior Vice President \u2212 External Relations (916) 445-9924 The Honorable Kristin M. Olsen California State Assembly State Capitol, Room 2016 Sacramento, California 95814 RE: AB 138 (Olsen), as introduced on</note>\n\t\t\t\t</biblStruct>\n\t\t\t</sourceDesc>\n\t\t</fileDesc>\n\t\t<profileDesc>\n\t\t\t<abstract>\n\t\t\t\t<p>Dear Assembly Member Olsen: Regretfully, I am writing to inform you that the University of California has concerns on AB 138. This bill would require the Regents of the University of California and the Trustees of the California State University to determine the amounts of undergraduate tuition and mandatory systemwide fees for California residents in each incoming first-year class in their respective segments. The tuition and mandatory systemwide fees set for California residents in each incoming first-year class shall not be increased until that incoming first-year class has completed at least four academic years. While the University acknowledges the need to address the rising cost of education, it is our belief that AB 138 is premature and the application of the multi-year tuition schedule should be contingent on maintenance of effort by the State. The University, through the Commission on the Future, has previously examined adopting a multi-year tuition schedule and will be tasking the President&apos;s tuition working group to do the same. This type of tuition policy significantly reduces flexibility in tuition revenue. Since continuing students would be assured a fixed tuition increase rate, any revenue required beyond that amount, due to a sudden decline in State funding, for example, would have to be generated by the students who would be subject to the &quot; new &quot; student rate and capping that new student rate at a 5 percent increase between cohorts (as proposed to be amended) ties the University&apos;s hands even further. In addition, application of the multi-year tuition schedule should be contingent on maintenance of effort by the State. In the case of significant and abrupt State budget cuts, the University might need to adopt an emergency tuition increase outside of the scheduled amount. The proposed language does not take into consideration that tuition is an essential revenue source for the University. This revenue benefits all students by helping to maintain the quality of a UC education, course availability, access to talented faculty, etc. Equally important, however, is the critical role it plays in UC&apos;s ability to remain accessible to financially needy students. Increases in systemwide tuition and fees generate funding for UC&apos;s own institutional aid program due to the University&apos;s practice of setting aside a portion of new revenue for need-based aid. This aid, roughly $630 million in 2012-13, helps UC undergraduates cover both tuition and other expenses like housing, books and supplies.</p>\n\t\t\t</abstract>\n\t\t</profileDesc>\n\t</teiHeader>\n\t<text xml:lang=\"en\">\n\t</text>\n</TEI>\n"
+    ], 
+    "Content-Type": [
+        "application/pdf"
+    ], 
+    "grobid_TEIJSONSource": [
+        "{\"TEI\":{\"xmlns\":\"http://www.tei-c.org/ns/1.0\",\"teiHeader\":{\"xml:lang\":\"en\",\"profileDesc\":{\"abstract\":{\"p\":\"Dear Assembly Member Olsen: Regretfully, I am writing to inform you that the University of California has concerns on AB 138. This bill would require the Regents of the University of California and the Trustees of the California State University to determine the amounts of undergraduate tuition and mandatory systemwide fees for California residents in each incoming first-year class in their respective segments. The tuition and mandatory systemwide fees set for California residents in each incoming first-year class shall not be increased until that incoming first-year class has completed at least four academic years. While the University acknowledges the need to address the rising cost of education, it is our belief that AB 138 is premature and the application of the multi-year tuition schedule should be contingent on maintenance of effort by the State. The University, through the Commission on the Future, has previously examined adopting a multi-year tuition schedule and will be tasking the President's tuition working group to do the same. This type of tuition policy significantly reduces flexibility in tuition revenue. Since continuing students would be assured a fixed tuition increase rate, any revenue required beyond that amount, due to a sudden decline in State funding, for example, would have to be generated by the students who would be subject to the \\\" new \\\" student rate and capping that new student rate at a 5 percent increase between cohorts (as proposed to be amended) ties the University's hands even further. In addition, application of the multi-year tuition schedule should be contingent on maintenance of effort by the State. In the case of significant and abrupt State budget cuts, the University might need to adopt an emergency tuition increase outside of the scheduled amount. The proposed language does not take into consideration that tuition is an essential revenue source for the University. This revenue benefits all students by helping to maintain the quality of a UC education, course availability, access to talented faculty, etc. Equally important, however, is the critical role it plays in UC's ability to remain accessible to financially needy students. Increases in systemwide tuition and fees generate funding for UC's own institutional aid program due to the University's practice of setting aside a portion of new revenue for need-based aid. This aid, roughly $630 million in 2012-13, helps UC undergraduates cover both tuition and other expenses like housing, books and supplies.\"}},\"encodingDesc\":{\"appInfo\":{\"application\":{\"ref\":{\"content\":\"GROBID - A machine learning software for extracting information from scholarly documents\",\"target\":\"https://github.com/kermitt2/grobid\"},\"ident\":\"GROBID\",\"version\":\"0.4.1\",\"when\":\"2016-03-23T05:23+0000\"}}},\"fileDesc\":{\"titleStmt\":{\"title\":{\"level\":\"a\",\"type\":\"main\"}},\"sourceDesc\":{\"biblStruct\":{\"note\":[{\"type\":\"submission\",\"content\":\"Scheduled to be heard by the Assembly Higher Education Committee on January 7, 2014 POSITION: CONCERN\"},\"Senior Vice President \u2212 External Relations (916) 445-9924 The Honorable Kristin M. Olsen California State Assembly State Capitol, Room 2016 Sacramento, California 95814 RE: AB 138 (Olsen), as introduced on\"],\"analytic\":{\"author\":[{\"affiliation\":{\"orgName\":[{\"type\":\"department\",\"key\":\"dep1\",\"content\":\"OFFICE OF THE PRESIDENT Office of State Governmental Relations\"},{\"type\":\"department\",\"key\":\"dep2\",\"content\":\"DANIEL M. DOOLEY Sacramento\"}],\"address\":{\"addrLine\":\"1130 K Street, Suite 340\",\"postCode\":95814,\"region\":\"California\"}},\"persName\":{\"forename\":[{\"type\":\"first\",\"content\":\"Santa\"},{\"type\":\"middle\",\"content\":\"Barbara\"}],\"surname\":\"@bullet\"}},{\"affiliation\":{\"orgName\":[{\"type\":\"department\",\"key\":\"dep1\",\"content\":\"OFFICE OF THE PRESIDENT Office of State Governmental Relations\"},{\"type\":\"department\",\"key\":\"dep2\",\"content\":\"DANIEL M. DOOLEY Sacramento\"}],\"address\":{\"addrLine\":\"1130 K Street, Suite 340\",\"postCode\":95814,\"region\":\"California\"}},\"persName\":{\"forename\":{\"type\":\"first\",\"content\":\"Santa\"},\"surname\":\"Cruz\"}},{\"affiliation\":{\"orgName\":[{\"type\":\"department\",\"key\":\"dep1\",\"content\":\"OFFICE OF THE PRESIDENT Office of State Governmental Relations\"},{\"type\":\"department\",\"key\":\"dep2\",\"content\":\"DANIEL M. DOOLEY Sacramento\"}],\"address\":{\"addrLine\":\"1130 K Street, Suite 340\",\"postCode\":95814,\"region\":\"California\"}},\"persName\":{\"forename\":{\"type\":\"first\",\"content\":\"Steve\"},\"surname\":\"Juarez\",\"roleName\":\"Associate Vice President And Director\"}}]},\"monogr\":{\"imprint\":{\"date\":{\"type\":\"published\",\"when\":\"2013-12-20\",\"content\":\"December 20, 2013 January 16, 2013\"}}}}},\"publicationStmt\":{\"date\":{\"type\":\"published\",\"when\":\"2013-12-20\",\"content\":\"December 20, 2013 January 16, 2013\"},\"publisher\":\"\",\"availability\":{\"licence\":\"\",\"status\":\"unknown\"}}}},\"xsi:schemaLocation\":\"http://www.tei-c.org/ns/1.0 /home/ravirajukrishna/grobid/src/grobid/grobid-home/schemas/xsd/Grobid.xsd\",\"xmlns:xlink\":\"http://www.w3.org/1999/xlink\",\"xmlns:xsi\":\"http://www.w3.org/2001/XMLSchema-instance\",\"text\":{\"xml:lang\":\"en\"}}}"
+    ]
+}

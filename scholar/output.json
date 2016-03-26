@@ -1,0 +1,49 @@
+
+[
+    {
+        "Cluster ID": "8094651773727803134", 
+        "Versions": 39, 
+        "URL": "http://er.dut.ac.za/handle/123456789/69", 
+        "Title": "Connectivism: A learning theory for the digital age", 
+        "Excerpt": "Behaviorism, cognitivism, and constructivism are the three broad learning theories most often utilized in the creation of instructional environments. These theories, however, were developed in a time when learning was not impacted through technology. Over the last  ...", 
+        "Citations": 3223, 
+        "Year": "2014", 
+        "Versions list": "http://scholar.google.com/scholar?cluster=8094651773727803134&hl=en&as_sdt=0,5", 
+        "Citations list": "http://scholar.google.com/scholar?cites=8094651773727803134&as_sdt=2005&sciodt=0,5&hl=en"
+    }
+][
+    {
+        "Cluster ID": "4583933401305623738", 
+        "Versions": 49, 
+        "URL": "http://waseda.pure.elsevier.com/en/publications/the-atlas-experiment-at-the-cern-large-hadron-collider(b3c4e9fa-0f6d-4124-a940-65a93741f653).html", 
+        "Title": "The ATLAS experiment at the CERN large hadron collider", 
+        "Excerpt": "Aad G, Abat E, Abdallah J, Abdelalim AA, Abdesselam A, Abdinov O et al. The ATLAS experiment at the CERN large hadron collider. Journal of Instrumentation. 2008; 3 (8). S08003. Available from: 10.1088/1748-0221/3/08/S08003", 
+        "Citations": 6116, 
+        "Year": "2008", 
+        "Versions list": "http://scholar.google.com/scholar?cluster=4583933401305623738&hl=en&as_sdt=0,5", 
+        "Citations list": "http://scholar.google.com/scholar?cites=4583933401305623738&as_sdt=2005&sciodt=0,5&hl=en"
+    }
+][
+    {
+        "Cluster ID": "8094651773727803134", 
+        "Versions": 39, 
+        "URL": "http://er.dut.ac.za/handle/123456789/69", 
+        "Title": "Connectivism: A learning theory for the digital age", 
+        "Excerpt": "Behaviorism, cognitivism, and constructivism are the three broad learning theories most often utilized in the creation of instructional environments. These theories, however, were developed in a time when learning was not impacted through technology. Over the last  ...", 
+        "Citations": 3223, 
+        "Year": "2014", 
+        "Versions list": "http://scholar.google.com/scholar?cluster=8094651773727803134&hl=en&as_sdt=0,5", 
+        "Citations list": "http://scholar.google.com/scholar?cites=8094651773727803134&as_sdt=2005&sciodt=0,5&hl=en"
+    }, 
+    {
+        "Cluster ID": "4583933401305623738", 
+        "Versions": 49, 
+        "URL": "http://waseda.pure.elsevier.com/en/publications/the-atlas-experiment-at-the-cern-large-hadron-collider(b3c4e9fa-0f6d-4124-a940-65a93741f653).html", 
+        "Title": "The ATLAS experiment at the CERN large hadron collider", 
+        "Excerpt": "Aad G, Abat E, Abdallah J, Abdelalim AA, Abdesselam A, Abdinov O et al. The ATLAS experiment at the CERN large hadron collider. Journal of Instrumentation. 2008; 3 (8). S08003. Available from: 10.1088/1748-0221/3/08/S08003", 
+        "Citations": 6116, 
+        "Year": "2008", 
+        "Versions list": "http://scholar.google.com/scholar?cluster=4583933401305623738&hl=en&as_sdt=0,5", 
+        "Citations list": "http://scholar.google.com/scholar?cites=4583933401305623738&as_sdt=2005&sciodt=0,5&hl=en"
+    }
+]

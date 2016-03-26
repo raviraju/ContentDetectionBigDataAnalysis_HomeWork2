@@ -1,0 +1,42 @@
+{
+    "access_permission:can_modify": [
+        "true"
+    ], 
+    "access_permission:extract_content": [
+        "true"
+    ], 
+    "access_permission:assemble_document": [
+        "true"
+    ], 
+    "access_permission:extract_for_accessibility": [
+        "true"
+    ], 
+    "access_permission:fill_in_form": [
+        "true"
+    ], 
+    "pdf:encrypted": [
+        "false"
+    ], 
+    "xmpTPg:NPages": [
+        "0"
+    ], 
+    "dc:format": [
+        "application/pdf; version=1.3"
+    ], 
+    "access_permission:can_print_degraded": [
+        "true"
+    ], 
+    "access_permission:modify_annotations": [
+        "true"
+    ], 
+    "pdf:PDFVersion": [
+        "1.3"
+    ], 
+    "access_permission:can_print": [
+        "true"
+    ], 
+    "relatedPub": [], 
+    "Content-Type": [
+        "application/pdf"
+    ]
+}

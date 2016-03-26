@@ -43,8 +43,9 @@ public class TEI_MetaData {
 
         //System.out.println(metadata.names());
         String[] names = metadata.names();
+        System.out.println(names.length);
         for(int i = 0; i < names.length; ++i) {
-            if(TeiKeys.contains(names[i])) {
+            //if(TeiKeys.contains(names[i])) {
 				String key = names[i].replaceAll(":header","");				
                 System.out.printf("Adding %-50s \n ", key);
                 JSONArray jsonArray = new JSONArray();
@@ -54,16 +55,16 @@ public class TEI_MetaData {
                     addJsonArray(jsonArray, values[j]);
                 }
                 putKeyArray_JsonObj(jsonObj, key, jsonArray);
-            }
-            else
-            {
+            //}
+            //else
+            //{
                 /*System.out.printf("Skipping %-50s : ", names[i]);
                 String[] values = metadata.getValues(names[i]);
                 for (int j = 0; j < values.length; ++j) {
                     System.out.println(values[j]);
                 }
                 System.out.println();*/
-            }
+            //}
         }
 
         String jsonFilePath = output_dir + "/" + fileName + ".json";
@@ -87,7 +88,33 @@ public class TEI_MetaData {
             jParser.parse(stream, handler, metadata, new ParseContext());
             writeTEIJson(fileName, output_dir, metadata);
 
-        }catch (Exception e){
+        }catch (IOException e){
+            
+            String errorFilePath = output_dir + "/errorFiles.txt";
+            BufferedWriter bw = null;
+			try {
+				bw = new BufferedWriter(new FileWriter(errorFilePath, true));
+				bw.write(fileName);
+				bw.newLine();
+				bw.flush();
+			} catch (IOException ioe) {
+				ioe.printStackTrace();
+			} finally {
+				if (bw != null) try {
+					bw.close();
+				} catch (IOException ioe2) {
+					ioe2.printStackTrace();
+				}
+			}
+            
+            
+            
+            
+            
+            
+            
+        }
+        catch (Exception e){
             e.printStackTrace();
         }
     }
