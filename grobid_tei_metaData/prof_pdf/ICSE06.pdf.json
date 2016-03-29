@@ -1,0 +1,87 @@
+{
+    "dc__title": [
+        "Proceedings Template - WORD"
+    ], 
+    "Author": [
+        "End User Computing Services"
+    ], 
+    "Last-Modified": [
+        "2006-02-15T21:16:01Z"
+    ], 
+    "grobid__header_Title": [
+        "A Software Architecture-Based Framework for Highly Distributed and Data Intensive Scientific Applications"
+    ], 
+    "meta__save-date": [
+        "2006-02-15T21:16:01Z"
+    ], 
+    "grobid__header_FullAffiliations": [
+        "[Affiliation {orgName=Jet Propulsion Laboratory California Institute of Technology Pasadena , address=null, CA 91109 USA},Affiliation {orgName=, address=null, CA 90089 USA}[Affiliation {orgName=Jet Propulsion Laboratory California Institute of Technology Pasadena , address=null, CA 91109 USA},Affiliation {orgName=, address=null, CA 90089 USA}]"
+    ], 
+    "title": [
+        "Proceedings Template - WORD"
+    ], 
+    "meta__author": [
+        "End User Computing Services"
+    ], 
+    "Company": [
+        "ACM"
+    ], 
+    "creator": [
+        "End User Computing Services"
+    ], 
+    "grobid__header_Keyword": [
+        "\"D2 Software Engineering, D211 Domain Specific Architectures\""
+    ], 
+    "grobid__header_Affiliation": [
+        "1 Jet Propulsion Laboratory California Institute of Technology Pasadena; 2"
+    ], 
+    "Creation-Date": [
+        "2006-02-15T21:13:58Z"
+    ], 
+    "grobid__header_Class": [
+        "org.apache.tika.metadata.Metadata"
+    ], 
+    "dc__format": [
+        "application/pdf; version=1.4"
+    ], 
+    "xmp__CreatorTool": [
+        "Acrobat PDFMaker 6.0 for Word"
+    ], 
+    "relatedPub": [
+        {
+            "Cluster ID": "11004048862251726431", 
+            "Versions": 13, 
+            "URL": "http://dl.acm.org/citation.cfm?id=1134400", 
+            "Title": "A software architecture-based framework for highly distributed and data intensive scientific applications", 
+            "Excerpt": "Abstract Modern scientific research is increasingly conducted by virtual communities of scientists distributed around the world. The data volumes created by these communities are extremely large, and growing rapidly. The management of the resulting highly distributed,  ...", 
+            "Citations": 80, 
+            "Year": "2006", 
+            "Versions list": "http://scholar.google.com/scholar?cluster=11004048862251726431&hl=en&as_sdt=0,5", 
+            "Citations list": "http://scholar.google.com/scholar?cites=11004048862251726431&as_sdt=2005&sciodt=0,5&hl=en"
+        }
+    ], 
+    "Last-Save-Date": [
+        "2006-02-15T21:16:01Z"
+    ], 
+    "date": [
+        "2006-02-15T21:16:01Z"
+    ], 
+    "meta__creation-date": [
+        "2006-02-15T21:13:58Z"
+    ], 
+    "grobid__header_Address": [
+        "null, CA 91109 USA "
+    ], 
+    "created": [
+        "Wed Feb 15 13:13:58 PST 2006"
+    ], 
+    "grobid__header_Authors": [
+        "Chris A Mattmann 1,2 Daniel J Crichton 1 Nenad  Medvidovic 2 Steve  Hughes 1 "
+    ], 
+    "modified": [
+        "2006-02-15T21:16:01Z"
+    ], 
+    "Content-Type": [
+        "application/pdf"
+    ]
+}
