@@ -78,13 +78,23 @@ public class TEI_MetaData {
             if(TeiKeys.contains(names[i])) {
 				String key = names[i].replaceAll(":","__");				
                 System.out.printf("Adding %-50s \n ", key);
-                JSONArray jsonArray = new JSONArray();
-
+                
                 String[] values = metadata.getValues(names[i]);
-                for(int j=0; j<values.length; ++j) {
-                    addJsonArray(jsonArray, values[j]);
-                }
-                putKeyArray_JsonObj(jsonObj, key, jsonArray);
+                if(values.length > 1)
+                {
+					JSONArray jsonArray = new JSONArray();
+					for(int j=0; j<values.length; ++j) {
+						addJsonArray(jsonArray, values[j]);
+					}
+					putKeyArray_JsonObj(jsonObj, key, jsonArray);
+				}
+				else if(values.length == 1){
+					putKeyValue_JsonObj(jsonObj, key, values[0]);
+				}
+				else{
+					System.out.printf("Ignoring %-50s \n ", key);
+				}
+                
 				
 				String jsonFilePath = output_dir + "/" + fileName + ".json";
 				FileWriter fWrite = new FileWriter(jsonFilePath);
