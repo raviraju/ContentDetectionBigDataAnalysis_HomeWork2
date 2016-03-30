@@ -30,13 +30,15 @@ def getPublications(authors):
 				for item in related_list:
 					publications.append(item)
 					#print item
-			time.sleep(random.randrange(10, 40, 2));
+			#time.sleep(random.randrange(10, 40, 2));
+			time.sleep(60);
 	return publications
 	#with open('output.json', 'a') as outfile:
 	#	json.dump(publications, outfile, indent = 4)
 	
 def blocked():
-	time.sleep(random.randrange(10, 40, 2));
+	#time.sleep(random.randrange(10, 40, 2));
+	time.sleep(60);
 	publications = []
 	querier = ScholarQuerier()
 	settings = ScholarSettings()
@@ -77,9 +79,9 @@ def fetchScholarInfo(input_dir, fileName, doiDict, resultPath):
 	
 	authors = [];
 	if 'grobid__header_Authors' in jsondict.keys():
-		print "To be processed later: ",
-		print fileName
-		return
+		#print "To be processed later: ",
+		#print fileName
+		#return
 		for author_info in jsondict['grobid__header_Authors']:
 			for author in author_info.split("1"):
 				authors.append(author.strip());
