@@ -38,13 +38,13 @@ def getPublications(authors):
 	
 def blocked():
 	#time.sleep(random.randrange(10, 40, 2));
-	time.sleep(60);
+	time.sleep(120);
 	publications = []
 	querier = ScholarQuerier()
 	settings = ScholarSettings()
 	querier.apply_settings(settings)
 	query = SearchScholarQuery()
-	query.set_author("albert")
+	query.set_author("Ryan Baker")
 	querier.send_query(query)
 	related_list = scholar.json(querier)
 	if related_list:

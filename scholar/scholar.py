@@ -1112,10 +1112,11 @@ def txt(querier, with_globals):
 
 def json(querier):
     articles = querier.articles
+    print len(articles)
     json_list = []
     for art in articles:
         json_list.append(art.as_json())
-	return json_list
+    return json_list
 
 def csv(querier, header=False, sep='|'):
     articles = querier.articles
