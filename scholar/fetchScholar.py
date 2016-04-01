@@ -101,6 +101,8 @@ def fetchScholarInfo(input_dir, fileName, doiDict, resultPath):
 	#	exit(0);
 	
 	if 'grobid__header_Title' in jsondict.keys():
+		#print "skipping for later processing..."
+		#return
 		if blocked():
 			print "we are blocked, cannot proceed"
 			exit(0);

@@ -13,7 +13,7 @@ def main():
 		for line in f:
 			key = line.split('/')[-1]
 			doiDict[key.rstrip('\n')] = line.rstrip('\n')
-	with open("doiDict.json", 'w') as json_file:
+	with open("/media/ravirajukrishna/My Passport/result_json/doiDict.json", 'w') as json_file:
 		json.dump(doiDict, json_file, indent = 4)
 	
 if __name__ == "__main__":
