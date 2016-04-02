@@ -1,0 +1,44 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "data/Y05-1027.pdf  0.8285177441466172",
+                    "size": "0.8285177441466172"
+                },
+                {
+                    "name": "data/StanfordCoreNlp2014.pdf  0.6458408879536005",
+                    "size": "0.6458408879536005"
+                },
+                {
+                    "name": "data/ICSE06.pdf  1.0000000000000002",
+                    "size": "1.0000000000000002"
+                }
+            ],
+            "name": "cluster 0"
+        },
+        {
+            "children": [
+                {
+                    "name": "data/ICSE06.pdf  0.6458602797495655",
+                    "size": "0.6458602797495655"
+                }
+            ],
+            "name": "cluster 1"
+        },
+        {
+            "children": [
+                {
+                    "name": "data/StanfordCoreNlp2014.pdf  0.7736430867910632",
+                    "size": "0.7736430867910632"
+                },
+                {
+                    "name": "data/ICSE06.pdf  0.8285177441466172",
+                    "size": "0.8285177441466172"
+                }
+            ],
+            "name": "cluster 2"
+        }
+    ],
+    "name": "clusters"
+}

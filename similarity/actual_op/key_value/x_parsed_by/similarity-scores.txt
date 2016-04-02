@@ -1,0 +1,6 @@
+Resemblance : 
+StanfordCoreNlp2014.pdf,1.0,data/StanfordCoreNlp2014.pdf,{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}
+2_ICSE06.pdf,1.0,data/2_ICSE06.pdf,{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}
+ICSE06.pdf,1.0,data/ICSE06.pdf,{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}
+Y05-1027.pdf,1.0,data/Y05-1027.pdf,{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}
+3_ICSE06.pdf,1.0,data/3_ICSE06.pdf,{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}
