@@ -1,0 +1,11 @@
+x-coordinate,y-coordinate,Similarity_score
+data/Y05-1027.pdf,data/StanfordCoreNlp2014.pdf,0.7736430867910632
+data/Y05-1027.pdf,data/2_ICSE06.pdf,0.8285177441466172
+data/Y05-1027.pdf,data/3_ICSE06.pdf,0.8285177441466172
+data/Y05-1027.pdf,data/ICSE06.pdf,0.8285177441466172
+data/StanfordCoreNlp2014.pdf,data/2_ICSE06.pdf,0.6458408879536005
+data/StanfordCoreNlp2014.pdf,data/3_ICSE06.pdf,0.6458408879536005
+data/StanfordCoreNlp2014.pdf,data/ICSE06.pdf,0.6458408879536005
+data/2_ICSE06.pdf,data/3_ICSE06.pdf,1.0000000000000002
+data/2_ICSE06.pdf,data/ICSE06.pdf,1.0000000000000002
+data/3_ICSE06.pdf,data/ICSE06.pdf,1.0000000000000002

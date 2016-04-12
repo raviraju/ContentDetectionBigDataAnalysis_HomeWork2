@@ -1,0 +1,95 @@
+{
+    "name": "clusters", 
+    "children": [
+        {
+            "name": "cluster2", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/6BD4D1DFA2F3A980C34CF7111119EFA3EBEAD8FCD48979DCB5BC515F470F8667", 
+                    "children": [
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1404665/component/escidoc:1404669/WEB_BzE_106.pdf"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/2615/2015/acpd-15-2615-2015.pdf"
+                        }
+                    ], 
+                    "key": "6BD4D1DFA2F3A980C34CF7111119EFA3EBEAD8FCD48979DCB5BC515F470F8667", 
+                    "name": "55-75 o S Zonal Mean Temperature 30 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }
+                    ], 
+                    "key": "57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }
+                    ], 
+                    "key": "3_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }
+                    ], 
+                    "key": "2_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster7", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/libraries/88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878", 
+                    "children": [
+                        {
+                            "name": "http://essay.utwente.nl/65875/1/steeg_MA_ewi.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/dff1/e0cb10d97eb35b5c9f7517546aa5a0fdcbcb.pdf"
+                        }, 
+                        {
+                            "name": "http://bidding.oscarrenda.com/Misc.%20Projects/New%20Orleans,%20LA/Sela%2026/Solicitation_No._W912P8-14-R-0036.pdf"
+                        }, 
+                        {
+                            "name": "http://www.reformkompass.de/uploads/tx_itao_download/Froehlich__Troeller_2014_Sicherheitsrat_englisch.pdf"
+                        }, 
+                        {
+                            "name": "http://ferc.gov/legal/staff-reports/2014/ad14-14-operator-actions.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Ahmed_Karam3/publication/273633611_A_Lagrangian_relaxation_approach_for_the_integrated_quay_crane_and_internal_truck_assignment_in_container_terminals/links/55351c370cf2222bcc405a65.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jossu.co.uk/607journalists.pdf"
+                        }
+                    ], 
+                    "key": "88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878", 
+                    "name": "2014-08-13 Meeting Agenda and Minutes (Published) Date"
+                }
+            ]
+        }
+    ]
+}

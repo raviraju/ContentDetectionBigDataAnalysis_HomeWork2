@@ -1,0 +1,44 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "json_data/3_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json  1.0",
+                    "size": "1.0"
+                },
+                {
+                    "name": "json_data/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json  1.0",
+                    "size": "1.0"
+                },
+                {
+                    "name": "json_data/88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878.json  1.0",
+                    "size": "1.0"
+                }
+            ],
+            "name": "cluster 0"
+        },
+        {
+            "children": [
+                {
+                    "name": "json_data/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json  1.0",
+                    "size": "1.0"
+                },
+                {
+                    "name": "json_data/88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878.json  1.0",
+                    "size": "1.0"
+                }
+            ],
+            "name": "cluster 1"
+        },
+        {
+            "children": [
+                {
+                    "name": "json_data/88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878.json  1.0",
+                    "size": "1.0"
+                }
+            ],
+            "name": "cluster 2"
+        }
+    ],
+    "name": "clusters"
+}

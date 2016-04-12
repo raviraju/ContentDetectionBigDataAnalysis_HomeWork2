@@ -1,0 +1,2958 @@
+{
+    "name": "clusters", 
+    "children": [
+        {
+            "name": "cluster0", 
+            "children": [
+                {
+                    "doi": "10.1919/org/oglalalakotanation/www/437FA9412277796226A09A235F5D3D5799C9A1B33969020CCBD2890848ACC527", 
+                    "children": [], 
+                    "key": "437FA9412277796226A09A235F5D3D5799C9A1B33969020CCBD2890848ACC527", 
+                    "name": "Date of last update:______________________________________ __________________________________ ____________________________________ Director Date Human Resource Director Signature Date"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2B26EF2668CC75761FE1E3C976A0AD7BBC5AD6CD6765DA256EB1786B4C940B8E", 
+                    "children": [], 
+                    "key": "2B26EF2668CC75761FE1E3C976A0AD7BBC5AD6CD6765DA256EB1786B4C940B8E", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux 100 hPa MERRA -25 -20 -15 -10 -5 0 K m s"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/002F12F305FBF47639B64467B68A088B2855D947147046D31AD375CFCABA8675", 
+                    "children": [], 
+                    "key": "002F12F305FBF47639B64467B68A088B2855D947147046D31AD375CFCABA8675", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux 30 hPa MERRA -80 -60 -40 -20 0 K m s -1"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/alaskafisheries/www/2B2CDCB0198579CDD619938ACC1C23BEE6190500A9569206DD3A3940247E27D4", 
+                    "children": [], 
+                    "key": "2B2CDCB0198579CDD619938ACC1C23BEE6190500A9569206DD3A3940247E27D4", 
+                    "name": "Using the Custom CarryMap Apps with iPhone and iPad Devices Part of the Small Entity Compliance Guide for Fishery Restriction Areas"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2B2D299EB98588E364497C89E87FF2582FC1A2EAC0D8C392435C3CC5D0B05822", 
+                    "children": [], 
+                    "key": "2B2D299EB98588E364497C89E87FF2582FC1A2EAC0D8C392435C3CC5D0B05822", 
+                    "name": "45-75 o S Heat Flux 150 hPa MERRA -80 -60 -40 -20"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/16CC6B2AEB0187E03350087446F1D61EACDDAD5B3181D5D8FB1935372E59145D", 
+                    "children": [], 
+                    "key": "16CC6B2AEB0187E03350087446F1D61EACDDAD5B3181D5D8FB1935372E59145D", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux 30 hPa MERRA -80 -60 -40 -20 0 K m s"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/634EE05CC09A3282F02FB3640D8C607E4B4C66EF8A4EF45BD592A9EB9025D6A7", 
+                    "children": [], 
+                    "key": "634EE05CC09A3282F02FB3640D8C607E4B4C66EF8A4EF45BD592A9EB9025D6A7", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux (Waves 1-3) 100 hPa MERRA -25 -20 -15 -10 -5 0 K m s"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/5A2A6E0504924D7FDF25A68796BE59856A1B1685CA9E398003461D1AB96D7A9B", 
+                    "children": [], 
+                    "key": "5A2A6E0504924D7FDF25A68796BE59856A1B1685CA9E398003461D1AB96D7A9B", 
+                    "name": "45-75 o S Heat Flux (Waves 1-3) 10 hPa MERRA -400 -300 -200 -100 0 100 K m s"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster1", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/water/ca/5C9FF73742640979EC95ED0A11198543EBA47F3BF663E18468FEA146E2EF90B6", 
+                    "children": [
+                        {
+                            "name": "http://link.springer.com/article/10.1186/2192-1709-2-30"
+                        }
+                    ], 
+                    "key": "5C9FF73742640979EC95ED0A11198543EBA47F3BF663E18468FEA146E2EF90B6", 
+                    "name": "Cross-scale modeling of surface temperature and tree seedling establishment in mountain landscapes"
+                }, 
+                {
+                    "doi": "10.1919/org/nsidc/453C119A4D9C020C22397927370BDB6F0AC70F1FB1EFDABC32547C3D33210265", 
+                    "children": [
+                        {
+                            "name": "https://www.wmo.int/pages/prog/www/WIGOS_6_EC_PORS/Final_Report2010.pdf"
+                        }
+                    ], 
+                    "key": "453C119A4D9C020C22397927370BDB6F0AC70F1FB1EFDABC32547C3D33210265", 
+                    "name": "WORLD METEOROLOGICAL ORGANIZATION EXECUTIVE COUNCIL PANEL OF EXPERTS ON POLAR OBSERVATIONS, RESEARCH AND SERVICES Second session HOBART, AUSTRALIA, 18-20 OCTOBER 2010 EC-PORS-2/INF.XX WMO SERVICES REQUIRED TO SUPPORT OPERATIONS AND RESEARCH IN POLAR REGIONS Ice Services -International Ice Charting Working Group (IICWG)"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster2", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/ucnet/00999895625FAC4B3EEF129B85EB3D55A53E81EACFDB2FB1FEC975FD3497D50B", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Gordon_Clark/publication/267682949_U.S._Public_Sector_Pension_Funds_and_Urban_Revitalization_An_overview_of_policy_and_programs/links/5462101d0cf27487b4557edd.pdf"
+                        }, 
+                        {
+                            "name": "http://ctt.healthsciences.ucla.edu/finance/files/view/policies-procedures/acct-structure-binder-docs/Acct_Manual_A-115-2.pdf"
+                        }
+                    ], 
+                    "key": "00999895625FAC4B3EEF129B85EB3D55A53E81EACFDB2FB1FEC975FD3497D50B", 
+                    "name": "DESIGNATION OF BENEFICIARY\u2014RETIREES, FORMER EMPLOYEES AND OTHERS University of California Retirement Plan (UCRP) and Capital Accumulation Payment (CAP)"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/ago/www/1E96B77B4FE89C3D7B7E82B31027CAC3A4A96F86D95DA656315B58EA5B2A5753", 
+                    "children": [
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA585535"
+                        }, 
+                        {
+                            "name": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.7599&rep=rep1&type=pdf#page=13"
+                        }
+                    ], 
+                    "key": "1E96B77B4FE89C3D7B7E82B31027CAC3A4A96F86D95DA656315B58EA5B2A5753", 
+                    "name": "Part II Department of Defense General Services Administration National Aeronautics and Space Administration 48 CFR Chapter 1 Federal Acquisition Regulations\u2014Contract Bundling and Small Entity Compliance Guide; Final Rules Small Business Adminstration 13 CFR Part 125 Small Business Government Contracting Programs; Final Rule and Proposed Rule"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster3", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/davlr45&section=52"
+                        }
+                    ], 
+                    "key": "57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster5", 
+            "children": [
+                {
+                    "doi": "10.1919/de/dlr/op/pa/www/2B28E1492CCA2F45EAF64D0A5673549E13D878F2D5B555B6DE6F510F35B08EC1", 
+                    "children": [
+                        {
+                            "name": "http://eric.ed.gov/?id=ED369221"
+                        }, 
+                        {
+                            "name": "http://www.winecapitalofcanada.com/wp-content/uploads/2013/10/oliver-tourism-plan-final-aug-08-.pdf"
+                        }, 
+                        {
+                            "name": "http://www.darwininitiative.org.uk/documents/12017/4476/12-017%20AR2%20-%20edited.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=VbhDAAAAQBAJ&oi=fnd&pg=PR9&dq=TAC-3+AGENDA+Schedule+of+presentations+List+of+posters&ots=ZreYXctIXg&sig=muI3PEH_BngftLILZ9vjY1j30hc"
+                        }, 
+                        {
+                            "name": "https://www.duo.uio.no/handle/10852/16061"
+                        }
+                    ], 
+                    "key": "2B28E1492CCA2F45EAF64D0A5673549E13D878F2D5B555B6DE6F510F35B08EC1", 
+                    "name": "TAC-3 AGENDA Schedule of presentations List of posters"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/ago/www/15781FB169255328426D5530006B4C7FD79B4989A8C5F8F2B5F05EC3B917378D", 
+                    "children": [
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA450341"
+                        }, 
+                        {
+                            "name": "http://calhoun.nps.edu/handle/10945/44004"
+                        }, 
+                        {
+                            "name": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.7599&rep=rep1&type=pdf#page=13"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/eost2007EO39/full"
+                        }, 
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA422687"
+                        }
+                    ], 
+                    "key": "15781FB169255328426D5530006B4C7FD79B4989A8C5F8F2B5F05EC3B917378D", 
+                    "name": "NOAA ACQUISITION PACKAGE CHECKLIST DOCUMENTS REQUIRED FOR EVERY NEW ACQUISITION Performance Work Statement, Statement of Objectives or Statement of Work Independent Government Cost Estimate Requisition with Funds Approval and Programmatic Approval Market Research Milestone Plan"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster7", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/uci/lib/special/57F6215836209225EB6E8A27FA5B6EB4635909E617EEBF29FA2809B8FB3373E3", 
+                    "children": [
+                        {
+                            "name": "http://americanarchivist.org/doi/abs/10.17723/aarc.76.2.6q005254035w2076"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/cjla34&section=12"
+                        }, 
+                        {
+                            "name": "http://digitalscholarship.unlv.edu/lib_articles/463/"
+                        }, 
+                        {
+                            "name": "http://eprints.cdlib.org/uc/item/8wf5w4nk.pdf"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/cjla34&section=9"
+                        }, 
+                        {
+                            "name": "http://www.degruyter.com/view/j/mdr.2011.40.issue-4/mdr.2011.018/mdr.2011.018.xml"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=1--3BAAAQBAJ&oi=fnd&pg=PR5&dq=Rules+of+Use+for+the+Virtual+Reading+Room+in+UCIspace+%40+the+Libraries&ots=MhSKvQm84G&sig=BhAYQC_mk_GaSLQh3O-F0DghKLA"
+                        }
+                    ], 
+                    "key": "57F6215836209225EB6E8A27FA5B6EB4635909E617EEBF29FA2809B8FB3373E3", 
+                    "name": "Rules of Use for the Virtual Reading Room in UCIspace @ the Libraries"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster9", 
+            "children": [
+                {
+                    "doi": "10.1919/org/eloka-arctic/2EA83A77A11D38C4C6D87C6D25DA15D1F5D70B65AFF7EDE4D6631E744CBD5639", 
+                    "children": [
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/1088937X.2012.708364"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-90-481-8587-0_5"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/1088937X.2013.873090"
+                        }, 
+                        {
+                            "name": "http://seaice.alaska.edu/gi/publications/eicken/11EHMM.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-90-481-8587-0_1"
+                        }, 
+                        {
+                            "name": "http://jukebox.uaf.edu/site7/sites/default/files/Druckenmiller_PhDThesis_2011_0.pdf"
+                        }, 
+                        {
+                            "name": "http://pws-osri.org/programs/projects/annual_reports/2008/07-10-14.pdf"
+                        }, 
+                        {
+                            "name": "http://www.apecs.is/images/stories/vps/KapschMarie2010a1.pdf"
+                        }, 
+                        {
+                            "name": "http://epic.awi.de/32196/"
+                        }
+                    ], 
+                    "key": "2EA83A77A11D38C4C6D87C6D25DA15D1F5D70B65AFF7EDE4D6631E744CBD5639", 
+                    "name": "Seasonal Ice Zone Observing Network (SIZONet) Contributes to Sea Ice Knowledge and Use (SIKU)"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/1EA4BA857EC5B7FC8BA12154F1AD98E8325291F3C63A45DA0253B79FCE492D66", 
+                    "children": [
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS3927.1"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Yoshihiro_Tomikawa/publication/281326371_Balloon-borne_observations_of_lower_stratospheric_water_vapor_at_Syowa_Station_Antarctica_in_2013/links/55fcf63008aeba1d9f4ad3cf.pdf"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/25981/2015/acpd-15-25981-2015.pdf"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00424.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3968.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2006JD008294/full"
+                        }, 
+                        {
+                            "name": "http://etheses.saurashtrauniversity.edu/126/1/(3)%20MANAVAR%20TWINKLE%20B.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/00150190701370030"
+                        }, 
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA082636"
+                        }
+                    ], 
+                    "key": "1EA4BA857EC5B7FC8BA12154F1AD98E8325291F3C63A45DA0253B79FCE492D66", 
+                    "name": "SH Vortex Edge 360 K MERRA -2.6 -2.4 -2.2 -2.0 -1.8 -1.6 -1.4 -1.2"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster10", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/000BBE22D97207BA11BEFF8201A1C2F978F9DAA1E0B6BFF1D29FCFCA15936767", 
+                    "children": [
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/1748-9326/8/4/045007/meta"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00294.1"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0196890415005956"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2008JD010000/full"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/11/4557/2011/"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2004)017%3C1828:SVITSH%3E2.0.CO;2"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2364/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00635.1"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/12/20931/2012/acpd-12-20931-2012.pdf"
+                        }, 
+                        {
+                            "name": "http://repositorio.furg.br/handle/1/3642"
+                        }
+                    ], 
+                    "key": "000BBE22D97207BA11BEFF8201A1C2F978F9DAA1E0B6BFF1D29FCFCA15936767", 
+                    "name": "50-90 o S Minimum Temperature 150 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/libraries/39973513724A4F7E0ED5EA2524DDE5EB912923CE10190E6AA4300AE83FCFAD6D", 
+                    "children": [
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1300/J123v52n01_12"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=poJEAgAAQBAJ&oi=fnd&pg=PA135&dq=Guidelines+for+Identifying+Non-persistent+Materials+Among+Existing+RLF+Deposits&ots=DQ8jIly-t0&sig=VoN_keBoULBjVLW33yJbki35qjw"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=0gnICQAAQBAJ&oi=fnd&pg=PR1&dq=Guidelines+for+Identifying+Non-persistent+Materials+Among+Existing+RLF+Deposits&ots=36M7H-U0dG&sig=40KaWZ0bHxchvIYz1O0img0tvMY"
+                        }, 
+                        {
+                            "name": "http://bankwatch.org/documents/muddiedwaters_02.pdf"
+                        }, 
+                        {
+                            "name": "https://warner.nh.us/downloads/ConComm/Frazier%20Brook%20Study.pdf"
+                        }, 
+                        {
+                            "name": "http://web.entomology.cornell.edu/jentsch/assets/historical-perspectives-on-apple-production.pdf"
+                        }, 
+                        {
+                            "name": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.7562&rep=rep1&type=pdf"
+                        }, 
+                        {
+                            "name": "https://www.mhsl.uab.edu/dt/2008m/groom.pdf"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.law.ggu.edu/theses/31/"
+                        }, 
+                        {
+                            "name": "http://insikapub.com/index.php/component/banners/click/4#page=109"
+                        }
+                    ], 
+                    "key": "39973513724A4F7E0ED5EA2524DDE5EB912923CE10190E6AA4300AE83FCFAD6D", 
+                    "name": "Guidelines for Identifying Non-persistent Materials Among Existing RLF Deposits"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster13", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/minerals/0E36D0E7C5AA6438EB188E27ACDDF52A33559B39D40755BCFB4F237F02302FFE", 
+                    "children": [
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=njB7FFpWJxgC&oi=fnd&pg=SA9-PA1&dq=THE+MINERAL+INDUSTRY+OF+FIJI&ots=-WUPo15Gxr&sig=WHfVCt2nlnhLvBHuyIHFCnQwH-M"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1360.2009.00029.x/full"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=oVbf0Uyok8oC&oi=fnd&pg=SA8-PA1&dq=THE+MINERAL+INDUSTRY+OF+FIJI&ots=K6dz7YW4AK&sig=NWsIli8LIG2XDt2ekoVBTNeQBhI"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0301420700000325"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0264837701000436"
+                        }, 
+                        {
+                            "name": "http://muse.jhu.edu/journals/contemporary_pacific/v018/18.2filer.html"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1982v3/reference/econatres.minyb1982v3.tglover2.pdf"
+                        }, 
+                        {
+                            "name": "http://www.ingentaconnect.com/content/glbj/em/2008/00000001/00000020/art00008"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/25064831"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2451.2009.00690.x/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1745-7939.1967.tb00025.x/full"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1990v3Asia/reference/econatres.minyb1990v3asia.jwu4.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=XqE-AQAAMAAJ&oi=fnd&pg=PA1&dq=THE+MINERAL+INDUSTRY+OF+FIJI&ots=sfMUW80TNh&sig=tlMRWiTa4lNCaIYMf2w3BiOTayg"
+                        }
+                    ], 
+                    "key": "0E36D0E7C5AA6438EB188E27ACDDF52A33559B39D40755BCFB4F237F02302FFE", 
+                    "name": "THE MINERAL INDUSTRY OF FIJI"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster15", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/noaa/alaskafisheries/www/0021EB868F4F7A7108AFC0F4D2C832F71006C3DE989E92ED04F51B5293E2F5C3", 
+                    "children": [
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=y5sFSdDFKPcC&oi=fnd&pg=PP1&dq=Date+Time+%23+of+Bags+Weight+on+Platform+Scale+Number+of+Runs+Flow+Scale+Weight+Error+%25+Error+Pass/Fail%3F+Name(s)+of+Person(s)+conducting+the+test+Observer+Cruise+%23+RECORD+OF+DAILY+FLOW+SCALE+TEST&ots=OY7goRSW3N&sig=-1iPzQmTinrXrjZrjfWQva9lo2E"
+                        }, 
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA464043"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=pop-BAAAQBAJ&oi=fnd&pg=PR7&dq=Date+Time+%23+of+Bags+Weight+on+Platform+Scale+Number+of+Runs+Flow+Scale+Weight+Error+%25+Error+Pass/Fail%3F+Name(s)+of+Person(s)+conducting+the+test+Observer+Cruise+%23+RECORD+OF+DAILY+FLOW+SCALE+TEST&ots=3RcFd9OR5u&sig=kxCmNI6avQ2szR4jMlNUjv-Ef_E"
+                        }, 
+                        {
+                            "name": "https://open.uct.ac.za/handle/11427/4152"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=uiCn7GkaWzAC&oi=fnd&pg=PT8&dq=Date+Time+%23+of+Bags+Weight+on+Platform+Scale+Number+of+Runs+Flow+Scale+Weight+Error+%25+Error+Pass/Fail%3F+Name(s)+of+Person(s)+conducting+the+test+Observer+Cruise+%23+RECORD+OF+DAILY+FLOW+SCALE+TEST&ots=y_QwYWNzz6&sig=9Fl-BtYMQofHqPj_J_YBFQ8kRkY"
+                        }, 
+                        {
+                            "name": "http://numerocinqmagazine.com/tag/nonfiction/"
+                        }, 
+                        {
+                            "name": "https://www.usnwc.edu/NavalWarCollegeReviewArchives/1980s/1982%20July-August.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=2MxV3BYyuygC&oi=fnd&pg=PP1&dq=Date+Time+%23+of+Bags+Weight+on+Platform+Scale+Number+of+Runs+Flow+Scale+Weight+Error+%25+Error+Pass/Fail%3F+Name(s)+of+Person(s)+conducting+the+test+Observer+Cruise+%23+RECORD+OF+DAILY+FLOW+SCALE+TEST&ots=bWnqsbA6li&sig=pfBAyjf1tPyxWHqi-j9D6E2Ef5s"
+                        }, 
+                        {
+                            "name": "http://cricketdiane.wordpress.com/page/158/?keepthis=true&tb_iframe"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=iirprJHpfPIC&oi=fnd&pg=PP1&dq=Date+Time+%23+of+Bags+Weight+on+Platform+Scale+Number+of+Runs+Flow+Scale+Weight+Error+%25+Error+Pass/Fail%3F+Name(s)+of+Person(s)+conducting+the+test+Observer+Cruise+%23+RECORD+OF+DAILY+FLOW+SCALE+TEST&ots=VBeaRgojox&sig=clocZ9q4eYgGBATtmehB0e2cENg"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=vmubFqJoyzwC&oi=fnd&pg=PR3&dq=Date+Time+%23+of+Bags+Weight+on+Platform+Scale+Number+of+Runs+Flow+Scale+Weight+Error+%25+Error+Pass/Fail%3F+Name(s)+of+Person(s)+conducting+the+test+Observer+Cruise+%23+RECORD+OF+DAILY+FLOW+SCALE+TEST&ots=snTASbo9VS&sig=6UW1yMJN8JNmcKyJn0lpBqHMpNI"
+                        }, 
+                        {
+                            "name": "https://cricketdiane.wordpress.com/page/194/?keepThis=true&TB_iframe"
+                        }, 
+                        {
+                            "name": "http://numerocinqmagazine.com/tag/memoir/"
+                        }, 
+                        {
+                            "name": "https://cricketdiane.wordpress.com/?app-download=ios"
+                        }, 
+                        {
+                            "name": "https://cricketdiane.wordpress.com/tag/cricketdiane/"
+                        }
+                    ], 
+                    "key": "0021EB868F4F7A7108AFC0F4D2C832F71006C3DE989E92ED04F51B5293E2F5C3", 
+                    "name": "Date Time # of Bags Weight on Platform Scale Number of Runs Flow Scale Weight Error % Error Pass/Fail? Name(s) of Person(s) conducting the test Observer Cruise # RECORD OF DAILY FLOW SCALE TEST"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster16", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/minerals/39A40ACBAAA8A3346CB5B26EF02FB18285AABE4BFBB9070135E34E42CA1CB256", 
+                    "children": [
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-1-4612-4428-8_2"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/BF00039905"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0016236185900900"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/hyp.5782/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/93WR02930/full"
+                        }, 
+                        {
+                            "name": "http://cat.inist.fr/?aModele=afficheN&cpsidt=3212156"
+                        }, 
+                        {
+                            "name": "http://gsabulletin.gsapubs.org/content/46/12/1909.short"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/01490459709378043"
+                        }, 
+                        {
+                            "name": "http://cat.inist.fr/?aModele=afficheN&cpsidt=3094389"
+                        }, 
+                        {
+                            "name": "https://www.ideals.illinois.edu/handle/2142/43242"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US4174912"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US6454005"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US311052"
+                        }, 
+                        {
+                            "name": "http://en.cnki.com.cn/Article_en/CJFDTOTAL-TRQG200912040.htm"
+                        }, 
+                        {
+                            "name": "http://jsedres.sepmonline.org/content/31/1/131.short"
+                        }, 
+                        {
+                            "name": "http://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9372(1984)110:2(301)"
+                        }
+                    ], 
+                    "key": "39A40ACBAAA8A3346CB5B26EF02FB18285AABE4BFBB9070135E34E42CA1CB256", 
+                    "name": "CLAY AND SHALE"
+                }, 
+                {
+                    "doi": "10.1919/edu/dinecollege/www/1E9EBC9D527B6C51B26A0AFD4EC1A9943573DC438C0B1BCCC302E253CA46B1EC", 
+                    "children": [
+                        {
+                            "name": "https://www.lancasterseminary.edu/assets/uploads/20082009_Student_Handbook.pdf"
+                        }, 
+                        {
+                            "name": "http://www.upei.ca/files/home/senateminutesjune14-2013.pdf"
+                        }, 
+                        {
+                            "name": "http://admissions.fullerton.edu/currentstudent/guides/i2014.pdf"
+                        }, 
+                        {
+                            "name": "http://www.uaa.alaska.edu/governance/uab/upload/042806UABAgenda.pdf"
+                        }, 
+                        {
+                            "name": "http://vps8392.inmotionhosting.com/~southa12/images/catalogs/2013-2014/SouthArk_2013-2014_catalog.pdf"
+                        }, 
+                        {
+                            "name": "http://encompass.eku.edu/cgi/viewcontent.cgi?article=1012&context=progress_2001-02"
+                        }, 
+                        {
+                            "name": "http://dsps.wi.gov/Documents/Board%20Services/Agenda%20Materials/NHA/2014/20140821NHAOpenSession.pdf"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?article=1153&context=lectures_pre_arch_archives_other"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=89jpZYUS2eAC&oi=fnd&pg=PA1&dq=Professor+Credits+Title+Course+Sec+Days+End+Date+Beg+Time+End+Time+Bldg+Room+Beg+Date+Comments+(if+different+from+sem)+Course+Schedule+Pre-requisites+Max+Reg+ONLINE+Art+Education&ots=jAosn5VIqb&sig=DfUR7BOYd3PYT1J_ANRmwS0ZE2w"
+                        }, 
+                        {
+                            "name": "https://edit.www.uaa.alaska.edu/governance/uab/upload/042806UABAgenda-3.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/4e4a/430804d28caf44d84f22c41db3d4875b6132.pdf"
+                        }, 
+                        {
+                            "name": "https://www.qub.ac.uk/schools/gap/CurrentStudents/EducationalSupport/ProgrammeHandbooks/FileStore/Filetoupload,467196,en.pdf"
+                        }, 
+                        {
+                            "name": "http://gatewayct.edu/SiteMedia/Gateway/Publication%20Archive/2007-2008_Catalog_Final.pdf"
+                        }, 
+                        {
+                            "name": "http://people.exeter.ac.uk/PErnest/pome19/Bell%20-%20Evaluation%20of%20a%20Primary%20Mathematics%20Teacher.doc"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=3Flu_QSyMY0C&oi=fnd&pg=PR7&dq=Professor+Credits+Title+Course+Sec+Days+End+Date+Beg+Time+End+Time+Bldg+Room+Beg+Date+Comments+(if+different+from+sem)+Course+Schedule+Pre-requisites+Max+Reg+ONLINE+Art+Education&ots=S7-uCpZlik&sig=hVzTxPTv3K6zWHvY-W0LVk2Ukh0"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED457822"
+                        }
+                    ], 
+                    "key": "1E9EBC9D527B6C51B26A0AFD4EC1A9943573DC438C0B1BCCC302E253CA46B1EC", 
+                    "name": "Professor Credits Title Course Sec Days End Date Beg Time End Time Bldg Room Beg Date Comments (if different from sem) Course Schedule Pre-requisites Max Reg ONLINE Art Education"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster17", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/columbia/ciesin/sedac/0A26B183DBA5D5017EB7FA68F96FB7E01D213A27632C7D1B93691D2C44D9B9DB", 
+                    "children": [
+                        {
+                            "name": "http://cid.oxfordjournals.org/content/36/6/789.short"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0022395606001981"
+                        }, 
+                        {
+                            "name": "http://www.brookings.edu/~/media/research/files/reports/2001/7/metropolitanpolicy%20fulton/fultoncasestudies.pdf"
+                        }, 
+                        {
+                            "name": "http://www.ingentaconnect.com/content/iuatld/ijtld/2003/00000007/00000012/art00010"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0166046295021213"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/2137808"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0885392403002045"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/2779634"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0749379708006831"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.2307/2061884"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=NCdeLkEbEzQC&oi=fnd&pg=PA3&dq=Demographics+of+the+Houston+Metropolitan+Area&ots=R1IUL1N2E_&sig=2C0gweGNkPZQ0502YDw4-DBRLJ4"
+                        }, 
+                        {
+                            "name": "http://repository.upenn.edu/cgi/viewcontent.cgi?article=1059&context=pwpl"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/00365529108996244"
+                        }, 
+                        {
+                            "name": "http://www.pewsocialtrends.org/2012/08/01/the-rise-of-residential-segregation-by-income/"
+                        }, 
+                        {
+                            "name": "http://www.journalsleep.org/Articles/290312.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.0735-2166.2004.00215.x/full"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/42863494"
+                        }
+                    ], 
+                    "key": "0A26B183DBA5D5017EB7FA68F96FB7E01D213A27632C7D1B93691D2C44D9B9DB", 
+                    "name": "Demographics of the Houston Metropolitan Area"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster18", 
+            "children": [
+                {
+                    "doi": "10.1919/ar/gov/dna/www/0078CFF0699CD933ACA33E8FD72874DE657F12B883BC74A902F0A778882CF1C8", 
+                    "children": [
+                        {
+                            "name": "http://repositorio.ub.edu.ar:8080/xmlui/handle/123456789/4152"
+                        }, 
+                        {
+                            "name": "http://revistas.uexternado.edu.co/index.php/contad/article/view/3976"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=FsMnMJ25XOwC&oi=fnd&pg=PA165&dq=Ley+Nacional+25.260&ots=t5l0k8EiGP&sig=o09p1pQ19k4ZoORRWaNT8pEeHgs"
+                        }, 
+                        {
+                            "name": "http://www.actaf.co.cu/revistas/revista_au_1-18/rau4/AU4%20AU%20en%20Bulgaria.pdf"
+                        }, 
+                        {
+                            "name": "http://www.scielo.org.ar/scielo.php?pid=S1515-59942010000200011&script=sci_arttext&tlng=en"
+                        }, 
+                        {
+                            "name": "http://dialnet.unirioja.es/servlet/articulo?codigo=207857&orden=0&info=link"
+                        }, 
+                        {
+                            "name": "http://www.dspace.ups.edu.ec/handle/123456789/6469"
+                        }, 
+                        {
+                            "name": "http://dspace.ups.edu.ec/handle/123456789/4200"
+                        }, 
+                        {
+                            "name": "http://www.medicina-intensiva.cl/~medicina/revistaweb/revistas/2012/27-1-2012/full_2_3.pdf"
+                        }, 
+                        {
+                            "name": "http://dialnet.unirioja.es/descarga/articulo/1111910.pdf"
+                        }, 
+                        {
+                            "name": "http://revistas.ucm.es/index.php/AGUC/article/view/32357"
+                        }, 
+                        {
+                            "name": "http://dspace.uazuay.edu.ec/bitstream/datos/4357/1/10913.pdf"
+                        }, 
+                        {
+                            "name": "http://www.cesm-cv.org/Documentos/AccionSindical/Retribucion%20Rural2003.pdf"
+                        }, 
+                        {
+                            "name": "http://repositorio.ucsg.edu.ec:8080/handle/123456789/2760"
+                        }, 
+                        {
+                            "name": "http://consultas.fonafifo.go.cr/paginas_espanol/noticias/REDD/DOC/consultorias%20y%20otros%20documentos%20de%20interes/Resultados%20de%20PSA%20en%20territorios%20indigenas.pdf"
+                        }, 
+                        {
+                            "name": "http://roderic.uv.es/handle/10550/35016"
+                        }, 
+                        {
+                            "name": "http://repositoriosed.educacionbogota.edu.co/jspui/handle/123456789/308"
+                        }, 
+                        {
+                            "name": "http://works.bepress.com/rafael_mery/1/"
+                        }
+                    ], 
+                    "key": "0078CFF0699CD933ACA33E8FD72874DE657F12B883BC74A902F0A778882CF1C8", 
+                    "name": "Ley Nacional 25.260"
+                }, 
+                {
+                    "doi": "10.1919/org/nsidc/0E39D221A6565B0EC4F40FCCC9A23EA411A27D84E35474B601104BCD73299C53", 
+                    "children": [
+                        {
+                            "name": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4123215/"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=k9n8v_7foQkC&oi=fnd&pg=PR5&dq=APENDIX+TWO+LIST+OF+PARTICIPANTS&ots=OzXNTDpUv1&sig=Pi0JWs31PNoUIxf9Rdyh6ApYe8I"
+                        }, 
+                        {
+                            "name": "http://circ.ahajournals.org/content/107/3/499.full/2122/40044/chronic-inflammation-and-disease/share?shareID=78406&c=catalogitemmearticle"
+                        }, 
+                        {
+                            "name": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879499/"
+                        }, 
+                        {
+                            "name": "http://qualitysafety.bmj.com/content/14/1/26.short"
+                        }, 
+                        {
+                            "name": "http://eprints.uwe.ac.uk/8450"
+                        }, 
+                        {
+                            "name": "http://www.cabdirect.org/abstracts/19821888623.html"
+                        }, 
+                        {
+                            "name": "http://circ.ahajournals.org/content/111/9/1100.short"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=Djr8v_-mFzYC&oi=fnd&pg=PR10&dq=APENDIX+TWO+LIST+OF+PARTICIPANTS&ots=tnOkSn-rFc&sig=wUs_5mtbObwV5s9b1BVBmjQqLpM"
+                        }, 
+                        {
+                            "name": "http://www.bmj.com/content/328/7449/1166?ct"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2005.00737.x/full"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/248662"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/smj.4250140505/abstract"
+                        }, 
+                        {
+                            "name": "http://annals.org/article.aspx?articleid=716785"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S1042814383710083"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1053/jhep.2000.16602/full"
+                        }, 
+                        {
+                            "name": "http://trec.nist.gov/pubs/trec10/papers/overview_10.pdf"
+                        }, 
+                        {
+                            "name": "http://dl.acm.org/citation.cfm?id=358537"
+                        }
+                    ], 
+                    "key": "0E39D221A6565B0EC4F40FCCC9A23EA411A27D84E35474B601104BCD73299C53", 
+                    "name": "APENDIX TWO LIST OF PARTICIPANTS"
+                }, 
+                {
+                    "doi": "10.1919/edu/ucar/eol/www/0A1314FE9DC7DAD74A9ED83736DF6902295A27870DF356A5BC1E7CC2CF158C05", 
+                    "children": [
+                        {
+                            "name": "https://courses.cs.ut.ee/MTAT.03.094/2015_fall/uploads/Main/SE2014-handout11.pdf"
+                        }, 
+                        {
+                            "name": "http://abufara.com/abufara.net/images/abook_file/back/Ch1.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=4vsJBAAAQBAJ&oi=fnd&pg=PP1&dq=2014+Planning+Chart&ots=8SC3KKEsir&sig=kXWHv8vxu8P12X963cjBOgHQP5Q"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=TCwoAwAAQBAJ&oi=fnd&pg=PR2&dq=2014+Planning+Chart&ots=wzlpYr_Z3t&sig=6x_lkIPRRBLeJuzoPjVOPuS0JY8"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s10096-014-2088-9"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1007/978-1-4614-6170-8_140.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=_mkV_0NNYQIC&oi=fnd&pg=PP1&dq=2014+Planning+Chart&ots=X4D7tAaS7A&sig=8T3lTRRiV8vz15LJI5CrdYyjRrk"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=Uo9FBgAAQBAJ&oi=fnd&pg=PR1&dq=2014+Planning+Chart&ots=i_aF_Y8vGD&sig=zYQX5JySoRB91ACmiIF7h7kjb2E"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=I4-lAgAAQBAJ&oi=fnd&pg=PP1&dq=2014+Planning+Chart&ots=5LvluSvkDY&sig=bwIT5qafFDzXNla7aooT60YwdCI"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=vAQrAwAAQBAJ&oi=fnd&pg=PT35&dq=2014+Planning+Chart&ots=vPg1BcUYpz&sig=X9DbcjTOyRpQUOI5sutbQJmbjDU"
+                        }, 
+                        {
+                            "name": "http://aeq.sagepub.com/content/36/2/86.short"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1007/b112328.pdf"
+                        }, 
+                        {
+                            "name": "http://philpapers.org/rec/CAMPTA-2"
+                        }, 
+                        {
+                            "name": "http://www.birpublications.org/doi/full/10.1259/bjr/28583675"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US4827419"
+                        }, 
+                        {
+                            "name": "http://www.nejm.org/doi/full/10.1056/NEJMsa0904859"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6595638"
+                        }, 
+                        {
+                            "name": "http://pubs.acs.org/doi/abs/10.1021/ja413018f"
+                        }
+                    ], 
+                    "key": "0A1314FE9DC7DAD74A9ED83736DF6902295A27870DF356A5BC1E7CC2CF158C05", 
+                    "name": "2014 Planning Chart"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster19", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/er/minerals/2F2AFC410B463373B65CA50E49066C4ADEA7E6BEC0117D5EADD442A4D3D4C62D", 
+                    "children": [
+                        {
+                            "name": "http://science.sciencemag.org/content/277/5330/1287.short"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/jap/53/10/10.1063/1.331665"
+                        }, 
+                        {
+                            "name": "http://www.nature.com/nature/journal/v422/n6932/full/nature01551.html"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/pr/abstract/10.1103/PhysRev.127.768"
+                        }, 
+                        {
+                            "name": "http://www.nature.com/nature/journal/v415/n6872/abs/415599a.html"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/jap/79/6/10.1063/1.361236"
+                        }, 
+                        {
+                            "name": "http://europepmc.org/abstract/med/401519"
+                        }, 
+                        {
+                            "name": "http://pubs.acs.org/doi/abs/10.1021/ac981409y"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0022369770900016"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/apl/4/10/10.1063/1.1753928"
+                        }, 
+                        {
+                            "name": "http://www.nature.com/nmat/journal/v1/n2/abs/nmat728.html"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/apl/59/8/10.1063/1.106309"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/apl/12/4/10.1063/1.1651934"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/apl/69/4/10.1063/1.117767"
+                        }, 
+                        {
+                            "name": "http://pubs.acs.org/doi/abs/10.1021/nl015667d"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/jcp/110/16/10.1063/1.478678"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/jap/71/10/10.1063/1.350642"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/jap/75/11/10.1063/1.356650"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Jae_Kyeong_Jeong/publication/234933404_Improvements_in_the_device_characteristics_of_amorphous_indium_gallium_zinc_oxide_thin-film_transistors_by_Ar_plasma_treatment._Appl_Phys_Lett_90262106/links/54e881200cf25ba91c7de0a7.pdf"
+                        }
+                    ], 
+                    "key": "2F2AFC410B463373B65CA50E49066C4ADEA7E6BEC0117D5EADD442A4D3D4C62D", 
+                    "name": "GALLIUM"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2EDB30B7027F919311A5932982F2A2EF5033A50FB55EAA81FB8459BC1B529F1D", 
+                    "children": [
+                        {
+                            "name": "http://www.nature.com/nature/journal/v478/n7370/abs/nature10556.html"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/2353/2014/acp-14-2353-2014.html"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=20150001312"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2009JD012979/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2013JD020914/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2011JCLI4034.1"
+                        }, 
+                        {
+                            "name": "http://academiccommons.columbia.edu/catalog/ac:183329"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2553/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2013JD021294/full"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=20150000790"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD022493/full"
+                        }, 
+                        {
+                            "name": "http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16807367&AN=83339786&h=ps%2F%2B914vPs0zarWZVUvPrWm6dlgrNNg1fTzaiX2HzdUDw9P1IEHRj%2B9XD7qHr4icXdbr6KxU4aQtSXWT6mbBSw%3D%3D&crl=c"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2012JD018546/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2482.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2009JD012883/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014MS000387/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2013JD021416/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1980)037%3C2200:TIOTEQ%3E2.0.CO;2"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/acp-2016-96/acp-2016-96.pdf"
+                        }
+                    ], 
+                    "key": "2EDB30B7027F919311A5932982F2A2EF5033A50FB55EAA81FB8459BC1B529F1D", 
+                    "name": "NH Minimum Ozone TOMS+MERRA"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/eospso/2E9B9DFD8FA321B64FEFA1E1D990C08A66415FF261D49BCC9FA1BEB1CB820FB7", 
+                    "children": [
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JD091iD06p06647/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/95JD03793/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/92JD02302/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2005JD005810/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2000JD900413/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JC083iC07p03585/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JZ065i007p02133/full"
+                        }, 
+                        {
+                            "name": "http://science.sciencemag.org/content/295/5555/641.short"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JC095iC08p13341/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2003GB002079/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2000JD900352/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JZ064i011p01911/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JC090iC01p00965/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/98JD01384/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2000JD900004/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2004GL020655/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/96GL02572/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/1999JD900359/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JZ067i004p01451/full"
+                        }
+                    ], 
+                    "key": "2E9B9DFD8FA321B64FEFA1E1D990C08A66415FF261D49BCC9FA1BEB1CB820FB7", 
+                    "name": "Studying Earth's Salty Seas from Space"
+                }, 
+                {
+                    "doi": "10.1919/org/northslope/www/0D3AF9A41881CAFC9F9634B3054817228DE08E9E405F47A6E606C05EC361ECC6", 
+                    "children": [
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.2753/PIN1099-9922130102"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=-HozniH3PpcC&oi=fnd&pg=PA225&dq=Agenda+North+Slope+Science+Initiative+Oversight+Group&ots=huMaIrpFAH&sig=eEch-T9lHgc3u9UtmujIUOQqduo"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Berill_Blair/publication/278668787_Risk_society_on_the_Last_Frontier_Indigenous_knowledge_and_the_politics_of_risk_in_oil_resource_management_at_Alaska's_North_Slope/links/5582094508ae12bde6e4af37.pdf"
+                        }, 
+                        {
+                            "name": "http://www-odp.tamu.edu/Publications/citations/joides_j/joides_j_27_1.pdf"
+                        }, 
+                        {
+                            "name": "http://cmr.ucpress.edu/content/56/1/24.abstract"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00267-002-2749-9"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-3-662-48494-4_14"
+                        }, 
+                        {
+                            "name": "http://arctic.journalhosting.ucalgary.ca/arctic/index.php/arctic/article/view/4450"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=4XSv-9ow4osC&oi=fnd&pg=PR9&dq=Agenda+North+Slope+Science+Initiative+Oversight+Group&ots=malnMD55Ca&sig=tFcNgkuFbgMVqeCFfHKyY3g65Qs"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=s5biLtQdZS4C&oi=fnd&pg=PR4&dq=Agenda+North+Slope+Science+Initiative+Oversight+Group&ots=mP8ifRwfui&sig=vg5C3qVRGrFOey2gYDhs6AyH64M"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0168900208018263"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/pdf/10.1080/00139157.1999.10544283"
+                        }, 
+                        {
+                            "name": "http://library.arcticportal.org/726/"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/764997"
+                        }, 
+                        {
+                            "name": "https://bmjopen.bmj.com/content/1/2/e000323.full"
+                        }, 
+                        {
+                            "name": "http://jpe.library.arizona.edu/volume_4/5DARK.PDF"
+                        }, 
+                        {
+                            "name": "http://digitalscholarship.unlv.edu/pli_lake_mead_limnology/9/"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.2004.00073.x/full"
+                        }, 
+                        {
+                            "name": "http://www.eol.ucar.edu/projects/name/documentation/NAME_sci_impl.pdf"
+                        }
+                    ], 
+                    "key": "0D3AF9A41881CAFC9F9634B3054817228DE08E9E405F47A6E606C05EC361ECC6", 
+                    "name": "Agenda North Slope Science Initiative Oversight Group"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/nrmsc/www/43BCEDCCE8DB5821956DC5F1F859A9E748E49CD1CF376471A19981B718C0B105", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/David_Butler13/publication/260421887_Stability_of_alpine_treeline_in_northern_Montana_USA/links/553ec7080cf20184050f8ca7.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/1942012"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0169555X03001478"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0305748898901086"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1997)126%3C0021%3AFZATHS%3E2.3.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=daScUKj5wvsC&oi=fnd&pg=PP1&dq=Hidden+Lake+Glacier+National+Park+MT+Glacier+National+Park,+MT&ots=EPq9GkdnJl&sig=w4dnNFCkOTN4Ver-14yg0b91-Lw"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3241695"
+                        }, 
+                        {
+                            "name": "http://www.nrcresearchpress.com/doi/abs/10.1139/f87-227"
+                        }, 
+                        {
+                            "name": "http://reg.gsapubs.org/content/15/35.abstract"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/02723646.2001.10642744"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/pdf/10.1080/10106048909354227"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/23492474"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/00288306.1998.9514797"
+                        }, 
+                        {
+                            "name": "http://gsabulletin.gsapubs.org/content/71/9/1371.short"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/02723646.1989.10642367"
+                        }, 
+                        {
+                            "name": "http://www.nrcresearchpress.com/doi/abs/10.1139/e85-111"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/30079519"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3536856"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3536855"
+                        }
+                    ], 
+                    "key": "43BCEDCCE8DB5821956DC5F1F859A9E748E49CD1CF376471A19981B718C0B105", 
+                    "name": "Hidden Lake Glacier National Park MT Glacier National Park, MT"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/1E95E8C90267CDD035E5E92BDE534A644B7BF7CB9A8D0090634C230B0F63B8E8", 
+                    "children": [
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0095069605000872"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/2663498"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US3318662"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=LmoQlwzAa5AC&oi=fnd&pg=SA11-PA1&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=xWjLguHsoO&sig=buoSVfZYdJ_9aClVG8bTUqZNiS8"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=m4PwseiGs-gC&oi=fnd&pg=SA34-PA1&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=jxUdgXz6er&sig=Grg8iocdhL5FNNNc2HKJ2VGHy2A"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/1998JD100040/full"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/M_Cancelo/publication/228433549_The_Relationship_between_CO2_and_Sulphur_Emissions_and_Income_An_Alternative_Explanation_to_the_Environmental_Kuznets_Curve_Hypothesis/links/004635277cd2bcac04000000.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=ugzj7nMxKi0C&oi=fnd&pg=SA54-PA1&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=uYRavjQEiN&sig=1osEeaS7JKzCwfqZ0hOGsnRtN_s"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=uFMzFSi0ugkC&oi=fnd&pg=SA8-PA1&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=73Y5-QS13R&sig=ebADvdIKjxAeW2GSJLN2HOhuR_I"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=UQ3sA9v_dr8C&oi=fnd&pg=PA1&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=a_nzHHpc0O&sig=YVeAaQ-_ab21UKy7fNlRjB7Z2QM"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/0471238961.0308121502182501.a01.pub2/full"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=zczd9Xe5QCQC&oi=fnd&pg=PA1&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=J6Akc6vLK6&sig=Zn7_rs4g9-JS1c7fZUxsI927Sg4"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1987v3/reference/econatres.minyb1987v3.jpanulas5.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1990v3Afr/reference/econatres.minyb1990v3afr.gmorgan2.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/00908319008960207"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1981v3/reference/econatres.minyb1981v3.bkornhauser3.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1963v4/reference/econatres.minyb1963v4.lnahai8.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=DVuUf0LMMIwC&oi=fnd&pg=SA43-PA7&dq=SULFUR+(Data+in+thousand+metric+tons+of+sulfur+unless+otherwise+noted)&ots=PqgRByantb&sig=fwO930kfKO4tbkEQ-X0TZMw6F38"
+                        }, 
+                        {
+                            "name": "http://www.imoa.info/download_files/stainless-steel/DeicingSalt.pdf"
+                        }
+                    ], 
+                    "key": "1E95E8C90267CDD035E5E92BDE534A644B7BF7CB9A8D0090634C230B0F63B8E8", 
+                    "name": "SULFUR (Data in thousand metric tons of sulfur unless otherwise noted)"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/arc/ti/1E9ACEA47ABB13F5CD1E698387A5C5535E49165205D1482E1C2BA571EB0277B1", 
+                    "children": [
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/339967/meta"
+                        }, 
+                        {
+                            "name": "http://www.dwheeler.com/essays/gpl-compatible.html"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=20030054432"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/379232/meta"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/0004-637X/716/1/348/meta"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/516575/meta"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/0004-637X/742/2/61/meta"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/0004-637X/730/2/68/meta"
+                        }, 
+                        {
+                            "name": "http://archive-ouverte.unige.ch/unige:2293"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/0004-637X/709/2/644/meta"
+                        }, 
+                        {
+                            "name": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=815758"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S1364815213000947"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2005JD005796/full"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/377216/meta"
+                        }, 
+                        {
+                            "name": "http://dl.acm.org/citation.cfm?id=1823893"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/0004-637X/690/2/1250/meta"
+                        }, 
+                        {
+                            "name": "http://arc.aiaa.org/doi/pdf/10.2514/6.2009-3133"
+                        }, 
+                        {
+                            "name": "http://www.aanda.org/articles/aa/abs/2001/10/aa10444/aa10444.html"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/0004-637X/701/2/1765/meta"
+                        }
+                    ], 
+                    "key": "1E9ACEA47ABB13F5CD1E698387A5C5535E49165205D1482E1C2BA571EB0277B1", 
+                    "name": "NASA OPEN SOURCE AGREEMENT VERSION 1.3"
+                }, 
+                {
+                    "doi": "10.1919/org/galdu/www/10AC44BCCFD082BBCFD6DA6F2FBD733A783D92AFDBB121896B712844A4B9191B", 
+                    "children": [
+                        {
+                            "name": "http://www.jstor.org/stable/2201252"
+                        }, 
+                        {
+                            "name": "http://www.thearctic.is/PDF/Synopsis%20of%20Sami-UN%20Relations%20PDF.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3100113"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/13683500408667993"
+                        }, 
+                        {
+                            "name": "http://sls.sagepub.com/content/13/4/481.short"
+                        }, 
+                        {
+                            "name": "http://journals.cambridge.org/abstract_S0165115312000617"
+                        }, 
+                        {
+                            "name": "http://www.interamerica.de/volume-4-2/kemner/"
+                        }, 
+                        {
+                            "name": "http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/envpola30&section=38"
+                        }, 
+                        {
+                            "name": "http://www.sai.uni-heidelberg.de/sapol/pdf/YIEL2009.pdf"
+                        }, 
+                        {
+                            "name": "http://www.rrh.org.au/articles/subviewnew.asp?articleid=281"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/01419870.2010.537358"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/hhrj11&section=10"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/10383441.2011.10854716"
+                        }, 
+                        {
+                            "name": "https://yielaw.oxfordjournals.org/content/22/1/308.full"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=bwgfoHo2D7QC&oi=fnd&pg=PR5&dq=PRESS+CONFERENCE+ON+NINTH+SESSION+OF+INDIGENOUS+FORUM&ots=1dggjS8EfC&sig=sccO1t8g-4HJIl463IZTCwLNiNg"
+                        }, 
+                        {
+                            "name": "http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/envpola25&section=4"
+                        }, 
+                        {
+                            "name": "http://booksandjournals.brillonline.com/content/journals/10.1163/187219109x447476"
+                        }, 
+                        {
+                            "name": "http://muse.jhu.edu/journals/contemporary_pacific/v027/27.2.gagne.html"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/full/10.1080/14724049.2012.658063"
+                        }
+                    ], 
+                    "key": "10AC44BCCFD082BBCFD6DA6F2FBD733A783D92AFDBB121896B712844A4B9191B", 
+                    "name": "PRESS CONFERENCE ON NINTH SESSION OF INDIGENOUS FORUM"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/63509E662C29A6D1BEA075107A95BBF9E72178EC87F5732B823554FE6CF8E380", 
+                    "children": [
+                        {
+                            "name": "http://minerals.usgs.gov/minerals/pubs/commodity/garnet/garmyb02.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639048709068365"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049209043864"
+                        }, 
+                        {
+                            "name": "http://www.personal.psu.edu/faculty/r/2/r2w/AGBM420/Resources/DataResources-ByProduct/Minerals/Historical%20Statistics%20for%20Mineral%20CommoditiesUS.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639048109055693"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049509048101"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639048909040228"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049009025785"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049509026634"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639048109057733"
+                        }, 
+                        {
+                            "name": "http://elements.geoscienceworld.org/content/9/6/415.short"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049409038331"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1081/DDC-100000481"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639048909040197"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049109048086"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1208/pt060120"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US4564736"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639049609058561"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.3109/03639048209022136"
+                        }
+                    ], 
+                    "key": "63509E662C29A6D1BEA075107A95BBF9E72178EC87F5732B823554FE6CF8E380", 
+                    "name": "GARNET, INDUSTRIAL"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/msfc/solarscience/20003969C76E25C55705DA5BE77470AAF9FFC91ADE8CD3D43DE2E5353EBD01DD", 
+                    "children": [
+                        {
+                            "name": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1361031"
+                        }, 
+                        {
+                            "name": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=788272"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s10909-008-9732-7"
+                        }, 
+                        {
+                            "name": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1288014"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3422413"
+                        }, 
+                        {
+                            "name": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1346344"
+                        }, 
+                        {
+                            "name": "http://www.spaceflight.esa.int/pac-symposium2009/proceedings/papers/s7_5wikus.pdf"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.3292368"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5075607"
+                        }, 
+                        {
+                            "name": "http://downloads.hindawi.com/journals/xroi/2010/412323.pdf"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6428612"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7119097"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=20120016053"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/abs/2015AAS...22545002H"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/abs/2014HEAD...1410405F"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/abs/2011apra.prop...35F"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/abs/2010APS..APRD13003F"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s10909-016-1580-2"
+                        }, 
+                        {
+                            "name": "http://dspace.mit.edu/handle/1721.1/84183"
+                        }
+                    ], 
+                    "key": "20003969C76E25C55705DA5BE77470AAF9FFC91ADE8CD3D43DE2E5353EBD01DD", 
+                    "name": "High Resolution Spectra of Supernova Remnants with the Micro-X Rocket Payload"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/35BEB4A57258D4044BAF2DB1B68C92CE27C506332B15396107E827CEE817A4A7", 
+                    "children": [
+                        {
+                            "name": "http://search.proquest.com/openview/c7d340d745a0e10f77c5e512164e9f27/1?pq-origsite=gscholar"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0304387800000754"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0305750X00000577"
+                        }, 
+                        {
+                            "name": "http://journals.cambridge.org/abstract_S0305741000021019"
+                        }, 
+                        {
+                            "name": "http://minerals.usgs.gov/minerals/pubs/country/2004/knmyb04.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/pdf/10.1080/10736709508436590"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/030438789090080U"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=kkKNUuDPjP8C&oi=fnd&pg=PR3&dq=THE+MINERAL+INDUSTRY+OF+NORTH+KOREA%E2%80%942000+THE+MINERAL+INDUSTRY+OF+NORTH+KOREA&ots=XLLr8rFw1q&sig=wQ8lVArDLiCiK76pcI6TUyEcKgE"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=fg15OViIgIEC&oi=fnd&pg=PA1&dq=THE+MINERAL+INDUSTRY+OF+NORTH+KOREA%E2%80%942000+THE+MINERAL+INDUSTRY+OF+NORTH+KOREA&ots=BzWqaGspkc&sig=xCIo9lhCljASvjWGP2cSeEXfQuo"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0892687500000558"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/1352231094900965"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/10.1086/314412"
+                        }, 
+                        {
+                            "name": "http://geology.gsapubs.org/content/24/12/1071.short"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/10.1086/452523"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S1352231099002253"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Cecilia_Tam/publication/237232402_Energy_Efficiency_and_CO2_Emissions_from_the_Global_Cement_Industry/links/0f31753ba82c270956000000.pdf"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0140988304000283"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/1468-232X.00295/full"
+                        }, 
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA501418"
+                        }
+                    ], 
+                    "key": "35BEB4A57258D4044BAF2DB1B68C92CE27C506332B15396107E827CEE817A4A7", 
+                    "name": "THE MINERAL INDUSTRY OF NORTH KOREA\u20142000 THE MINERAL INDUSTRY OF NORTH KOREA"
+                }, 
+                {
+                    "doi": "10.1919/edu/colorado/learnmoreaboutclimate/5F93401CDBA424449DDE9551E9E9A7C81FB1216C59DBFEF2939047FBEE5963A6", 
+                    "children": [
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/sce.3730790403/abstract"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0012825206000511"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED414305"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0742051X05000387"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/0-306-47217-1_4"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=toobg6OwFPEC&oi=fnd&pg=PR9&dq=Content+Area:+Science+Standard:+Earth+Systems+Science&ots=yjYitOHjqo&sig=cOvb1m5FXoqk4kxURZw8KV3t59o"
+                        }, 
+                        {
+                            "name": "http://science.sciencemag.org/content/277/5325/494.short"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2004GL021592/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JB094iB07p09183/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2005GL022688/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/JZ071i016p03869/full"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/55f55b99bb50d18748455a1c4ae457a6/1?pq-origsite=gscholar"
+                        }, 
+                        {
+                            "name": "http://science.sciencemag.org/content/287/5461/2225.short"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/10.1007/978-0-387-39940-9_1073"
+                        }, 
+                        {
+                            "name": "http://www.ajol.info/index.php/sajg/article/view/106127"
+                        }, 
+                        {
+                            "name": "https://www.pnas.org/content/100/9/5497.full"
+                        }, 
+                        {
+                            "name": "https://dl.sciencesocieties.org/publications/sssaj/abstracts/50/5/SS0500051294"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/95EO00198/full"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/10508406.1999.9672075"
+                        }
+                    ], 
+                    "key": "5F93401CDBA424449DDE9551E9E9A7C81FB1216C59DBFEF2939047FBEE5963A6", 
+                    "name": "Content Area: Science Standard: Earth Systems Science"
+                }, 
+                {
+                    "doi": "10.1919/org/scar/ace/www/35BA30DCEE944C049BEA5719C02B8CC6CE3C8519B203EDED6B1185FF746E7F51", 
+                    "children": [
+                        {
+                            "name": "http://www.uni.edu/csbs/sites/default/files/allfiles/Fall%202014%20handbook.doc"
+                        }, 
+                        {
+                            "name": "http://mro.massey.ac.nz/handle/10179/6633"
+                        }, 
+                        {
+                            "name": "http://catalog.muw.edu/mime/media/view/10/348/Catalog12-13final2.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=4o4GIMAnuisC&oi=fnd&pg=PP2&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=Cp5_VjCCwJ&sig=deZUw_MiMh8l6AlTYF4YxFLZcEw"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=onZVb7wCwj4C&oi=fnd&pg=PT17&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=sADKfRl_wc&sig=aSHZVnRIT9gNfQzSvi7hvN2LcVk"
+                        }, 
+                        {
+                            "name": "https://etd.ohiolink.edu/!etd.send_file?accession=osu1353945905&disposition=attachment"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=qaUWAAAAQBAJ&oi=fnd&pg=PP1&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=NXuWV_XxWu&sig=EWi7EpKZxvVM60Yz2-eZbw5IPMY"
+                        }, 
+                        {
+                            "name": "http://www.diva-portal.org/smash/get/diva2:830754/FULLTEXT01.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=X369CgAAQBAJ&oi=fnd&pg=PP1&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=PmeEQmkwst&sig=Ie0562SoAFKhQgznxAkNxYbsMZQ"
+                        }, 
+                        {
+                            "name": "http://www.sbnature.org/content/657/file/Earthwatch%20brochure.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=XkxHtMkvJEgC&oi=fnd&pg=PP1&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=G9DoL8yz0Z&sig=sskB_xUbu-55dI0NGivdjuMowcY"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=3uzYBgAAQBAJ&oi=fnd&pg=PR11&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=rklzG-b7VZ&sig=-Jhjc8a1tWJdcecrHPQZ-D4x4v4"
+                        }, 
+                        {
+                            "name": "http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA578781"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=6KZbBAAAQBAJ&oi=fnd&pg=PR7&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=KNOiwQ141v&sig=xZGKS9Aiurx5Ze1fLOCs9Q_TvOg"
+                        }, 
+                        {
+                            "name": "https://www.era.lib.ed.ac.uk/handle/1842/14193"
+                        }, 
+                        {
+                            "name": "http://scholarworks.waldenu.edu/dissertations/1866/"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=zxykAwAAQBAJ&oi=fnd&pg=PP1&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=Nw01tdcidO&sig=zIooP9KrcwFikDKq0-G3yjrU03Q"
+                        }, 
+                        {
+                            "name": "http://wells4h.com/wp-content/uploads/2015/05/2015-4-H-Rule-Book.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=lb3cAwAAQBAJ&oi=fnd&pg=PP1&dq=Environmental+Science+Program+Name+___________________+Student+Checklist+%E2%80%93+Entering+Fall+2012+or+later+Term+Starting+_____________+GENERAL+EDUCATION+REQUIREMENTS-see+reverse+of+sheet&ots=iQDziqYfLa&sig=i7WRsUSj5qdW7i8Ki-gmXuaQVoE"
+                        }
+                    ], 
+                    "key": "35BA30DCEE944C049BEA5719C02B8CC6CE3C8519B203EDED6B1185FF746E7F51", 
+                    "name": "Environmental Science Program Name ___________________ Student Checklist \u2013 Entering Fall 2012 or later Term Starting _____________ GENERAL EDUCATION REQUIREMENTS-see reverse of sheet"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster20", 
+            "children": [
+                {
+                    "doi": "10.1919/org/nsidc/1E8CC0942AB87E5BCCD356B013F72E323242633349ED91D7B98B9B42EFC8E08D", 
+                    "children": [
+                        {
+                            "name": "http://www.osti.gov/scitech/biblio/1230107"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-0-387-35561-0_20"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/aris.2009.1440430113/full"
+                        }, 
+                        {
+                            "name": "http://dl.acm.org/citation.cfm?id=1102214"
+                        }, 
+                        {
+                            "name": "http://univagora.ro/jour/index.php/ijccc/issue/download/33/pdf_146#page=103"
+                        }, 
+                        {
+                            "name": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC128958/"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1204842"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1475-6773.2006.00551.x/full"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=cIYAiS1wbRsC&oi=fnd&pg=PR13&dq=FIRST+NAME+LAST+NAME+AFFILIATION+COUNTRY&ots=iaAUAuUbvw&sig=IcQsnpZF8FcUv9QdybkCPLovm5E"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/2749662"
+                        }, 
+                        {
+                            "name": "http://www.francescolissoni.com/rp_g000004.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1023/A:1026582308352"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US6842772"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/1999GC000026/full"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/pdf/2119683.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/30033639"
+                        }, 
+                        {
+                            "name": "http://care.diabetesjournals.org/content/18/10/1330.short"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/pdf/2546100.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3765984"
+                        }, 
+                        {
+                            "name": "http://dl.acm.org/citation.cfm?id=775174"
+                        }
+                    ], 
+                    "key": "1E8CC0942AB87E5BCCD356B013F72E323242633349ED91D7B98B9B42EFC8E08D", 
+                    "name": "FIRST NAME LAST NAME AFFILIATION COUNTRY"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/nrmsc/www/00773AB3F87AA403958E41959842CE5EB05E01CA9A6BED6607F5200D845AB77B", 
+                    "children": [
+                        {
+                            "name": "http://bioscience.oxfordjournals.org/content/53/2/131.short"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/1550456"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.2747/0272-3646.26.2.112"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/David_Butler13/publication/260421887_Stability_of_alpine_treeline_in_northern_Montana_USA/links/553ec7080cf20184050f8ca7.pdf"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0169555X02003501"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=oinwAAAAMAAJ&oi=fnd&pg=PA1365&dq=Boulder+Glacier+Glacier+National+Park,+MT&ots=V8revUyRfv&sig=mKBTHl2p-1O6kdG9XUmaOzfSq-4"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0301926883900839"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/ei153.1"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3243801"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3673396"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/02723646.1986.10642282"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/eclawq14&section=15"
+                        }, 
+                        {
+                            "name": "http://www.nrcresearchpress.com/doi/abs/10.1139/e87-041"
+                        }, 
+                        {
+                            "name": "http://www.ingentaconnect.com/content/igsoc/agl/2007/00000046/00000001/art00052"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0305748898901086"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/3241695"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0277379188900030"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/1551074"
+                        }, 
+                        {
+                            "name": "http://gsabulletin.gsapubs.org/content/24/1/529.short"
+                        }, 
+                        {
+                            "name": "http://www.ajsonline.org/content/250/3/204.short"
+                        }
+                    ], 
+                    "key": "00773AB3F87AA403958E41959842CE5EB05E01CA9A6BED6607F5200D845AB77B", 
+                    "name": "Boulder Glacier Glacier National Park, MT"
+                }, 
+                {
+                    "doi": "10.1919/edu/umassmed/library/55B4025C18D9092A8A2E5559C93A72672F5ADBBA3DAA07473E1360495022D394", 
+                    "children": [
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=vvyIoXEywMoC&oi=fnd&pg=PR21&dq=The+Academic+Year+in+Review&ots=8IspNXjZB3&sig=oW96cYJmUSKnBP_yqtgG9NsNJ_s"
+                        }, 
+                        {
+                            "name": "http://isb.sagepub.com/content/15/3/56.short"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1023/A:1025045412689"
+                        }, 
+                        {
+                            "name": "http://www.jsad.com/doi/abs/10.15288/jsas.2002.s14.91"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S019074090600171X"
+                        }, 
+                        {
+                            "name": "http://rer.sagepub.com/content/75/3/417.short"
+                        }, 
+                        {
+                            "name": "http://rer.sagepub.com/content/57/2/101.short"
+                        }, 
+                        {
+                            "name": "http://bjps.oxfordjournals.org/content/22/4/local/back-matter.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tcrecord.org/DefaultFiles/SendFileToPublic.asp?ft=pdf&FilePath=C:%5CWebsites%5Cwww_tcrecord_org_documents%5C38_12307.pdf&fid=38_12307&aid=2&RID=12307&pf=Content.asp?ContentID=12307"
+                        }, 
+                        {
+                            "name": "http://journals.lww.com/academicmedicine/Abstract/2000/07000/Stress_Management_in_Medical_Education__A_Review.23.aspx"
+                        }, 
+                        {
+                            "name": "http://journals.lww.com/academicmedicine/Abstract/1974/11000/Attitude_changes_during_medical_school__a_review.1.aspx"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/07924360120043621"
+                        }, 
+                        {
+                            "name": "http://journals.lww.com/academicmedicine/Abstract/2006/04000/Systematic_Review_of_Depression,_Anxiety,_and.9.aspx"
+                        }, 
+                        {
+                            "name": "http://ebx.sagepub.com/content/8/3/130.short"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/tea.3660290404/abstract"
+                        }, 
+                        {
+                            "name": "http://psycnet.apa.org/journals/edu/93/1/55/"
+                        }, 
+                        {
+                            "name": "http://ajs.sagepub.com/content/38/12/2405.short"
+                        }, 
+                        {
+                            "name": "http://rer.sagepub.com/content/61/4/505.short"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/03075079912331379935"
+                        }, 
+                        {
+                            "name": "http://psycnet.apa.org/journals/bul/138/2/353/"
+                        }
+                    ], 
+                    "key": "55B4025C18D9092A8A2E5559C93A72672F5ADBBA3DAA07473E1360495022D394", 
+                    "name": "The Academic Year in Review"
+                }, 
+                {
+                    "doi": "10.1919/edu/ucar/eol/catalog/0D3477E34C18DE5C1BF2E10333E7730DD011D8D89F6415D45229EF04222C179B", 
+                    "children": [
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=5YktgBuoglAC&oi=fnd&pg=PR7&dq=HIPPO+Project+Time+Zone+Conversion+Chart+UTC+to+Local+Time&ots=T4E3-tr4Ms&sig=b0AjWAE9B8pHSdfrp44TC4Dx_eQ"
+                        }, 
+                        {
+                            "name": "http://cdiac.ornl.gov/epubs/ndp/ndp048/ndp048.html?ref=Guzels.TV"
+                        }, 
+                        {
+                            "name": "http://www.openquaternary.com/articles/10.5334/oq.ah/"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=WSFHbLfawt0C&oi=fnd&pg=PP11&dq=HIPPO+Project+Time+Zone+Conversion+Chart+UTC+to+Local+Time&ots=DHpvZmsOvL&sig=lssyhlxD4TUoZu-E-jO0IDbQdFw"
+                        }, 
+                        {
+                            "name": "http://plankt.oxfordjournals.org/content/11/4/665.short"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1057/9781137017895.pdf#page=162"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=l1cQ8n4anZAC&oi=fnd&pg=PA29&dq=HIPPO+Project+Time+Zone+Conversion+Chart+UTC+to+Local+Time&ots=qWJf6p56ve&sig=HOXt3m1FzXJjPR3mUuWOjQYZbSs"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=BEIyvLL36nAC&oi=fnd&pg=PP2&dq=HIPPO+Project+Time+Zone+Conversion+Chart+UTC+to+Local+Time&ots=YrQw6M4mLL&sig=jhO46hubWy_WH2TZsfU10QW5BDE"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1007/978-1-4419-9917-7_83.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/23644458"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=ANMQCdQT_OAC&oi=fnd&pg=PP10&dq=HIPPO+Project+Time+Zone+Conversion+Chart+UTC+to+Local+Time&ots=XVwUr9vagG&sig=0YGczJNh9c39xZCRbw99Qfz3C54"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Pierre_Morand/publication/32982313_Small-scale_distribution_of_macroplankton_and_micronekton_in_the_Ligurian_Sea_Mediterranean_Sea_as_observed_from_the_manned_submersible_Cyana/links/09e4150f94443bc34a000000.pdf"
+                        }, 
+                        {
+                            "name": "http://sites.google.com/site/pondokmayacom/algeria-wikipedia-encyclopedia"
+                        }, 
+                        {
+                            "name": "http://ro.uow.edu.au/theses/4536/"
+                        }, 
+                        {
+                            "name": "http://brage.bibsys.no/xmlui/handle/11250/259420"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Beate_Boehme/publication/27553837_Geo_ecology_of_the_Lake_Urema__Central_Mozambique/links/02e7e52d3f6b1b4f72000000.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=K2rVJ4dX_RoC&oi=fnd&pg=PR6&dq=HIPPO+Project+Time+Zone+Conversion+Chart+UTC+to+Local+Time&ots=InTXrtif4e&sig=_lfxzFvg4HqefJWmyDw5TTzYwKc"
+                        }, 
+                        {
+                            "name": "http://www.statemaster.com/encyclopedia/Democratic-Republic-of-the-Congo"
+                        }, 
+                        {
+                            "name": "https://vtechworks.lib.vt.edu/handle/10919/52343"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/23782178"
+                        }
+                    ], 
+                    "key": "0D3477E34C18DE5C1BF2E10333E7730DD011D8D89F6415D45229EF04222C179B", 
+                    "name": "HIPPO Project Time Zone Conversion Chart UTC to Local Time"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/arc/keplerscience/10A46A73B6D20C346418081D75995A4CC3289A9687166C7DF44637154041F23D", 
+                    "children": [
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s11207-006-0217-z"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-3-642-02611-9_88"
+                        }, 
+                        {
+                            "name": "http://arxiv.org/abs/1502.04004"
+                        }, 
+                        {
+                            "name": "http://www.worldscientific.com/doi/abs/10.1142/S0218271814440027"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.69.014415"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/09500830500492125"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6686706"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/prd/abstract/10.1103/PhysRevD.82.103528"
+                        }, 
+                        {
+                            "name": "http://scitation.aip.org/content/aip/journal/jap/80/3/10.1063/1.363024"
+                        }, 
+                        {
+                            "name": "https://mnras.oxfordjournals.org/content/456/2/2260.full"
+                        }, 
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:529621"
+                        }, 
+                        {
+                            "name": "http://www.worldscientific.com/doi/abs/10.1142/S0217732302006886"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.023519"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/10.1007%2F0-306-47025-X_44"
+                        }, 
+                        {
+                            "name": "http://www.aanda.org/articles/aa/full_html/2015/07/aa25889-15/aa25889-15.html"
+                        }, 
+                        {
+                            "name": "http://articles.adsabs.harvard.edu/full/1992ApJ...393..165V"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.183201"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/309536/meta"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/BF01251894"
+                        }, 
+                        {
+                            "name": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4777222"
+                        }
+                    ], 
+                    "key": "10A46A73B6D20C346418081D75995A4CC3289A9687166C7DF44637154041F23D", 
+                    "name": "roAp candidates in Field 0 of K2"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/10AA326AA1F50B12CC6AA12A62EEEC7D732CA1DD386490881032AC2D1CA89363", 
+                    "children": [
+                        {
+                            "name": "http://www.nature.com/nature/journal/v478/n7370/abs/nature10556.html"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/15/3873/2015/acp-15-3873-2015.html"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/2353/2014/acp-14-2353-2014.html"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Yoshihiro_Tomikawa/publication/281326371_Balloon-borne_observations_of_lower_stratospheric_water_vapor_at_Syowa_Station_Antarctica_in_2013/links/55fcf63008aeba1d9f4ad3cf.pdf"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0242.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2003)016%3C3256%3ASTHAMF%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1997)054%3C0656:OTOOTB%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0485(2002)032%3C0383:ACOSLA%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2008MWR2550.1"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.012007"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD022615/full"
+                        }, 
+                        {
+                            "name": "http://www.eps.jhu.edu/~cig4/upperchangesv10.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Marta_Abalos/publication/278912857_Evaluating_the_advective_Brewer-Dobson_circulation_in_three_reanalyses_for_the_period_1979-2012/links/55ace50308ae815a042b35a3.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50396/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2000)013%3C1000:AMITEC%3E2.0.CO;2"
+                        }, 
+                        {
+                            "name": "http://dspace.mit.edu/handle/1721.1/95926"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1976)033%3C1937:OOAMSP%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://acp.pisoft.cz/2015-1/acp-2015-198-manuscript-version2.pdf"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0503.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0572.1"
+                        }
+                    ], 
+                    "key": "10AA326AA1F50B12CC6AA12A62EEEC7D732CA1DD386490881032AC2D1CA89363", 
+                    "name": "SH Vortex Area 460 K MERRA"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2B24FDCAE8A26ECA964706B86E54E474B7E93C2FACFF35AB8F2BF570313F35B2", 
+                    "children": [
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3404.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2011JAS3606.1"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00382-010-0888-x"
+                        }, 
+                        {
+                            "name": "http://jlc.jst.go.jp/DN/JLC/20007649743?from=Google"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2011JCLI4118.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD021610/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2011JD016808/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2553/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2009JD012999/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00842.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00647.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3306.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00599.1"
+                        }, 
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1404665/component/escidoc:1404669/WEB_BzE_106.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2015GL063937/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2004)017%3C1022%3ASAMOTN%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/3945/2014/acp-14-3945-2014.html"
+                        }, 
+                        {
+                            "name": "http://dash.harvard.edu/handle/1/10974705"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/2615/2015/acpd-15-2615-2015.pdf"
+                        }, 
+                        {
+                            "name": "http://ro.uow.edu.au/smhpapers/2893/"
+                        }
+                    ], 
+                    "key": "2B24FDCAE8A26ECA964706B86E54E474B7E93C2FACFF35AB8F2BF570313F35B2", 
+                    "name": "55-75 o S Zonal Mean Temperature 10 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/er/minerals/2EBE487F6FA783567687E4B21358F4922922145C38CFA9AFE4487F7355C69780", 
+                    "children": [
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1991v1/reference/econatres.minyb1991v1.lcunningham.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=M8U_NOcpKygC&oi=fnd&pg=SA32-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=zf9UpNUsHh&sig=dm7reqv57a2g8ga8cIMC_wzpeHM"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=dgU75I2-xAcC&oi=fnd&pg=SA31-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=gQMbqCoQZJ&sig=gf04oaJa7frwzbgMqFyv3pFBHZI"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=tL4hau707bwC&oi=fnd&pg=SA2-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=JrBpa6dwco&sig=plZz66UhNF1-BMdDyQ73M6Vys0g"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=DxN_acZGETQC&oi=fnd&pg=PA7&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=clp5MvQN6P&sig=U7KU1QNyvRWG8qdWYJXBsok4cGg"
+                        }, 
+                        {
+                            "name": "http://pubs.acs.org/doi/abs/10.1021/ic50061a024"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=cOUq1JKeQ18C&oi=fnd&pg=SA1-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=kCvFEO9yer&sig=H2RcdavTMFhowdGx05svlfpTY2E"
+                        }, 
+                        {
+                            "name": "http://www.ceramicindustry.com/articles/95213-raw-manufactured-materials-2016-overview"
+                        }, 
+                        {
+                            "name": "http://minerals.usgs.gov/minerals/pubs/country/2003/asmyb03.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=njB7FFpWJxgC&oi=fnd&pg=SA28-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=-WUPo17Ivr&sig=J3BW_UX7bZ0b8OdA32uMSYnWOlU"
+                        }, 
+                        {
+                            "name": "http://pubs.usgs.gov/circ/circ1196-Y/"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1990v1/reference/econatres.minyb1990v1.rreese.pdf"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=njB7FFpWJxgC&oi=fnd&pg=SA9-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=-WUPo17Ivr&sig=Ic5kyf0qQvdi6o2eBjplwYzPjis"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1992v1/reference/econatres.minyb1992v1.dkostick.pdf"
+                        }, 
+                        {
+                            "name": "http://www.infomine.com/index/pr/PB/29/25/PB292590.PDF"
+                        }, 
+                        {
+                            "name": "http://www.google.com/patents/US20150292057"
+                        }, 
+                        {
+                            "name": "http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/intlm21&section=89"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/0471435139.tox035/full"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=M8U_NOcpKygC&oi=fnd&pg=SA1-PA1&dq=ZIRCONIUM+AND+HAFNIUM+(Data+in+metric+tons,+unless+otherwise+noted)&ots=zf9UpNUsHh&sig=8qqHgafYUxG7yWUFnWR7cxZu-BA"
+                        }, 
+                        {
+                            "name": "http://www.iaea.org/inis/collection/NCLCollectionStore/_Public/18/086/18086467.pdf"
+                        }
+                    ], 
+                    "key": "2EBE487F6FA783567687E4B21358F4922922145C38CFA9AFE4487F7355C69780", 
+                    "name": "ZIRCONIUM AND HAFNIUM (Data in metric tons, unless otherwise noted)"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/453EBBD5B0698DFC20961D19319381B07B3000F069D74FFD4050F7E7C5BB9C09", 
+                    "children": [
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3404.1"
+                        }, 
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:1147549"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3826.1"
+                        }, 
+                        {
+                            "name": "http://academiccommons.columbia.edu/catalog/ac:183329"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2004)017%3C1975:VOTNHA%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL052526/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1997)054%3C0420:TDWAOF%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/12/10945/2012/"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD022295/full"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/12/4795/2012/"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/1748-9326/8/4/045007/meta"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00382-012-1358-4"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00558.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2376/full"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/7135/2014/acp-14-7135-2014.html"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2007JCLI1663.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-13-029.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD021484/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-13-0138.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0870.2011.00534.x/full"
+                        }
+                    ], 
+                    "key": "453EBBD5B0698DFC20961D19319381B07B3000F069D74FFD4050F7E7C5BB9C09", 
+                    "name": "60-90 o S Zonal Mean Temperature 70 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/org/projectcounter/www/17B4380BD79C61E5A733DEE9F13DE78BD48AB780A5D074409B0BF2B84C74D056", 
+                    "children": [
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1087/095315108X247276/abstract"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/08963570802026278"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1300/J123v50n01_14"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1300/J105v28n04_02"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/0361526X.2011.617294"
+                        }, 
+                        {
+                            "name": "http://www.emeraldinsight.com/doi/abs/10.1108/03074800510595823"
+                        }, 
+                        {
+                            "name": "http://www.inasp.info/uploads/filer_public/2014/08/28/242_background_reading_-_usage_statistics_and_online_behaviour_fulltext.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/19411260902858318"
+                        }, 
+                        {
+                            "name": "http://www.emeraldinsight.com/doi/abs/10.1108/00330331011083257"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/0361526X.2012.680687"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/00987913.2013.10765482"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/0361526X.2011.591043"
+                        }, 
+                        {
+                            "name": "http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=09530460&AN=43603764&h=P%2B1Fi6nqAKquXt5In54eehUoMOCgrYQrsFgYJybzz25wfsj0cwi%2BxvRUBUG5KybzaOil%2Fq4VGXBJlvlEvSccfA%3D%3D&crl=c"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1300/J123v53n04_06"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1300/J123v46n01_15"
+                        }, 
+                        {
+                            "name": "http://eprints.hud.ac.uk/16113"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/bult.2008.1720350106/full"
+                        }, 
+                        {
+                            "name": "http://14.139.47.23/index.php/ALIS/article/view/309"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/b0c50d9cae515b369ae356c19091dbb9/1?pq-origsite=gscholar"
+                        }, 
+                        {
+                            "name": "http://quod.lib.umich.edu/cgi/t/text/idx/j/jep/3336451.0014.102/--value-of-standards-in-electronic-content-distribution?rgn=main;view=fulltext"
+                        }
+                    ], 
+                    "key": "17B4380BD79C61E5A733DEE9F13DE78BD48AB780A5D074409B0BF2B84C74D056", 
+                    "name": "COUNTER Code of Practice for e-Resources: Release 4 Journal Reports Register of Vendors providing Journal Usage Reports compliant with Release 4 of the COUNTER Code of Practice for e-Resources"
+                }, 
+                {
+                    "doi": "10.1919/org/nsidc/454234D5C8E210738ADA9D22060B827231DBD51CC3D4AB1E4A9272769BEBD9F9", 
+                    "children": [
+                        {
+                            "name": "http://search.proquest.com/openview/2de1b1230a373322be8123480a10a576/1?pq-origsite=gscholar&cbl=31345"
+                        }, 
+                        {
+                            "name": "http://www.nodc.noaa.gov/General/NODC-About/Outreach/docs/09/Smithsonian2008_Krupnik_pg129-142_Poles.indd.pdf"
+                        }, 
+                        {
+                            "name": "https://www.wmo.int/pages/publications/bulletin_en/archive/56_4_en/documents/forecast.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-3-642-12402-0_14"
+                        }, 
+                        {
+                            "name": "http://academiccommons.columbia.edu/catalog/ac:144789"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Vincent-Henri_Peuch/publication/228698420_THE_CONCORDIASI_PROJECT_OVER_ANTARCTICA_DURING_THE_INTERNATIONAL_POLAR_YEAR_(IPY)/links/0fcfd50b7ce050fbde000000.pdf"
+                        }, 
+                        {
+                            "name": "https://www.pandowae.de/files/TH-HIW/Talks/Sess4/PPP_TJ.pdf"
+                        }, 
+                        {
+                            "name": "http://polarmet.osu.edu/ASR/asr_bromwich_hines_iceland_2008.doc"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00246.1"
+                        }, 
+                        {
+                            "name": "http://polarmet.osu.edu/ASR/asr_bromwich_kuo_wrf_2009.pdf"
+                        }, 
+                        {
+                            "name": "http://collaboration.cmc.ec.gc.ca/science/rpn/tawepi/docs/2009-10_Annual_Progress_Report-Zadra_CC088.pdf"
+                        }, 
+                        {
+                            "name": "http://stockage.univ-brest.fr/~oarzel/publis/Fichefet_et_al_CLIC_newsletter2007.pdf"
+                        }, 
+                        {
+                            "name": "https://www.nsf.gov/pubs/2005/nsf0539/nsf0539_14.pdf"
+                        }, 
+                        {
+                            "name": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.534.7420&rep=rep1&type=pdf"
+                        }, 
+                        {
+                            "name": "http://polarmet.osu.edu/ASR/asr_bromwich_kuo_ams_2009.pdf"
+                        }, 
+                        {
+                            "name": "https://www.wmo.int/pages/prog/www/WIGOS_6_EC_PORS/Final_Report2010.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-90-481-8587-0_1"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/15/5377/2015/acp-15-5377-2015.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/chapter/10.1007/978-94-007-2027-5_12"
+                        }, 
+                        {
+                            "name": "https://oaarchive.arctic-council.org/handle/11374/964"
+                        }
+                    ], 
+                    "key": "454234D5C8E210738ADA9D22060B827231DBD51CC3D4AB1E4A9272769BEBD9F9", 
+                    "name": "Advancing Weather, Ice and Environmental Predictions in The Polar Regions: An IPY Legacy"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/03A235D30F03B42E7095540DDE313F51816BF3C7DE35D193BD8F88D1C67AA633", 
+                    "children": [
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3404.1"
+                        }, 
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:1147549"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3826.1"
+                        }, 
+                        {
+                            "name": "http://academiccommons.columbia.edu/catalog/ac:183329"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2004)017%3C1975:VOTNHA%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2012GL052526/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1997)054%3C0420:TDWAOF%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/12/10945/2012/"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/12/4795/2012/"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/1748-9326/8/4/045007/meta"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00382-012-1358-4"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00558.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2376/full"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/7135/2014/acp-14-7135-2014.html"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2007JCLI1663.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-13-029.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD021484/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-13-0138.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0870.2011.00534.x/full"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.usu.edu/atmlidar_conf/7/"
+                        }
+                    ], 
+                    "key": "03A235D30F03B42E7095540DDE313F51816BF3C7DE35D193BD8F88D1C67AA633", 
+                    "name": "60-90 o S Zonal Mean Temperature 70 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/regents/2E97EB5285A43CF1C0BA2EA33B3A8F8B703CFD467049EBBF3E478DCB3274E19F", 
+                    "children": [
+                        {
+                            "name": "http://www.springerlink.com/index/4wb49hadkuegvx46.pdf"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED124799"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=xkOsAAAAIAAJ&oi=fnd&pg=PA1&dq=J4+Office+of+the+President+TO+MEMBERS+OF+THE+COMMITTEES+ON+LONG+RANGE+PLANNING+AND+EDUCATIONAL+POLICY:+DISCUSSION+ITEM&ots=ciOVo03wY3&sig=OUtCg0gz8W2lN8NVy142VfsQ-Y8"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1951&context=senateagendas"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1495&context=senateagendas"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1558&context=senateagendas"
+                        }, 
+                        {
+                            "name": "http://jdr.sagepub.com/content/72/7/1067.full.pdf"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1225&context=senateagendas"
+                        }, 
+                        {
+                            "name": "http://journals.cambridge.org/abstract_S002238160909080X"
+                        }, 
+                        {
+                            "name": "http://journals.cambridge.org/abstract_S1466046609990445"
+                        }, 
+                        {
+                            "name": "http://www.prgs.edu/content/dam/rand/pubs/research_memoranda/2009/RM4799.pdf"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1559&context=senateagendas"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED125490"
+                        }, 
+                        {
+                            "name": "http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1143&context=senateagendas"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED225953"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED086054"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1300/J013v39n04_02"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/5c8160f7dcd8c425550a3506f7870fdf/1.pdf?pq-origsite=gscholar&cbl=41809"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED243479"
+                        }, 
+                        {
+                            "name": "http://eric.ed.gov/?id=ED370628"
+                        }
+                    ], 
+                    "key": "2E97EB5285A43CF1C0BA2EA33B3A8F8B703CFD467049EBBF3E478DCB3274E19F", 
+                    "name": "J4 Office of the President TO MEMBERS OF THE COMMITTEES ON LONG RANGE PLANNING AND EDUCATIONAL POLICY: DISCUSSION ITEM"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ohcm/5A2275E66928D736672296761D6BDF3E0837C0CD255583B076318F2E2414FEA3", 
+                    "children": [
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19750023591"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/0471028959.sof110/full"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=eFRwQuzPnEcC&oi=fnd&pg=PR17&dq=NASA+ORGANIZATIONAL+MANUAL+FUNCTIONAL+STATEMENTS+GODDARD+SPACE+FLIGHT+CENTER&ots=fg8CSVaTGA&sig=NNed05fKSAWLksirQG1ZsIykr2I"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/T_Schmugge/publication/23915290_Remote_sensing_of_soil_moisture/links/00b7d5318b255b5ab2000000.pdf"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19790022441"
+                        }, 
+                        {
+                            "name": "http://klabs.org/DEI/lessons_learned/"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0029549374901277"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s11334-013-0225-8"
+                        }, 
+                        {
+                            "name": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.6785&rep=rep1&type=pdf"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19830010280"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0394.1986.tb00198.x/full"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19840008008"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19750018972"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19940020111"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19770023760"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19780018734"
+                        }, 
+                        {
+                            "name": "http://ntrs.nasa.gov/search.jsp?R=19800016705"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=9m0StHEikQgC&oi=fnd&pg=PR2&dq=NASA+ORGANIZATIONAL+MANUAL+FUNCTIONAL+STATEMENTS+GODDARD+SPACE+FLIGHT+CENTER&ots=Hbmhd1CZFR&sig=KUumDXZBonIDjk01Gb8F-2AuZ1Y"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=1A6fsp3ipwgC&oi=fnd&pg=PR3&dq=NASA+ORGANIZATIONAL+MANUAL+FUNCTIONAL+STATEMENTS+GODDARD+SPACE+FLIGHT+CENTER&ots=rzmtBFo0Ao&sig=Gc_JYCDo3NUjGWF6so-5gr8If24"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/j.2334-5837.1995.tb01913.x/abstract"
+                        }
+                    ], 
+                    "key": "5A2275E66928D736672296761D6BDF3E0837C0CD255583B076318F2E2414FEA3", 
+                    "name": "NASA ORGANIZATIONAL MANUAL FUNCTIONAL STATEMENTS GODDARD SPACE FLIGHT CENTER"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/corporateservices/www/3998340479AFFA6FBE9593407CDCBAA08E241D1B1459D01E52243875A7BC54F1", 
+                    "children": [
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/96JD02132/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0477(1995)076%3C0655:DOTLIT%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://rda.ucar.edu/datasets/ds742.0/docs/1983.SchifferRossow.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/98JC02370/full"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/ededd5c410dfce3cd5fe3e819f163eb4/1?pq-origsite=gscholar"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2002RS002679/full"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/2d5d1440a9b6831a7a4d314e43ca7e18/1?pq-origsite=gscholar&cbl=31345"
+                        }, 
+                        {
+                            "name": "http://www.pnas.org/content/109/39/15706.short"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2013JD020389/full"
+                        }, 
+                        {
+                            "name": "http://www.dl.begellhouse.com/journals/2b6239406278e43e,031528bc3759a866,656b89f839c85942.html"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/hyp.6720/full"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/0273117786904539"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Brendan_Godley/publication/224952604_Satellite_Tracking_and_Analysis_Tool_(STAT)_an_integrated_system_for_archiving_analyzing_and_mapping_animal_tracking_data/links/0912f509fd318ea37a000000.pdf"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0034425702000822"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/a6068810d66255e733b86842f90e2de6/1?pq-origsite=gscholar&cbl=31345"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S0034425702000846"
+                        }, 
+                        {
+                            "name": "http://www.sciencedirect.com/science/article/pii/S1352231004001451"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/8ca863ae980d664c6cfd95a10d02df9e/1?pq-origsite=gscholar"
+                        }, 
+                        {
+                            "name": "http://search.proquest.com/openview/e451e8f4cf2457fe457741e0b13e379a/1?pq-origsite=gscholar"
+                        }, 
+                        {
+                            "name": "http://remotesensing.spiedigitallibrary.org/article.aspx?articleid=707760"
+                        }
+                    ], 
+                    "key": "3998340479AFFA6FBE9593407CDCBAA08E241D1B1459D01E52243875A7BC54F1", 
+                    "name": "NatioNal ENviroNmENtal SatEllitE, Data, & iNformatioN SErvicE JoiNt Polar SatEllitE SyStEm"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2EFF97144D66B5FA7CF703D2D497EF5D4F916344C53772ADF144CFD9EFAFE928", 
+                    "children": [
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3404.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2011JAS3606.1"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00382-010-0888-x"
+                        }, 
+                        {
+                            "name": "http://jlc.jst.go.jp/DN/JLC/20007649743?from=Google"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2011JCLI4118.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD021610/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2011JD016808/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2553/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2009JD012999/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00842.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00647.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3306.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00599.1"
+                        }, 
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1404665/component/escidoc:1404669/WEB_BzE_106.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2015GL063937/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2004)017%3C1022%3ASAMOTN%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/3945/2014/acp-14-3945-2014.html"
+                        }, 
+                        {
+                            "name": "http://dash.harvard.edu/handle/1/10974705"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/2615/2015/acpd-15-2615-2015.pdf"
+                        }, 
+                        {
+                            "name": "http://ro.uow.edu.au/smhpapers/2893/"
+                        }
+                    ], 
+                    "key": "2EFF97144D66B5FA7CF703D2D497EF5D4F916344C53772ADF144CFD9EFAFE928", 
+                    "name": "55-75 o S Zonal Mean Temperature 10 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/arc/keplerscience/4C313D98DEAAFF4DD3E5C5FD7311F03BEAB5164FB92EBA0393F4357C5AD19302", 
+                    "children": [
+                        {
+                            "name": "http://www.aanda.org/articles/aa/full_html/2011/09/aa16949-11/aa16949-11.html"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/full/1996ApJ...463..737P"
+                        }, 
+                        {
+                            "name": "http://aas.aanda.org/articles/aas/ps/1996/05/ds4105.ps.gz"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=V0_qCAAAQBAJ&oi=fnd&pg=PR17&dq=The+causes+of+variability+of+O-type+stars:+pulsation+and+rotation&ots=IFepL1TbP_&sig=58IHHQRIXXg3FyWKehpJnutKFfk"
+                        }, 
+                        {
+                            "name": "http://www.aanda.org/articles/aa/ps/2006/38/aa5171-06.ps.gz"
+                        }, 
+                        {
+                            "name": "http://www.aanda.org/articles/aa/full_html/2010/11/aa14543-10/aa14543-10.html"
+                        }, 
+                        {
+                            "name": "http://mnras.oxfordjournals.org/content/254/3/404.short"
+                        }, 
+                        {
+                            "name": "https://mnras.oxfordjournals.org/content/413/4/2403.full"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/full/1994A%26A...290..435B"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/305218/meta"
+                        }, 
+                        {
+                            "name": "http://arxiv.org/abs/astro-ph/9812427"
+                        }, 
+                        {
+                            "name": "http://www.aanda.org/articles/aa/ps/2006/07/aa3847-05.ps.gz"
+                        }, 
+                        {
+                            "name": "http://mnrasl.oxfordjournals.org/content/365/1/L6.short"
+                        }, 
+                        {
+                            "name": "http://articles.adsabs.harvard.edu/full/1990A%26A...240..105B"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/323920/meta"
+                        }, 
+                        {
+                            "name": "http://adsabs.harvard.edu/full?orig_server=http://adsabs.harvard.edu&orig_bitmap=http://adsabs.harvard.edu&1997A&A...327..281K"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1086/310558/meta"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00159-008-0015-8"
+                        }, 
+                        {
+                            "name": "http://www.aanda.org/articles/aa/full_html/2013/12/aa21986-13/aa21986-13.html"
+                        }, 
+                        {
+                            "name": "http://iopscience.iop.org/article/10.1088/2041-8205/717/1/L62/meta"
+                        }
+                    ], 
+                    "key": "4C313D98DEAAFF4DD3E5C5FD7311F03BEAB5164FB92EBA0393F4357C5AD19302", 
+                    "name": "The causes of variability of O-type stars: pulsation and rotation"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/0D3BE974D81A32F0A6A732E1B1DA417B48B0937FDD16A7E313729AB979698E9E", 
+                    "children": [
+                        {
+                            "name": "http://www.nature.com/nature/journal/v478/n7370/abs/nature10556.html"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/15/3873/2015/acp-15-3873-2015.html"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/2353/2014/acp-14-2353-2014.html"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Yoshihiro_Tomikawa/publication/281326371_Balloon-borne_observations_of_lower_stratospheric_water_vapor_at_Syowa_Station_Antarctica_in_2013/links/55fcf63008aeba1d9f4ad3cf.pdf"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0242.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2003)016%3C3256%3ASTHAMF%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1997)054%3C0656:OTOOTB%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0485(2002)032%3C0383:ACOSLA%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2008MWR2550.1"
+                        }, 
+                        {
+                            "name": "http://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.012007"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD022615/full"
+                        }, 
+                        {
+                            "name": "http://www.eps.jhu.edu/~cig4/upperchangesv10.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Marta_Abalos/publication/278912857_Evaluating_the_advective_Brewer-Dobson_circulation_in_three_reanalyses_for_the_period_1979-2012/links/55ace50308ae815a042b35a3.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50396/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2000)013%3C1000:AMITEC%3E2.0.CO;2"
+                        }, 
+                        {
+                            "name": "http://dspace.mit.edu/handle/1721.1/95926"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(1976)033%3C1937:OOAMSP%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://acp.pisoft.cz/2015-1/acp-2015-198-manuscript-version2.pdf"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0503.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0572.1"
+                        }
+                    ], 
+                    "key": "0D3BE974D81A32F0A6A732E1B1DA417B48B0937FDD16A7E313729AB979698E9E", 
+                    "name": "SH Vortex Area 460 K MERRA"
+                }, 
+                {
+                    "doi": "10.1919/ar/gov/dna/www/03A1C1E37514875E57BFEF62881C14542C9C7FB8F9421B21ACD5EEFC4176F6AE", 
+                    "children": [
+                        {
+                            "name": "http://www.ecopuerto.com/bicentenario/informes/residuos_solidos.pdf"
+                        }, 
+                        {
+                            "name": "http://archivo.cepal.org/pdfs/1994/S9450687.pdf"
+                        }, 
+                        {
+                            "name": "https://publications.iadb.org/handle/11319/4768"
+                        }, 
+                        {
+                            "name": "http://www.redisa.uji.es/artSim2008/gestion/A21.pdf"
+                        }, 
+                        {
+                            "name": "http://www.eumed.net/rev/oidles/05/ymc.zip"
+                        }, 
+                        {
+                            "name": "http://www.oni.escuelas.edu.ar/2003/ENTRE_RIOS/58/Marco%20legal.pdf"
+                        }, 
+                        {
+                            "name": "http://www.fba.org.ar/programas/biosega/ABCL-Informe2.pdf"
+                        }, 
+                        {
+                            "name": "http://revistas.javeriana.edu.co/index.php/vnijuri/article/view/14634"
+                        }, 
+                        {
+                            "name": "http://163.10.34.134/handle/10915/3493"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=u-tZcFl10eIC&oi=fnd&pg=PA5&dq=LEY+N%C2%B0+24.051+I.+ASPECTOS+GENERALES+Regula+la+Gesti%C3%B3n+de+Residuos+Peligrosos&ots=BGHgfj5sq3&sig=cCLS6ak7I86CcIcSgGlsMydE54c"
+                        }, 
+                        {
+                            "name": "http://www.unne.edu.ar/unnevieja/Web/cyt/cyt2006/07-Tecnologicas/2006-T-019.pdf"
+                        }, 
+                        {
+                            "name": "http://sedici.unlp.edu.ar/handle/10915/42148"
+                        }, 
+                        {
+                            "name": "http://www.ambiente.gob.ar/archivos/web/UniDA/File/Gestion%20de%20RES%20en%20Matanza%20Riachuelo/Programa%20de%20Gestin%20de%20RES%20en%20la%20CMR%20110308%20sin%20presupuesto.pdf"
+                        }, 
+                        {
+                            "name": "http://repositorio.uchile.cl/handle/2250/107399"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Liliana_Bertini/publication/234027099_Gestin_de_residuos_generados_en_laboratorios_de_enseanza_de_qumica_en_entidades_universitarias_con_participacin_activa_del_alumnado/links/09e4150e5f18855704000000.pdf"
+                        }, 
+                        {
+                            "name": "http://www.scielo.org.co/pdf/pml/v6n2/v6n2a04.pdf"
+                        }, 
+                        {
+                            "name": "http://mail.cnecrj.com.br/ojs/index.php/temiminos/article/view/55"
+                        }, 
+                        {
+                            "name": "http://books.google.com/books?hl=en&lr=&id=mIM_dPYR-QEC&oi=fnd&pg=PA143&dq=LEY+N%C2%B0+24.051+I.+ASPECTOS+GENERALES+Regula+la+Gesti%C3%B3n+de+Residuos+Peligrosos&ots=ao1-pEsx7O&sig=mJVeLyT3BTQZ7aYDoh6CR94pVvI"
+                        }, 
+                        {
+                            "name": "http://repository.lasallista.edu.co:8080/ojs/index.php/pl/article/view/125"
+                        }, 
+                        {
+                            "name": "http://dialnet.unirioja.es/servlet/articulo?codigo=4330456"
+                        }
+                    ], 
+                    "key": "03A1C1E37514875E57BFEF62881C14542C9C7FB8F9421B21ACD5EEFC4176F6AE", 
+                    "name": "LEY N\u00b0 24.051 I. ASPECTOS GENERALES Regula la Gesti\u00f3n de Residuos Peligrosos"
+                }
+            ]
+        }
+    ]
+}

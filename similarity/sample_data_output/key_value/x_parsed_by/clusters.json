@@ -1,0 +1,40 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "metadata": "{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}\n",
+                    "name": "StanfordCoreNlp2014.pdf",
+                    "path": "data/StanfordCoreNlp2014.pdf",
+                    "score": 1.0
+                },
+                {
+                    "metadata": "{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}\n",
+                    "name": "2_ICSE06.pdf",
+                    "path": "data/2_ICSE06.pdf",
+                    "score": 1.0
+                },
+                {
+                    "metadata": "{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}\n",
+                    "name": "ICSE06.pdf",
+                    "path": "data/ICSE06.pdf",
+                    "score": 1.0
+                },
+                {
+                    "metadata": "{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}\n",
+                    "name": "Y05-1027.pdf",
+                    "path": "data/Y05-1027.pdf",
+                    "score": 1.0
+                },
+                {
+                    "metadata": "{'X-Parsed-By': [u'org.apache.tika.parser.DefaultParser', u'org.apache.tika.parser.pdf.PDFParser']}\n",
+                    "name": "3_ICSE06.pdf",
+                    "path": "data/3_ICSE06.pdf",
+                    "score": 1.0
+                }
+            ],
+            "name": "cluster0"
+        }
+    ],
+    "name": "clusters"
+}

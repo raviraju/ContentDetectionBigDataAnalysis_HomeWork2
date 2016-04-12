@@ -1,0 +1,80 @@
+ravirajukrishna@ubuntu:~/solr-5.5.0$ bin/solr status
+
+No Solr nodes are running.
+
+ravirajukrishna@ubuntu:~/solr-5.5.0$ bin/solr start
+Waiting up to 30 seconds to see Solr running on port 8983 [/]  
+Started Solr server on port 8983 (pid=8366). Happy searching!
+
+################This will start Solr in the background, listening on port 8983.
+ravirajukrishna@ubuntu:~/solr-5.5.0$ bin/solr status
+
+Found 1 Solr nodes: 
+
+Solr process 8366 running on port 8983
+{
+  "solr_home":"/home/ravirajukrishna/solr-5.5.0/server/solr",
+  "version":"5.5.0 2a228b3920a07f930f7afb6a42d0d20e184a943c - mike - 2016-02-16 15:22:52",
+  "startTime":"2016-03-18T19:29:57.108Z",
+  "uptime":"0 days, 0 hours, 0 minutes, 10 seconds",
+  "memory":"61 MB (%12.4) of 490.7 MB"}
+
+ravirajukrishna@ubuntu:~/solr-5.5.0$ 
+
+
+
+ravirajukrishna@ubuntu:~/solr-5.5.0$ bin/solr create_core -c polarDataSet -d basic_configs
+
+Copying configuration to new core instance directory:
+/home/ravirajukrishna/solr-5.5.0/server/solr/polarDataSet
+
+Creating new core 'polarDataSet' using command:
+http://localhost:8983/solr/admin/cores?action=CREATE&name=polarDataSet&instanceDir=polarDataSet
+
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":1260},
+  "core":"polarDataSet"}
+
+
+ravirajukrishna@ubuntu:~/solr-5.5.0$ 
+
+ravirajukrishna@ubuntu:~/solr-5.5.0$ ls server/solr/polarDataSet/
+conf  core.properties  data
+ravirajukrishna@ubuntu:~/solr-5.5.0$ ls server/solr/polarDataSet/conf/
+currency.xml  lang  managed-schema  protwords.txt  _rest_managed.json  solrconfig.xml  stopwords.txt  synonyms.txt
+ravirajukrishna@ubuntu:~/solr-5.5.0$ ls server/solr/polarDataSet/data/
+index  tlog
+ravirajukrishna@ubuntu:~/solr-5.5.0$ 
+
+ravirajukrishna@ubuntu:~/solr-5.5.0/server/solr/polarDataSet/conf$ cp ~/ContentDetectionBigDataAnalysis_HomeWork2/solr/schema.xml .
+ravirajukrishna@ubuntu:~/solr-5.5.0/server/solr/polarDataSet/conf$ diff solrconfig.xml ~/ContentDetectionBigDataAnalysis_HomeWork2/solr/solrconfig.xml
+99c99
+<   <schemaFactory class="ManagedIndexSchemaFactory">
+---
+>   <!--<schemaFactory class="ManagedIndexSchemaFactory">
+102c102,103
+<   </schemaFactory>
+---
+>   </schemaFactory>-->
+>   <schemaFactory class="ClassicIndexSchemaFactory"/>
+ravirajukrishna@ubuntu:~/solr-5.5.0/server/solr/polarDataSet/conf$ 
+ravirajukrishna@ubuntu:~/solr-5.5.0/server/solr/polarDataSet/conf$ cp ~/ContentDetectionBigDataAnalysis_HomeWork2/solr/solrconfig.xml solrconfig.xml
+ravirajukrishna@ubuntu:~/solr-5.5.0/server/solr/polarDataSet/conf$ 
+
+
+
+ravirajukrishna@ubuntu:~/solr-5.5.0$ bin/post -c polarDataSet ~/index_input_files/
+/usr/lib/jvm/oracle_jdk8/jdk1.8.0_73/bin/java -classpath /home/ravirajukrishna/solr-5.5.0/dist/solr-core-5.5.0.jar -Dauto=yes -Dc=polarDataSet -Ddata=files -Drecursive=yes org.apache.solr.util.SimplePostTool /home/ravirajukrishna/index_input_files/
+SimplePostTool version 5.0.0
+Posting files to [base] url http://localhost:8983/solr/polarDataSet/update...
+Entering auto mode. File endings considered are xml,json,jsonl,csv,pdf,doc,docx,ppt,pptx,xls,xlsx,odt,odp,ods,ott,otp,ots,rtf,htm,html,txt,log
+Entering recursive mode, max depth=999, delay=0s
+Indexing directory /home/ravirajukrishna/index_input_files (2 files, depth=0)
+POSTing file 140BB139FA741269C49D7C4DC40D6B4D6D6AE21AED00DFE0FCACD2624D62E996.json (application/json) to [base]/json/docs
+POSTing file D0ADD21DF80BF3750DCF8B64764BB1DD81BDF8B18222D39A7D670BAD9C00A8D2.json (application/json) to [base]/json/docs
+2 files indexed.
+COMMITting Solr index changes to http://localhost:8983/solr/polarDataSet/update...
+Time spent: 0:00:00.623
+ravirajukrishna@ubuntu:~/solr-5.5.0$ 

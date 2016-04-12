@@ -1,0 +1,191 @@
+{
+    "name": "clusters", 
+    "children": [
+        {
+            "name": "cluster3", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/davlr45&section=52"
+                        }
+                    ], 
+                    "key": "2_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/davlr45&section=52"
+                        }
+                    ], 
+                    "key": "57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }, 
+                        {
+                            "name": "http://heinonlinebackup.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/davlr45&section=52"
+                        }
+                    ], 
+                    "key": "3_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster19", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/6BD4D1DFA2F3A980C34CF7111119EFA3EBEAD8FCD48979DCB5BC515F470F8667", 
+                    "children": [
+                        {
+                            "name": "http://jlc.jst.go.jp/DN/JLC/20007649743?from=Google"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3404.1"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/article/10.1007/s00382-010-0888-x"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/2011JCLI4118.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2014JD021610/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2009JD012999/full"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/qj.2553/full"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI3306.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00647.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00842.1"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1029/2011JD016808/full"
+                        }, 
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1404665/component/escidoc:1404669/WEB_BzE_106.pdf"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00599.1"
+                        }, 
+                        {
+                            "name": "http://journals.ametsoc.org/doi/abs/10.1175/1520-0442(2004)017%3C1022%3ASAMOTN%3E2.0.CO%3B2"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/14/3945/2014/acp-14-3945-2014.html"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2015GL063937/full"
+                        }, 
+                        {
+                            "name": "http://dash.harvard.edu/handle/1/10974705"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/2615/2015/acpd-15-2615-2015.pdf"
+                        }, 
+                        {
+                            "name": "http://ro.uow.edu.au/smhpapers/2893/"
+                        }
+                    ], 
+                    "key": "6BD4D1DFA2F3A980C34CF7111119EFA3EBEAD8FCD48979DCB5BC515F470F8667", 
+                    "name": "55-75 o S Zonal Mean Temperature 30 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/libraries/88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878", 
+                    "children": [
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1002/2015GL063455/full"
+                        }, 
+                        {
+                            "name": "http://essay.utwente.nl/65875/1/steeg_MA_ewi.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/dff1/e0cb10d97eb35b5c9f7517546aa5a0fdcbcb.pdf"
+                        }, 
+                        {
+                            "name": "http://commons.keene.edu/aec/aec_2015/Sciences/37/"
+                        }, 
+                        {
+                            "name": "http://144.92.161.87/handle/1793/74289"
+                        }, 
+                        {
+                            "name": "http://cdp.sagepub.com/content/24/3/238.short"
+                        }, 
+                        {
+                            "name": "http://bidding.oscarrenda.com/Misc.%20Projects/New%20Orleans,%20LA/Sela%2026/Solicitation_No._W912P8-14-R-0036.pdf"
+                        }, 
+                        {
+                            "name": "https://zenportfolios.ca/bcit-bsys-1000-fall-2014/category/uncategorized/page/3/"
+                        }, 
+                        {
+                            "name": "https://raymondpronk.wordpress.com/category/security/page/4/"
+                        }, 
+                        {
+                            "name": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535656"
+                        }, 
+                        {
+                            "name": "http://www.reformkompass.de/uploads/tx_itao_download/Froehlich__Troeller_2014_Sicherheitsrat_englisch.pdf"
+                        }, 
+                        {
+                            "name": "http://onlinelibrary.wiley.com/doi/10.1111/irel.12111/full"
+                        }, 
+                        {
+                            "name": "http://dalspace.library.dal.ca/bitstream/handle/10222/55993/Palanivelu-Karthik-MCS-CSCI-December-2014.pdf?sequence=1"
+                        }, 
+                        {
+                            "name": "http://ferc.gov/legal/staff-reports/2014/ad14-14-operator-actions.pdf"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.5235/17521440.8.3.249"
+                        }, 
+                        {
+                            "name": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2562110"
+                        }, 
+                        {
+                            "name": "http://www.tandfonline.com/doi/abs/10.1080/1369118X.2015.1012531"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Ahmed_Karam3/publication/273633611_A_Lagrangian_relaxation_approach_for_the_integrated_quay_crane_and_internal_truck_assignment_in_container_terminals/links/55351c370cf2222bcc405a65.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jossu.co.uk/607journalists.pdf"
+                        }
+                    ], 
+                    "key": "88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878", 
+                    "name": "2014-08-13 Meeting Agenda and Minutes (Published) Date"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"doi":"140BB139FA741269C49D7C4DC40D6B4D6D6AE21AED00DFE0FCACD2624D62E996",
+	"title":"Microsoft Word - Dev-04-05accom.rpt.doc",
+	"grobid_Title":"CCSM Development Accomplishments Report",
+	"grobid_Authors": [
+				    "Albert Einstein",
+				    "Fripp Nearshore",
+				    "Tolomato Manatanzas",
+				    "Marion",
+				    "enp.bobf1.met-Bob Allen"
+				  ],
+	"external_Authors": [
+				    "ABC DEF",
+				    "GHI LM"
+				  ],
+	"external_pubYear":2016,
+	"external_Affiliations": [
+				    "University of Southern California",
+				    "PESIT"
+				  ],
+	"Geographic_LATITUDE":27.33931,
+	"Geographic_LONGITUDE":-108.60288,
+	"Geographic_NAME":"China",
+	"qualityScore":10.5
+}

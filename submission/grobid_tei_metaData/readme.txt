@@ -1,0 +1,64 @@
+export TIKA_APP=../jars/tika-app-1.13-SNAPSHOT.jar
+export SIMPLE_JSON=../jars/json-simple-1.1.1.jar
+javac -classpath $TIKA_APP:$SIMPLE_JSON TEI_MetaData.java 
+java -classpath .:$TIKA_APP:$SIMPLE_JSON TEI_MetaData input/ output/
+
+To start Grobid: http://grobid.readthedocs.org/en/latest/Grobid-service/
+
+Start the server
+Go under the grobid/grobid-service directory:
+> cd grobid-service
+The following command will start the server on port 8080:
+> mvn jetty:run-war
+
+To skip the tests:
+> mvn -Dmaven.test.skip=true jetty:run-war
+
+
+
+
+
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ ls
+CustomParser.java  input  TEI_MetaData.java
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ export TIKA_APP=../jars/tika-app-1.13-SNAPSHOT.jar
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ export SIMPLE_JSON=../jars/json-simple-1.1.1.jar
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ javac -classpath $TIKA_APP:$SIMPLE_JSON TEI_MetaData.java 
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ ls
+CustomParser.java  input  TEI_MetaData.class  TEI_MetaData.java
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ mkdir output
+
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ cd ~/grobid/src/grobid/grobid-service/
+ravirajukrishna@ubuntu:~/grobid/src/grobid/grobid-service$ mvn -Dmaven.test.skip=true jetty:run-war
+[INFO] Scanning for projects...
+
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ java -classpath .:$TIKA_APP:$SIMPLE_JSON TEI_MetaData input/ output/
+
+
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ java -classpath .:$TIKA_APP:$SIMPLE_JSON TEI_MetaData input/ output/
+fetchTEI for File 0A8DE38B960A4AF9E2E23B488CB5DFBBDBDA0845867C6B799BB55F29CA4DF5C7
+Adding title                                              
+ Adding grobid_Title                                       
+ fetchTEI for File 0A3EE036308660B3663D60651EE0A97FF925036B9F3962618C3C1ED05B23D507
+Adding title                                              
+ fetchTEI for File 0A18D022E5D6A74FE9B87C67A3F114A2BC8378C475D7856CBFD69CB45BA29572
+Adding title                                              
+ fetchTEI for File Text Extraction from the Web via Text-to-Tag Ratio.pdf
+Adding title                                              
+ Adding grobid_Title                                       
+ Adding grobid_Authors                                     
+ fetchTEI for File 0A2C925150D60B32F9A827BEF6238073F8616C9C7295C9DF0A774D7592147A94
+Adding title                                              
+ Adding grobid_Authors                                     
+ fetchTEI for File 0A17EC0E37EC0B4EC4E67C0D05C72B73273F050AD9623F11FF53C4B01A86DDE4
+Adding title                                              
+ fetchTEI for File 0A0B6F86D1ADC7E6E16624C00B6373D5A50E23A0D9AC186E798FF115DDEE0E96
+Adding title                                              
+ Adding grobid_Title                                       
+ fetchTEI for File 0A9E76802BDB61F7C9CCC6BB7E4FCDDB8D0F9C1FF8CB90756A5C6EE52660F6E2
+Adding grobid_Title                                       
+ ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$ ls output/
+0A0B6F86D1ADC7E6E16624C00B6373D5A50E23A0D9AC186E798FF115DDEE0E96.json  0A3EE036308660B3663D60651EE0A97FF925036B9F3962618C3C1ED05B23D507.json
+0A17EC0E37EC0B4EC4E67C0D05C72B73273F050AD9623F11FF53C4B01A86DDE4.json  0A8DE38B960A4AF9E2E23B488CB5DFBBDBDA0845867C6B799BB55F29CA4DF5C7.json
+0A18D022E5D6A74FE9B87C67A3F114A2BC8378C475D7856CBFD69CB45BA29572.json  0A9E76802BDB61F7C9CCC6BB7E4FCDDB8D0F9C1FF8CB90756A5C6EE52660F6E2.json
+0A2C925150D60B32F9A827BEF6238073F8616C9C7295C9DF0A774D7592147A94.json  Text Extraction from the Web via Text-to-Tag Ratio.pdf.json
+ravirajukrishna@ubuntu:~/ContentDetectionBigDataAnalysis_HomeWork2/grobid_tei_metaData$

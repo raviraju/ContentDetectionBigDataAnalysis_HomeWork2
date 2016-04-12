@@ -1,0 +1,14 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "relatedPub_Excerpt",
+                    "size": 71
+                }
+            ],
+            "name": "cluster0"
+        }
+    ],
+    "name": "clusters"
+}

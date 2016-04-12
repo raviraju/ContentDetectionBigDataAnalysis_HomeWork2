@@ -1,0 +1,34 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "metadata": "{'sweet': [u'set', u'human', u'cell', u'process', u'communication', u'energy', u'direction', u'agent', u'evidence', u'selection', u'relation', u'file', u'work', u'unit', u'documentation', u'environment', u'death', u'monitoring', u'publication', u'lead', u'space', u'federal', u'likelihood', u'decision', u'management', u'state', u'research', u'current', u'color', u'regulation', u'investigation', u'health', u'treatment', u'animal', u'policy', u'composition', u'body', u'division', u'product', u'accessing', u'experiment', u'food', u'collection', u'standard', u'volume', u'failure', u'protection', u'free', u'key', u'branch', u'device', u'data', u'name', u'land', u'observation', u'receive', u'compliance', u'project', u'record', u'verification', u'behavior', u'interaction', u'coordinate', u'military', u'increase', u'order']}\n",
+                    "name": "2_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json",
+                    "path": "json_data/2_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json",
+                    "score": 0.5
+                },
+                {
+                    "metadata": "{'sweet': [u'set', u'human', u'cell', u'process', u'communication', u'energy', u'direction', u'agent', u'evidence', u'selection', u'relation', u'file', u'work', u'unit', u'documentation', u'environment', u'death', u'monitoring', u'publication', u'lead', u'space', u'federal', u'likelihood', u'decision', u'management', u'state', u'research', u'current', u'color', u'regulation', u'investigation', u'health', u'treatment', u'animal', u'policy', u'composition', u'body', u'division', u'product', u'accessing', u'experiment', u'food', u'collection', u'standard', u'volume', u'failure', u'protection', u'free', u'key', u'branch', u'device', u'data', u'name', u'land', u'observation', u'receive', u'compliance', u'project', u'record', u'verification', u'behavior', u'interaction', u'coordinate', u'military', u'increase', u'order']}\n",
+                    "name": "3_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json",
+                    "path": "json_data/3_57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json",
+                    "score": 0.5
+                },
+                {
+                    "metadata": "{'sweet': [u'feedback', u'process', u'archive', u'group', u'knowledge', u'lead', u'federal', u'access', u'criteria', u'assessment', u'discovery', u'format', u'collection', u'key', u'discharge', u'data', u'structure', u'level', u'doc', u'archiving', u'work', u'analysis', u'project', u'time']}\n",
+                    "name": "88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878.json",
+                    "path": "json_data/88E212AE3BDDB31E83957348F9F373546F77CF212F5BA6917C23CD2F37959878.json",
+                    "score": 0.5
+                },
+                {
+                    "metadata": "{'sweet': [u'set', u'human', u'cell', u'process', u'communication', u'energy', u'direction', u'agent', u'evidence', u'selection', u'relation', u'file', u'work', u'unit', u'documentation', u'environment', u'death', u'monitoring', u'publication', u'lead', u'space', u'federal', u'likelihood', u'decision', u'management', u'state', u'research', u'current', u'color', u'regulation', u'investigation', u'health', u'treatment', u'animal', u'policy', u'composition', u'body', u'division', u'product', u'accessing', u'experiment', u'food', u'collection', u'standard', u'volume', u'failure', u'protection', u'free', u'key', u'branch', u'device', u'data', u'name', u'land', u'observation', u'receive', u'compliance', u'project', u'record', u'verification', u'behavior', u'interaction', u'coordinate', u'military', u'increase', u'order']}\n",
+                    "name": "57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json",
+                    "path": "json_data/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884.json",
+                    "score": 0.5
+                }
+            ],
+            "name": "cluster0"
+        }
+    ],
+    "name": "clusters"
+}

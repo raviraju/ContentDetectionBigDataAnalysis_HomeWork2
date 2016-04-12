@@ -1,0 +1,822 @@
+{
+    "name": "clusters", 
+    "children": [
+        {
+            "name": "cluster0", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/nasa/arc/keplerscience/10A46A73B6D20C346418081D75995A4CC3289A9687166C7DF44637154041F23D", 
+                    "children": [], 
+                    "key": "10A46A73B6D20C346418081D75995A4CC3289A9687166C7DF44637154041F23D", 
+                    "name": "roAp candidates in Field 0 of K2"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/eospso/2E9B9DFD8FA321B64FEFA1E1D990C08A66415FF261D49BCC9FA1BEB1CB820FB7", 
+                    "children": [], 
+                    "key": "2E9B9DFD8FA321B64FEFA1E1D990C08A66415FF261D49BCC9FA1BEB1CB820FB7", 
+                    "name": "Studying Earth's Salty Seas from Space"
+                }, 
+                {
+                    "doi": "10.1919/org/oglalalakotanation/www/437FA9412277796226A09A235F5D3D5799C9A1B33969020CCBD2890848ACC527", 
+                    "children": [], 
+                    "key": "437FA9412277796226A09A235F5D3D5799C9A1B33969020CCBD2890848ACC527", 
+                    "name": "Date of last update:______________________________________ __________________________________ ____________________________________ Director Date Human Resource Director Signature Date"
+                }, 
+                {
+                    "doi": "10.1919/edu/colorado/learnmoreaboutclimate/5F93401CDBA424449DDE9551E9E9A7C81FB1216C59DBFEF2939047FBEE5963A6", 
+                    "children": [], 
+                    "key": "5F93401CDBA424449DDE9551E9E9A7C81FB1216C59DBFEF2939047FBEE5963A6", 
+                    "name": "Content Area: Science Standard: Earth Systems Science"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2B26EF2668CC75761FE1E3C976A0AD7BBC5AD6CD6765DA256EB1786B4C940B8E", 
+                    "children": [], 
+                    "key": "2B26EF2668CC75761FE1E3C976A0AD7BBC5AD6CD6765DA256EB1786B4C940B8E", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux 100 hPa MERRA -25 -20 -15 -10 -5 0 K m s"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/arc/ti/1E9ACEA47ABB13F5CD1E698387A5C5535E49165205D1482E1C2BA571EB0277B1", 
+                    "children": [], 
+                    "key": "1E9ACEA47ABB13F5CD1E698387A5C5535E49165205D1482E1C2BA571EB0277B1", 
+                    "name": "NASA OPEN SOURCE AGREEMENT VERSION 1.3"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/ago/www/15781FB169255328426D5530006B4C7FD79B4989A8C5F8F2B5F05EC3B917378D", 
+                    "children": [], 
+                    "key": "15781FB169255328426D5530006B4C7FD79B4989A8C5F8F2B5F05EC3B917378D", 
+                    "name": "NOAA ACQUISITION PACKAGE CHECKLIST DOCUMENTS REQUIRED FOR EVERY NEW ACQUISITION Performance Work Statement, Statement of Objectives or Statement of Work Independent Government Cost Estimate Requisition with Funds Approval and Programmatic Approval Market Research Milestone Plan"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/002F12F305FBF47639B64467B68A088B2855D947147046D31AD375CFCABA8675", 
+                    "children": [], 
+                    "key": "002F12F305FBF47639B64467B68A088B2855D947147046D31AD375CFCABA8675", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux 30 hPa MERRA -80 -60 -40 -20 0 K m s -1"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/water/ca/5C9FF73742640979EC95ED0A11198543EBA47F3BF663E18468FEA146E2EF90B6", 
+                    "children": [], 
+                    "key": "5C9FF73742640979EC95ED0A11198543EBA47F3BF663E18468FEA146E2EF90B6", 
+                    "name": "Cross-scale modeling of surface temperature and tree seedling establishment in mountain landscapes"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/alaskafisheries/www/2B2CDCB0198579CDD619938ACC1C23BEE6190500A9569206DD3A3940247E27D4", 
+                    "children": [], 
+                    "key": "2B2CDCB0198579CDD619938ACC1C23BEE6190500A9569206DD3A3940247E27D4", 
+                    "name": "Using the Custom CarryMap Apps with iPhone and iPad Devices Part of the Small Entity Compliance Guide for Fishery Restriction Areas"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/arc/keplerscience/4C313D98DEAAFF4DD3E5C5FD7311F03BEAB5164FB92EBA0393F4357C5AD19302", 
+                    "children": [], 
+                    "key": "4C313D98DEAAFF4DD3E5C5FD7311F03BEAB5164FB92EBA0393F4357C5AD19302", 
+                    "name": "The causes of variability of O-type stars: pulsation and rotation"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/03A235D30F03B42E7095540DDE313F51816BF3C7DE35D193BD8F88D1C67AA633", 
+                    "children": [], 
+                    "key": "03A235D30F03B42E7095540DDE313F51816BF3C7DE35D193BD8F88D1C67AA633", 
+                    "name": "60-90 o S Zonal Mean Temperature 70 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2B2D299EB98588E364497C89E87FF2582FC1A2EAC0D8C392435C3CC5D0B05822", 
+                    "children": [], 
+                    "key": "2B2D299EB98588E364497C89E87FF2582FC1A2EAC0D8C392435C3CC5D0B05822", 
+                    "name": "45-75 o S Heat Flux 150 hPa MERRA -80 -60 -40 -20"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/ago/www/1E96B77B4FE89C3D7B7E82B31027CAC3A4A96F86D95DA656315B58EA5B2A5753", 
+                    "children": [], 
+                    "key": "1E96B77B4FE89C3D7B7E82B31027CAC3A4A96F86D95DA656315B58EA5B2A5753", 
+                    "name": "Part II Department of Defense General Services Administration National Aeronautics and Space Administration 48 CFR Chapter 1 Federal Acquisition Regulations\u2014Contract Bundling and Small Entity Compliance Guide; Final Rules Small Business Adminstration 13 CFR Part 125 Small Business Government Contracting Programs; Final Rule and Proposed Rule"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/634EE05CC09A3282F02FB3640D8C607E4B4C66EF8A4EF45BD592A9EB9025D6A7", 
+                    "children": [], 
+                    "key": "634EE05CC09A3282F02FB3640D8C607E4B4C66EF8A4EF45BD592A9EB9025D6A7", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux (Waves 1-3) 100 hPa MERRA -25 -20 -15 -10 -5 0 K m s"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/16CC6B2AEB0187E03350087446F1D61EACDDAD5B3181D5D8FB1935372E59145D", 
+                    "children": [], 
+                    "key": "16CC6B2AEB0187E03350087446F1D61EACDDAD5B3181D5D8FB1935372E59145D", 
+                    "name": "45-Day Mean 45-75 o S Heat Flux 30 hPa MERRA -80 -60 -40 -20 0 K m s"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/453EBBD5B0698DFC20961D19319381B07B3000F069D74FFD4050F7E7C5BB9C09", 
+                    "children": [], 
+                    "key": "453EBBD5B0698DFC20961D19319381B07B3000F069D74FFD4050F7E7C5BB9C09", 
+                    "name": "60-90 o S Zonal Mean Temperature 70 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/39A40ACBAAA8A3346CB5B26EF02FB18285AABE4BFBB9070135E34E42CA1CB256", 
+                    "children": [], 
+                    "key": "39A40ACBAAA8A3346CB5B26EF02FB18285AABE4BFBB9070135E34E42CA1CB256", 
+                    "name": "CLAY AND SHALE"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/5A2A6E0504924D7FDF25A68796BE59856A1B1685CA9E398003461D1AB96D7A9B", 
+                    "children": [], 
+                    "key": "5A2A6E0504924D7FDF25A68796BE59856A1B1685CA9E398003461D1AB96D7A9B", 
+                    "name": "45-75 o S Heat Flux (Waves 1-3) 10 hPa MERRA -400 -300 -200 -100 0 100 K m s"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster1", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/er/minerals/2F2AFC410B463373B65CA50E49066C4ADEA7E6BEC0117D5EADD442A4D3D4C62D", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Jae_Kyeong_Jeong/publication/234933404_Improvements_in_the_device_characteristics_of_amorphous_indium_gallium_zinc_oxide_thin-film_transistors_by_Ar_plasma_treatment._Appl_Phys_Lett_90262106/links/54e881200cf25ba91c7de0a7.pdf"
+                        }
+                    ], 
+                    "key": "2F2AFC410B463373B65CA50E49066C4ADEA7E6BEC0117D5EADD442A4D3D4C62D", 
+                    "name": "GALLIUM"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2EDB30B7027F919311A5932982F2A2EF5033A50FB55EAA81FB8459BC1B529F1D", 
+                    "children": [
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/acp-2016-96/acp-2016-96.pdf"
+                        }
+                    ], 
+                    "key": "2EDB30B7027F919311A5932982F2A2EF5033A50FB55EAA81FB8459BC1B529F1D", 
+                    "name": "NH Minimum Ozone TOMS+MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/umassmed/library/55B4025C18D9092A8A2E5559C93A72672F5ADBBA3DAA07473E1360495022D394", 
+                    "children": [
+                        {
+                            "name": "http://bjps.oxfordjournals.org/content/22/4/local/back-matter.pdf"
+                        }
+                    ], 
+                    "key": "55B4025C18D9092A8A2E5559C93A72672F5ADBBA3DAA07473E1360495022D394", 
+                    "name": "The Academic Year in Review"
+                }, 
+                {
+                    "doi": "10.1919/org/nsidc/0E39D221A6565B0EC4F40FCCC9A23EA411A27D84E35474B601104BCD73299C53", 
+                    "children": [
+                        {
+                            "name": "http://trec.nist.gov/pubs/trec10/papers/overview_10.pdf"
+                        }
+                    ], 
+                    "key": "0E39D221A6565B0EC4F40FCCC9A23EA411A27D84E35474B601104BCD73299C53", 
+                    "name": "APENDIX TWO LIST OF PARTICIPANTS"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/nrmsc/www/43BCEDCCE8DB5821956DC5F1F859A9E748E49CD1CF376471A19981B718C0B105", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/David_Butler13/publication/260421887_Stability_of_alpine_treeline_in_northern_Montana_USA/links/553ec7080cf20184050f8ca7.pdf"
+                        }
+                    ], 
+                    "key": "43BCEDCCE8DB5821956DC5F1F859A9E748E49CD1CF376471A19981B718C0B105", 
+                    "name": "Hidden Lake Glacier National Park MT Glacier National Park, MT"
+                }, 
+                {
+                    "doi": "10.1919/org/nsidc/453C119A4D9C020C22397927370BDB6F0AC70F1FB1EFDABC32547C3D33210265", 
+                    "children": [
+                        {
+                            "name": "https://www.wmo.int/pages/prog/www/WIGOS_6_EC_PORS/Final_Report2010.pdf"
+                        }
+                    ], 
+                    "key": "453C119A4D9C020C22397927370BDB6F0AC70F1FB1EFDABC32547C3D33210265", 
+                    "name": "WORLD METEOROLOGICAL ORGANIZATION EXECUTIVE COUNCIL PANEL OF EXPERTS ON POLAR OBSERVATIONS, RESEARCH AND SERVICES Second session HOBART, AUSTRALIA, 18-20 OCTOBER 2010 EC-PORS-2/INF.XX WMO SERVICES REQUIRED TO SUPPORT OPERATIONS AND RESEARCH IN POLAR REGIONS Ice Services -International Ice Charting Working Group (IICWG)"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/alaskafisheries/www/0021EB868F4F7A7108AFC0F4D2C832F71006C3DE989E92ED04F51B5293E2F5C3", 
+                    "children": [
+                        {
+                            "name": "https://www.usnwc.edu/NavalWarCollegeReviewArchives/1980s/1982%20July-August.pdf"
+                        }
+                    ], 
+                    "key": "0021EB868F4F7A7108AFC0F4D2C832F71006C3DE989E92ED04F51B5293E2F5C3", 
+                    "name": "Date Time # of Bags Weight on Platform Scale Number of Runs Flow Scale Weight Error % Error Pass/Fail? Name(s) of Person(s) conducting the test Observer Cruise # RECORD OF DAILY FLOW SCALE TEST"
+                }, 
+                {
+                    "doi": "10.1919/org/projectcounter/www/17B4380BD79C61E5A733DEE9F13DE78BD48AB780A5D074409B0BF2B84C74D056", 
+                    "children": [
+                        {
+                            "name": "http://www.inasp.info/uploads/filer_public/2014/08/28/242_background_reading_-_usage_statistics_and_online_behaviour_fulltext.pdf"
+                        }
+                    ], 
+                    "key": "17B4380BD79C61E5A733DEE9F13DE78BD48AB780A5D074409B0BF2B84C74D056", 
+                    "name": "COUNTER Code of Practice for e-Resources: Release 4 Journal Reports Register of Vendors providing Journal Usage Reports compliant with Release 4 of the COUNTER Code of Practice for e-Resources"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/nrmsc/www/00773AB3F87AA403958E41959842CE5EB05E01CA9A6BED6607F5200D845AB77B", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/David_Butler13/publication/260421887_Stability_of_alpine_treeline_in_northern_Montana_USA/links/553ec7080cf20184050f8ca7.pdf"
+                        }
+                    ], 
+                    "key": "00773AB3F87AA403958E41959842CE5EB05E01CA9A6BED6607F5200D845AB77B", 
+                    "name": "Boulder Glacier Glacier National Park, MT"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ohcm/5A2275E66928D736672296761D6BDF3E0837C0CD255583B076318F2E2414FEA3", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/T_Schmugge/publication/23915290_Remote_sensing_of_soil_moisture/links/00b7d5318b255b5ab2000000.pdf"
+                        }
+                    ], 
+                    "key": "5A2275E66928D736672296761D6BDF3E0837C0CD255583B076318F2E2414FEA3", 
+                    "name": "NASA ORGANIZATIONAL MANUAL FUNCTIONAL STATEMENTS GODDARD SPACE FLIGHT CENTER"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/lib/special/57F6215836209225EB6E8A27FA5B6EB4635909E617EEBF29FA2809B8FB3373E3", 
+                    "children": [
+                        {
+                            "name": "http://eprints.cdlib.org/uc/item/8wf5w4nk.pdf"
+                        }
+                    ], 
+                    "key": "57F6215836209225EB6E8A27FA5B6EB4635909E617EEBF29FA2809B8FB3373E3", 
+                    "name": "Rules of Use for the Virtual Reading Room in UCIspace @ the Libraries"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/000BBE22D97207BA11BEFF8201A1C2F978F9DAA1E0B6BFF1D29FCFCA15936767", 
+                    "children": [
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/12/20931/2012/acpd-12-20931-2012.pdf"
+                        }
+                    ], 
+                    "key": "000BBE22D97207BA11BEFF8201A1C2F978F9DAA1E0B6BFF1D29FCFCA15936767", 
+                    "name": "50-90 o S Minimum Temperature 150 hPa MERRA"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster2", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/minerals/0E36D0E7C5AA6438EB188E27ACDDF52A33559B39D40755BCFB4F237F02302FFE", 
+                    "children": [
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1982v3/reference/econatres.minyb1982v3.tglover2.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1990v3Asia/reference/econatres.minyb1990v3asia.jwu4.pdf"
+                        }
+                    ], 
+                    "key": "0E36D0E7C5AA6438EB188E27ACDDF52A33559B39D40755BCFB4F237F02302FFE", 
+                    "name": "THE MINERAL INDUSTRY OF FIJI"
+                }, 
+                {
+                    "doi": "10.1919/edu/columbia/ciesin/sedac/0A26B183DBA5D5017EB7FA68F96FB7E01D213A27632C7D1B93691D2C44D9B9DB", 
+                    "children": [
+                        {
+                            "name": "http://www.brookings.edu/~/media/research/files/reports/2001/7/metropolitanpolicy%20fulton/fultoncasestudies.pdf"
+                        }, 
+                        {
+                            "name": "http://www.journalsleep.org/Articles/290312.pdf"
+                        }
+                    ], 
+                    "key": "0A26B183DBA5D5017EB7FA68F96FB7E01D213A27632C7D1B93691D2C44D9B9DB", 
+                    "name": "Demographics of the Houston Metropolitan Area"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/35BEB4A57258D4044BAF2DB1B68C92CE27C506332B15396107E827CEE817A4A7", 
+                    "children": [
+                        {
+                            "name": "http://minerals.usgs.gov/minerals/pubs/country/2004/knmyb04.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Cecilia_Tam/publication/237232402_Energy_Efficiency_and_CO2_Emissions_from_the_Global_Cement_Industry/links/0f31753ba82c270956000000.pdf"
+                        }
+                    ], 
+                    "key": "35BEB4A57258D4044BAF2DB1B68C92CE27C506332B15396107E827CEE817A4A7", 
+                    "name": "THE MINERAL INDUSTRY OF NORTH KOREA\u20142000 THE MINERAL INDUSTRY OF NORTH KOREA"
+                }, 
+                {
+                    "doi": "10.1919/org/galdu/www/10AC44BCCFD082BBCFD6DA6F2FBD733A783D92AFDBB121896B712844A4B9191B", 
+                    "children": [
+                        {
+                            "name": "http://www.thearctic.is/PDF/Synopsis%20of%20Sami-UN%20Relations%20PDF.pdf"
+                        }, 
+                        {
+                            "name": "http://www.sai.uni-heidelberg.de/sapol/pdf/YIEL2009.pdf"
+                        }
+                    ], 
+                    "key": "10AC44BCCFD082BBCFD6DA6F2FBD733A783D92AFDBB121896B712844A4B9191B", 
+                    "name": "PRESS CONFERENCE ON NINTH SESSION OF INDIGENOUS FORUM"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/63509E662C29A6D1BEA075107A95BBF9E72178EC87F5732B823554FE6CF8E380", 
+                    "children": [
+                        {
+                            "name": "http://minerals.usgs.gov/minerals/pubs/commodity/garnet/garmyb02.pdf"
+                        }, 
+                        {
+                            "name": "http://www.personal.psu.edu/faculty/r/2/r2w/AGBM420/Resources/DataResources-ByProduct/Minerals/Historical%20Statistics%20for%20Mineral%20CommoditiesUS.pdf"
+                        }
+                    ], 
+                    "key": "63509E662C29A6D1BEA075107A95BBF9E72178EC87F5732B823554FE6CF8E380", 
+                    "name": "GARNET, INDUSTRIAL"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/msfc/solarscience/20003969C76E25C55705DA5BE77470AAF9FFC91ADE8CD3D43DE2E5353EBD01DD", 
+                    "children": [
+                        {
+                            "name": "http://www.spaceflight.esa.int/pac-symposium2009/proceedings/papers/s7_5wikus.pdf"
+                        }, 
+                        {
+                            "name": "http://downloads.hindawi.com/journals/xroi/2010/412323.pdf"
+                        }
+                    ], 
+                    "key": "20003969C76E25C55705DA5BE77470AAF9FFC91ADE8CD3D43DE2E5353EBD01DD", 
+                    "name": "High Resolution Spectra of Supernova Remnants with the Micro-X Rocket Payload"
+                }, 
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/ucnet/00999895625FAC4B3EEF129B85EB3D55A53E81EACFDB2FB1FEC975FD3497D50B", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Gordon_Clark/publication/267682949_U.S._Public_Sector_Pension_Funds_and_Urban_Revitalization_An_overview_of_policy_and_programs/links/5462101d0cf27487b4557edd.pdf"
+                        }, 
+                        {
+                            "name": "http://ctt.healthsciences.ucla.edu/finance/files/view/policies-procedures/acct-structure-binder-docs/Acct_Manual_A-115-2.pdf"
+                        }
+                    ], 
+                    "key": "00999895625FAC4B3EEF129B85EB3D55A53E81EACFDB2FB1FEC975FD3497D50B", 
+                    "name": "DESIGNATION OF BENEFICIARY\u2014RETIREES, FORMER EMPLOYEES AND OTHERS University of California Retirement Plan (UCRP) and Capital Accumulation Payment (CAP)"
+                }, 
+                {
+                    "doi": "10.1919/gov/noaa/corporateservices/www/3998340479AFFA6FBE9593407CDCBAA08E241D1B1459D01E52243875A7BC54F1", 
+                    "children": [
+                        {
+                            "name": "http://rda.ucar.edu/datasets/ds742.0/docs/1983.SchifferRossow.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Brendan_Godley/publication/224952604_Satellite_Tracking_and_Analysis_Tool_(STAT)_an_integrated_system_for_archiving_analyzing_and_mapping_animal_tracking_data/links/0912f509fd318ea37a000000.pdf"
+                        }
+                    ], 
+                    "key": "3998340479AFFA6FBE9593407CDCBAA08E241D1B1459D01E52243875A7BC54F1", 
+                    "name": "NatioNal ENviroNmENtal SatEllitE, Data, & iNformatioN SErvicE JoiNt Polar SatEllitE SyStEm"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2EFF97144D66B5FA7CF703D2D497EF5D4F916344C53772ADF144CFD9EFAFE928", 
+                    "children": [
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1404665/component/escidoc:1404669/WEB_BzE_106.pdf"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/2615/2015/acpd-15-2615-2015.pdf"
+                        }
+                    ], 
+                    "key": "2EFF97144D66B5FA7CF703D2D497EF5D4F916344C53772ADF144CFD9EFAFE928", 
+                    "name": "55-75 o S Zonal Mean Temperature 10 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/de/dlr/op/pa/www/2B28E1492CCA2F45EAF64D0A5673549E13D878F2D5B555B6DE6F510F35B08EC1", 
+                    "children": [
+                        {
+                            "name": "http://www.winecapitalofcanada.com/wp-content/uploads/2013/10/oliver-tourism-plan-final-aug-08-.pdf"
+                        }, 
+                        {
+                            "name": "http://www.darwininitiative.org.uk/documents/12017/4476/12-017%20AR2%20-%20edited.pdf"
+                        }
+                    ], 
+                    "key": "2B28E1492CCA2F45EAF64D0A5673549E13D878F2D5B555B6DE6F510F35B08EC1", 
+                    "name": "TAC-3 AGENDA Schedule of presentations List of posters"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/2B24FDCAE8A26ECA964706B86E54E474B7E93C2FACFF35AB8F2BF570313F35B2", 
+                    "children": [
+                        {
+                            "name": "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1404665/component/escidoc:1404669/WEB_BzE_106.pdf"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/2615/2015/acpd-15-2615-2015.pdf"
+                        }
+                    ], 
+                    "key": "2B24FDCAE8A26ECA964706B86E54E474B7E93C2FACFF35AB8F2BF570313F35B2", 
+                    "name": "55-75 o S Zonal Mean Temperature 10 hPa MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/uci/research/57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "children": [
+                        {
+                            "name": "http://wdevstatic.research.uci.edu/ora/forms/hrpp/Regulatory_Noncompliance_2007.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/8870/a1b30954ecb2fa44703bc68cfe6d798c2e13.pdf"
+                        }
+                    ], 
+                    "key": "57FA9F89B69FC2B3EEC343DA2131DC9C67302FC16A111B9312AC7AE66678C884", 
+                    "name": "UCI ADMINISTRATIVE POLICIES & PROCEDURES RESEARCH AND SPONSORED ACTIVITIES Human Research Protection Program Section 485-1: Protection of Human Subjects in Research"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster3", 
+            "children": [
+                {
+                    "doi": "10.1919/org/nsidc/1E8CC0942AB87E5BCCD356B013F72E323242633349ED91D7B98B9B42EFC8E08D", 
+                    "children": [
+                        {
+                            "name": "http://www.francescolissoni.com/rp_g000004.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/pdf/2119683.pdf"
+                        }, 
+                        {
+                            "name": "http://www.jstor.org/stable/pdf/2546100.pdf"
+                        }
+                    ], 
+                    "key": "1E8CC0942AB87E5BCCD356B013F72E323242633349ED91D7B98B9B42EFC8E08D", 
+                    "name": "FIRST NAME LAST NAME AFFILIATION COUNTRY"
+                }, 
+                {
+                    "doi": "10.1919/org/northslope/www/0D3AF9A41881CAFC9F9634B3054817228DE08E9E405F47A6E606C05EC361ECC6", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Berill_Blair/publication/278668787_Risk_society_on_the_Last_Frontier_Indigenous_knowledge_and_the_politics_of_risk_in_oil_resource_management_at_Alaska's_North_Slope/links/5582094508ae12bde6e4af37.pdf"
+                        }, 
+                        {
+                            "name": "http://www-odp.tamu.edu/Publications/citations/joides_j/joides_j_27_1.pdf"
+                        }, 
+                        {
+                            "name": "http://www.eol.ucar.edu/projects/name/documentation/NAME_sci_impl.pdf"
+                        }
+                    ], 
+                    "key": "0D3AF9A41881CAFC9F9634B3054817228DE08E9E405F47A6E606C05EC361ECC6", 
+                    "name": "Agenda North Slope Science Initiative Oversight Group"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/1EA4BA857EC5B7FC8BA12154F1AD98E8325291F3C63A45DA0253B79FCE492D66", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Yoshihiro_Tomikawa/publication/281326371_Balloon-borne_observations_of_lower_stratospheric_water_vapor_at_Syowa_Station_Antarctica_in_2013/links/55fcf63008aeba1d9f4ad3cf.pdf"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys-discuss.net/15/25981/2015/acpd-15-25981-2015.pdf"
+                        }, 
+                        {
+                            "name": "http://etheses.saurashtrauniversity.edu/126/1/(3)%20MANAVAR%20TWINKLE%20B.pdf"
+                        }
+                    ], 
+                    "key": "1EA4BA857EC5B7FC8BA12154F1AD98E8325291F3C63A45DA0253B79FCE492D66", 
+                    "name": "SH Vortex Edge 360 K MERRA -2.6 -2.4 -2.2 -2.0 -1.8 -1.6 -1.4 -1.2"
+                }, 
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/regents/2E97EB5285A43CF1C0BA2EA33B3A8F8B703CFD467049EBBF3E478DCB3274E19F", 
+                    "children": [
+                        {
+                            "name": "http://www.springerlink.com/index/4wb49hadkuegvx46.pdf"
+                        }, 
+                        {
+                            "name": "http://jdr.sagepub.com/content/72/7/1067.full.pdf"
+                        }, 
+                        {
+                            "name": "http://www.prgs.edu/content/dam/rand/pubs/research_memoranda/2009/RM4799.pdf"
+                        }
+                    ], 
+                    "key": "2E97EB5285A43CF1C0BA2EA33B3A8F8B703CFD467049EBBF3E478DCB3274E19F", 
+                    "name": "J4 Office of the President TO MEMBERS OF THE COMMITTEES ON LONG RANGE PLANNING AND EDUCATIONAL POLICY: DISCUSSION ITEM"
+                }, 
+                {
+                    "doi": "10.1919/edu/ucar/eol/catalog/0D3477E34C18DE5C1BF2E10333E7730DD011D8D89F6415D45229EF04222C179B", 
+                    "children": [
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1007/978-1-4419-9917-7_83.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Pierre_Morand/publication/32982313_Small-scale_distribution_of_macroplankton_and_micronekton_in_the_Ligurian_Sea_Mediterranean_Sea_as_observed_from_the_manned_submersible_Cyana/links/09e4150f94443bc34a000000.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Beate_Boehme/publication/27553837_Geo_ecology_of_the_Lake_Urema__Central_Mozambique/links/02e7e52d3f6b1b4f72000000.pdf"
+                        }
+                    ], 
+                    "key": "0D3477E34C18DE5C1BF2E10333E7730DD011D8D89F6415D45229EF04222C179B", 
+                    "name": "HIPPO Project Time Zone Conversion Chart UTC to Local Time"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster4", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/10AA326AA1F50B12CC6AA12A62EEEC7D732CA1DD386490881032AC2D1CA89363", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Yoshihiro_Tomikawa/publication/281326371_Balloon-borne_observations_of_lower_stratospheric_water_vapor_at_Syowa_Station_Antarctica_in_2013/links/55fcf63008aeba1d9f4ad3cf.pdf"
+                        }, 
+                        {
+                            "name": "http://www.eps.jhu.edu/~cig4/upperchangesv10.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Marta_Abalos/publication/278912857_Evaluating_the_advective_Brewer-Dobson_circulation_in_three_reanalyses_for_the_period_1979-2012/links/55ace50308ae815a042b35a3.pdf"
+                        }, 
+                        {
+                            "name": "http://acp.pisoft.cz/2015-1/acp-2015-198-manuscript-version2.pdf"
+                        }
+                    ], 
+                    "key": "10AA326AA1F50B12CC6AA12A62EEEC7D732CA1DD386490881032AC2D1CA89363", 
+                    "name": "SH Vortex Area 460 K MERRA"
+                }, 
+                {
+                    "doi": "10.1919/org/scar/ace/www/35BA30DCEE944C049BEA5719C02B8CC6CE3C8519B203EDED6B1185FF746E7F51", 
+                    "children": [
+                        {
+                            "name": "http://catalog.muw.edu/mime/media/view/10/348/Catalog12-13final2.pdf"
+                        }, 
+                        {
+                            "name": "http://www.diva-portal.org/smash/get/diva2:830754/FULLTEXT01.pdf"
+                        }, 
+                        {
+                            "name": "http://www.sbnature.org/content/657/file/Earthwatch%20brochure.pdf"
+                        }, 
+                        {
+                            "name": "http://wells4h.com/wp-content/uploads/2015/05/2015-4-H-Rule-Book.pdf"
+                        }
+                    ], 
+                    "key": "35BA30DCEE944C049BEA5719C02B8CC6CE3C8519B203EDED6B1185FF746E7F51", 
+                    "name": "Environmental Science Program Name ___________________ Student Checklist \u2013 Entering Fall 2012 or later Term Starting _____________ GENERAL EDUCATION REQUIREMENTS-see reverse of sheet"
+                }, 
+                {
+                    "doi": "10.1919/org/eloka-arctic/2EA83A77A11D38C4C6D87C6D25DA15D1F5D70B65AFF7EDE4D6631E744CBD5639", 
+                    "children": [
+                        {
+                            "name": "http://seaice.alaska.edu/gi/publications/eicken/11EHMM.pdf"
+                        }, 
+                        {
+                            "name": "http://jukebox.uaf.edu/site7/sites/default/files/Druckenmiller_PhDThesis_2011_0.pdf"
+                        }, 
+                        {
+                            "name": "http://pws-osri.org/programs/projects/annual_reports/2008/07-10-14.pdf"
+                        }, 
+                        {
+                            "name": "http://www.apecs.is/images/stories/vps/KapschMarie2010a1.pdf"
+                        }
+                    ], 
+                    "key": "2EA83A77A11D38C4C6D87C6D25DA15D1F5D70B65AFF7EDE4D6631E744CBD5639", 
+                    "name": "Seasonal Ice Zone Observing Network (SIZONet) Contributes to Sea Ice Knowledge and Use (SIKU)"
+                }, 
+                {
+                    "doi": "10.1919/edu/ucar/eol/www/0A1314FE9DC7DAD74A9ED83736DF6902295A27870DF356A5BC1E7CC2CF158C05", 
+                    "children": [
+                        {
+                            "name": "https://courses.cs.ut.ee/MTAT.03.094/2015_fall/uploads/Main/SE2014-handout11.pdf"
+                        }, 
+                        {
+                            "name": "http://abufara.com/abufara.net/images/abook_file/back/Ch1.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1007/978-1-4614-6170-8_140.pdf"
+                        }, 
+                        {
+                            "name": "http://link.springer.com/content/pdf/10.1007/b112328.pdf"
+                        }
+                    ], 
+                    "key": "0A1314FE9DC7DAD74A9ED83736DF6902295A27870DF356A5BC1E7CC2CF158C05", 
+                    "name": "2014 Planning Chart"
+                }, 
+                {
+                    "doi": "10.1919/gov/nasa/gsfc/ozonewatch/0D3BE974D81A32F0A6A732E1B1DA417B48B0937FDD16A7E313729AB979698E9E", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/Yoshihiro_Tomikawa/publication/281326371_Balloon-borne_observations_of_lower_stratospheric_water_vapor_at_Syowa_Station_Antarctica_in_2013/links/55fcf63008aeba1d9f4ad3cf.pdf"
+                        }, 
+                        {
+                            "name": "http://www.eps.jhu.edu/~cig4/upperchangesv10.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Marta_Abalos/publication/278912857_Evaluating_the_advective_Brewer-Dobson_circulation_in_three_reanalyses_for_the_period_1979-2012/links/55ace50308ae815a042b35a3.pdf"
+                        }, 
+                        {
+                            "name": "http://acp.pisoft.cz/2015-1/acp-2015-198-manuscript-version2.pdf"
+                        }
+                    ], 
+                    "key": "0D3BE974D81A32F0A6A732E1B1DA417B48B0937FDD16A7E313729AB979698E9E", 
+                    "name": "SH Vortex Area 460 K MERRA"
+                }, 
+                {
+                    "doi": "10.1919/edu/universityofcalifornia/libraries/39973513724A4F7E0ED5EA2524DDE5EB912923CE10190E6AA4300AE83FCFAD6D", 
+                    "children": [
+                        {
+                            "name": "http://bankwatch.org/documents/muddiedwaters_02.pdf"
+                        }, 
+                        {
+                            "name": "https://warner.nh.us/downloads/ConComm/Frazier%20Brook%20Study.pdf"
+                        }, 
+                        {
+                            "name": "http://web.entomology.cornell.edu/jentsch/assets/historical-perspectives-on-apple-production.pdf"
+                        }, 
+                        {
+                            "name": "https://www.mhsl.uab.edu/dt/2008m/groom.pdf"
+                        }
+                    ], 
+                    "key": "39973513724A4F7E0ED5EA2524DDE5EB912923CE10190E6AA4300AE83FCFAD6D", 
+                    "name": "Guidelines for Identifying Non-persistent Materials Among Existing RLF Deposits"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster5", 
+            "children": [
+                {
+                    "doi": "10.1919/gov/usgs/er/minerals/2EBE487F6FA783567687E4B21358F4922922145C38CFA9AFE4487F7355C69780", 
+                    "children": [
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1991v1/reference/econatres.minyb1991v1.lcunningham.pdf"
+                        }, 
+                        {
+                            "name": "http://minerals.usgs.gov/minerals/pubs/country/2003/asmyb03.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1990v1/reference/econatres.minyb1990v1.rreese.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1992v1/reference/econatres.minyb1992v1.dkostick.pdf"
+                        }, 
+                        {
+                            "name": "http://www.iaea.org/inis/collection/NCLCollectionStore/_Public/18/086/18086467.pdf"
+                        }
+                    ], 
+                    "key": "2EBE487F6FA783567687E4B21358F4922922145C38CFA9AFE4487F7355C69780", 
+                    "name": "ZIRCONIUM AND HAFNIUM (Data in metric tons, unless otherwise noted)"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster6", 
+            "children": [
+                {
+                    "doi": "10.1919/ar/gov/dna/www/0078CFF0699CD933ACA33E8FD72874DE657F12B883BC74A902F0A778882CF1C8", 
+                    "children": [
+                        {
+                            "name": "http://www.actaf.co.cu/revistas/revista_au_1-18/rau4/AU4%20AU%20en%20Bulgaria.pdf"
+                        }, 
+                        {
+                            "name": "http://www.medicina-intensiva.cl/~medicina/revistaweb/revistas/2012/27-1-2012/full_2_3.pdf"
+                        }, 
+                        {
+                            "name": "http://dialnet.unirioja.es/descarga/articulo/1111910.pdf"
+                        }, 
+                        {
+                            "name": "http://dspace.uazuay.edu.ec/bitstream/datos/4357/1/10913.pdf"
+                        }, 
+                        {
+                            "name": "http://www.cesm-cv.org/Documentos/AccionSindical/Retribucion%20Rural2003.pdf"
+                        }, 
+                        {
+                            "name": "http://consultas.fonafifo.go.cr/paginas_espanol/noticias/REDD/DOC/consultorias%20y%20otros%20documentos%20de%20interes/Resultados%20de%20PSA%20en%20territorios%20indigenas.pdf"
+                        }
+                    ], 
+                    "key": "0078CFF0699CD933ACA33E8FD72874DE657F12B883BC74A902F0A778882CF1C8", 
+                    "name": "Ley Nacional 25.260"
+                }, 
+                {
+                    "doi": "10.1919/gov/usgs/minerals/1E95E8C90267CDD035E5E92BDE534A644B7BF7CB9A8D0090634C230B0F63B8E8", 
+                    "children": [
+                        {
+                            "name": "https://www.researchgate.net/profile/M_Cancelo/publication/228433549_The_Relationship_between_CO2_and_Sulphur_Emissions_and_Income_An_Alternative_Explanation_to_the_Environmental_Kuznets_Curve_Hypothesis/links/004635277cd2bcac04000000.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1987v3/reference/econatres.minyb1987v3.jpanulas5.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1990v3Afr/reference/econatres.minyb1990v3afr.gmorgan2.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1981v3/reference/econatres.minyb1981v3.bkornhauser3.pdf"
+                        }, 
+                        {
+                            "name": "http://images.library.wisc.edu/EcoNatRes/EFacs2/MineralsYearBk/MinYB1963v4/reference/econatres.minyb1963v4.lnahai8.pdf"
+                        }, 
+                        {
+                            "name": "http://www.imoa.info/download_files/stainless-steel/DeicingSalt.pdf"
+                        }
+                    ], 
+                    "key": "1E95E8C90267CDD035E5E92BDE534A644B7BF7CB9A8D0090634C230B0F63B8E8", 
+                    "name": "SULFUR (Data in thousand metric tons of sulfur unless otherwise noted)"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster9", 
+            "children": [
+                {
+                    "doi": "10.1919/ar/gov/dna/www/03A1C1E37514875E57BFEF62881C14542C9C7FB8F9421B21ACD5EEFC4176F6AE", 
+                    "children": [
+                        {
+                            "name": "http://www.ecopuerto.com/bicentenario/informes/residuos_solidos.pdf"
+                        }, 
+                        {
+                            "name": "http://archivo.cepal.org/pdfs/1994/S9450687.pdf"
+                        }, 
+                        {
+                            "name": "http://www.redisa.uji.es/artSim2008/gestion/A21.pdf"
+                        }, 
+                        {
+                            "name": "http://www.oni.escuelas.edu.ar/2003/ENTRE_RIOS/58/Marco%20legal.pdf"
+                        }, 
+                        {
+                            "name": "http://www.fba.org.ar/programas/biosega/ABCL-Informe2.pdf"
+                        }, 
+                        {
+                            "name": "http://www.unne.edu.ar/unnevieja/Web/cyt/cyt2006/07-Tecnologicas/2006-T-019.pdf"
+                        }, 
+                        {
+                            "name": "http://www.ambiente.gob.ar/archivos/web/UniDA/File/Gestion%20de%20RES%20en%20Matanza%20Riachuelo/Programa%20de%20Gestin%20de%20RES%20en%20la%20CMR%20110308%20sin%20presupuesto.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Liliana_Bertini/publication/234027099_Gestin_de_residuos_generados_en_laboratorios_de_enseanza_de_qumica_en_entidades_universitarias_con_participacin_activa_del_alumnado/links/09e4150e5f18855704000000.pdf"
+                        }, 
+                        {
+                            "name": "http://www.scielo.org.co/pdf/pml/v6n2/v6n2a04.pdf"
+                        }
+                    ], 
+                    "key": "03A1C1E37514875E57BFEF62881C14542C9C7FB8F9421B21ACD5EEFC4176F6AE", 
+                    "name": "LEY N\u00b0 24.051 I. ASPECTOS GENERALES Regula la Gesti\u00f3n de Residuos Peligrosos"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster10", 
+            "children": [
+                {
+                    "doi": "10.1919/edu/dinecollege/www/1E9EBC9D527B6C51B26A0AFD4EC1A9943573DC438C0B1BCCC302E253CA46B1EC", 
+                    "children": [
+                        {
+                            "name": "https://www.lancasterseminary.edu/assets/uploads/20082009_Student_Handbook.pdf"
+                        }, 
+                        {
+                            "name": "http://www.upei.ca/files/home/senateminutesjune14-2013.pdf"
+                        }, 
+                        {
+                            "name": "http://admissions.fullerton.edu/currentstudent/guides/i2014.pdf"
+                        }, 
+                        {
+                            "name": "http://www.uaa.alaska.edu/governance/uab/upload/042806UABAgenda.pdf"
+                        }, 
+                        {
+                            "name": "http://vps8392.inmotionhosting.com/~southa12/images/catalogs/2013-2014/SouthArk_2013-2014_catalog.pdf"
+                        }, 
+                        {
+                            "name": "http://dsps.wi.gov/Documents/Board%20Services/Agenda%20Materials/NHA/2014/20140821NHAOpenSession.pdf"
+                        }, 
+                        {
+                            "name": "https://edit.www.uaa.alaska.edu/governance/uab/upload/042806UABAgenda-3.pdf"
+                        }, 
+                        {
+                            "name": "https://pdfs.semanticscholar.org/4e4a/430804d28caf44d84f22c41db3d4875b6132.pdf"
+                        }, 
+                        {
+                            "name": "https://www.qub.ac.uk/schools/gap/CurrentStudents/EducationalSupport/ProgrammeHandbooks/FileStore/Filetoupload,467196,en.pdf"
+                        }, 
+                        {
+                            "name": "http://gatewayct.edu/SiteMedia/Gateway/Publication%20Archive/2007-2008_Catalog_Final.pdf"
+                        }
+                    ], 
+                    "key": "1E9EBC9D527B6C51B26A0AFD4EC1A9943573DC438C0B1BCCC302E253CA46B1EC", 
+                    "name": "Professor Credits Title Course Sec Days End Date Beg Time End Time Bldg Room Beg Date Comments (if different from sem) Course Schedule Pre-requisites Max Reg ONLINE Art Education"
+                }
+            ]
+        }, 
+        {
+            "name": "cluster11", 
+            "children": [
+                {
+                    "doi": "10.1919/org/nsidc/454234D5C8E210738ADA9D22060B827231DBD51CC3D4AB1E4A9272769BEBD9F9", 
+                    "children": [
+                        {
+                            "name": "http://www.nodc.noaa.gov/General/NODC-About/Outreach/docs/09/Smithsonian2008_Krupnik_pg129-142_Poles.indd.pdf"
+                        }, 
+                        {
+                            "name": "https://www.wmo.int/pages/publications/bulletin_en/archive/56_4_en/documents/forecast.pdf"
+                        }, 
+                        {
+                            "name": "https://www.researchgate.net/profile/Vincent-Henri_Peuch/publication/228698420_THE_CONCORDIASI_PROJECT_OVER_ANTARCTICA_DURING_THE_INTERNATIONAL_POLAR_YEAR_(IPY)/links/0fcfd50b7ce050fbde000000.pdf"
+                        }, 
+                        {
+                            "name": "https://www.pandowae.de/files/TH-HIW/Talks/Sess4/PPP_TJ.pdf"
+                        }, 
+                        {
+                            "name": "http://polarmet.osu.edu/ASR/asr_bromwich_kuo_wrf_2009.pdf"
+                        }, 
+                        {
+                            "name": "http://collaboration.cmc.ec.gc.ca/science/rpn/tawepi/docs/2009-10_Annual_Progress_Report-Zadra_CC088.pdf"
+                        }, 
+                        {
+                            "name": "http://stockage.univ-brest.fr/~oarzel/publis/Fichefet_et_al_CLIC_newsletter2007.pdf"
+                        }, 
+                        {
+                            "name": "https://www.nsf.gov/pubs/2005/nsf0539/nsf0539_14.pdf"
+                        }, 
+                        {
+                            "name": "http://polarmet.osu.edu/ASR/asr_bromwich_kuo_ams_2009.pdf"
+                        }, 
+                        {
+                            "name": "https://www.wmo.int/pages/prog/www/WIGOS_6_EC_PORS/Final_Report2010.pdf"
+                        }, 
+                        {
+                            "name": "http://www.atmos-chem-phys.net/15/5377/2015/acp-15-5377-2015.pdf"
+                        }
+                    ], 
+                    "key": "454234D5C8E210738ADA9D22060B827231DBD51CC3D4AB1E4A9272769BEBD9F9", 
+                    "name": "Advancing Weather, Ice and Environmental Predictions in The Polar Regions: An IPY Legacy"
+                }
+            ]
+        }
+    ]
+}

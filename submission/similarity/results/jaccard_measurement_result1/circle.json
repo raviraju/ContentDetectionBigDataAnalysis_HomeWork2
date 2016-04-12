@@ -1,0 +1,14 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "measurement",
+                    "size": 4344
+                }
+            ],
+            "name": "cluster0"
+        }
+    ],
+    "name": "clusters"
+}
